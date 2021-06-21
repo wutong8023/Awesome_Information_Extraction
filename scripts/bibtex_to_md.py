@@ -81,8 +81,8 @@ fined_taxonomy = {
     "Metrics": ["Accuracy", ]
 }
 
-dir_path = ["./", "venue", "time", "application", "supervision", "approach", "setting",
-            "research_question", "backbone_model", "dataset", "metrics", "author"]
+dir_path = ["./", "type", "time", "application", "supervision", "approach", "setting",
+            "research_question", "backbone_model", "dataset", "metrics", "author", "venue"]
 
 mapping_name = {
     "./": "Summary",
@@ -104,29 +104,30 @@ dir_path_IE4nlp = ["IE4nlp/" + dp for dp in dir_path]
 dir_path_IE4cv = ["IE4cv/" + dp for dp in dir_path]
 sub_dirs = [dir_path_IE4nlp, dir_path_IE4cv, dir_path_IE4all]
 
-# 0 Home
-list_type = [[venue] for venue in fined_taxonomy["Type"] if venue != "Method"]
+#0 Home
+list_type = [[venue] for venue in fined_taxonomy["Conference"]]
+list_type += fined_taxonomy["Journal"]
+list_type.append(fined_taxonomy["Preprint"])
+indexs = [0, -1]
+disc = "This page categorizes the literature by the **Published Venue**"
+for index in indexs:
+    plot_content(index=index, keys=["booktitle", "journal"], dir_path=dir_path, disc=disc, list_type=list_type,
+                 sub_dirs=sub_dirs, mapping_name=mapping_name)
+
+# 1 Resource Type
+list_type = [[typ] for typ in fined_taxonomy["Type"] if typ != "Method"]
 for key in fined_taxonomy["Approach"][::-1]:
     if key in fined_taxonomy.keys():
         list_type.insert(6, fined_taxonomy[key])
     else:
         list_type.insert(6, [key])
-index = 0
+index = 1
 disc = "This page categorizes the literature by the Resource Type"
 generate_md_file(DB=bib_db, list_classif=list_type, key=["keywords"], plot_title_fct=plot_titles,
                  filename="README.md", add_comments=True, dir_path=dir_path[index],
                  discrib=disc + ".", add_hyperlink=True, hyperlinks=dir_path, mapping_name=mapping_name)
 plot_content(index=index, keys=["keywords"], dir_path=dir_path, disc=disc, list_type=list_type, sub_dirs=sub_dirs,
              mapping_name=mapping_name)
-
-# 1 venue
-list_type = [[venue] for venue in fined_taxonomy["Conference"]]
-list_type += fined_taxonomy["Journal"]
-list_type.append(fined_taxonomy["Preprint"])
-index = 1
-disc = "This page categorizes the literature by the **Published Venue**"
-plot_content(index=index, keys=["booktitle", "journal"], dir_path=dir_path, disc=disc, list_type=list_type,
-             sub_dirs=sub_dirs, mapping_name=mapping_name)
 
 # 2 time
 list_type = [[str(year)] for year in range(1980, 2030)][::-1]
