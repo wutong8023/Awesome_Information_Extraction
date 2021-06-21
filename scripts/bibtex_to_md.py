@@ -32,7 +32,7 @@ fined_taxonomy = {
     "Conference": ["ACL", "EMNLP", "NAACL", "COLING", "EACL", "CoNLL", "ICML", "ICLR", "NeurIPS", "AISTATS", "AAAI",
                    "IJCAI", "WWW", "MM", "CVPR", "ICCV", "ECCV", "WACV"],
     
-    "Journal": [["TACL", "Transactions of the Association for Computational Linguistics"],
+    "Journal": [["TACL", "Transactions of the Association for Computational Linguistics", "Trans. Assoc. Comput. Linguistics"],
                 ["TKDE", "IEEE Transactions on Knowledge and Data Engineering", "{IEEE} Trans. Knowl. Data Eng."],
                 ["TNNLS", "IEEE Transactions on Neural Networks and Learning Systems",
                  "{IEEE} Trans. Neural Networks Learn. Syst."],

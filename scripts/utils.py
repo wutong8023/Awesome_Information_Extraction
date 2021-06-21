@@ -48,7 +48,7 @@ def get_bibtex_line(filename, ID):
 def create_bib_link(ID):
     link = bibtex_filename
     start_bib, end_bib = get_bibtex_line(link, ID)
-    link = "https://github.com/wutong8023/Awesome_Information_Extraction/blob/main/" + link
+    link = "https://github.com/wutong8023/Awesome_Information_Extraction/tree/master/" + link
     
     # bibtex file is one folder upon markdown files
     # link = "../blob/master/" + link
@@ -156,12 +156,12 @@ def get_outline(list_classif, count_list, filename, dicrib, add_hyperlink=False)
     str_outline += "## Outline \n"
     
     if add_hyperlink:
-        str_outline += "- [Hyperlink](https://github.com/wutong8023/Awesome_Information_Extraction/blob/main/" + \
+        str_outline += "- [Hyperlink](https://github.com/wutong8023/Awesome_Information_Extraction/tree/master/" + \
                        filename + '#hyperlink)\n'
     
     for i, item in enumerate(list_classif):
         str_outline += "- [" + str(count_list[i]) + "] [" + item[
-            0] + "](https://github.com/wutong8023/Awesome_Information_Extraction/blob/main/" + filename + "#" \
+            0] + "](https://github.com/wutong8023/Awesome_Information_Extraction/tree/master/" + filename + "#" \
                        + item[0].replace(" ", "-").lower() + ')\n'
     
     return str_outline
@@ -170,14 +170,14 @@ def get_outline(list_classif, count_list, filename, dicrib, add_hyperlink=False)
 def get_hyperlink(hyperlinks, mapping_name):
     str_hyperlink = "## Hyperlink \n"
     
-    str_hyperlink += "- [Overview](https://github.com/wutong8023/Awesome_Information_Extraction/blob/main/README.md)\n"
+    str_hyperlink += "- [Overview](https://github.com/wutong8023/Awesome_Information_Extraction/tree/master/README.md)\n"
     for i, item in enumerate(hyperlinks):
         str_hyperlink += "- " + mapping_name[item]
-        str_hyperlink += " of [All](https://github.com/wutong8023/Awesome_Information_Extraction/blob/main/cl4all/" + \
+        str_hyperlink += " of [All](https://github.com/wutong8023/Awesome_Information_Extraction/tree/master/cl4all/" + \
                          item + ')'
-        str_hyperlink += " | [NLP](https://github.com/wutong8023/Awesome_Information_Extraction/blob/main/cl4nlp/" + \
+        str_hyperlink += " | [NLP](https://github.com/wutong8023/Awesome_Information_Extraction/tree/master/cl4nlp/" + \
                          item + ')'
-        str_hyperlink += " | [CV or Robotics](https://github.com/wutong8023/Awesome_Information_Extraction/blob/main" \
+        str_hyperlink += " | [CV or Robotics](https://github.com/wutong8023/Awesome_Information_Extraction/tree/master" \
                          "/cl4cv_robot/" + item + ')\n'
     
     return str_hyperlink
