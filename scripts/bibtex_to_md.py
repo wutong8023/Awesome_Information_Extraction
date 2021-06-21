@@ -20,24 +20,29 @@ def plot_content(index, keys, dir_path, disc, list_type, plot_titles=plot_titles
     generate_md_file(DB=bib_db, list_classif=list_type, key=keys, plot_title_fct=plot_titles,
                      filename="README.md", add_comments=True, dir_path=sub_dirs[1][index],
                      filter_key="keywords", mapping_name=mapping_name,
-                     filter_content=["CV", "Multi-Modal",],
+                     filter_content=["CV", "Multi-Modal", ],
                      discrib=disc + ", filtered by CV area.", add_hyperlink=True,
                      hyperlinks=dir_path)
-    generate_md_file(DB=bib_db, list_classif=list_type, key=keys, plot_title_fct=plot_titles,
-                     filename="README.md", add_comments=True, dir_path=sub_dirs[2][index], mapping_name=mapping_name,
-                     discrib=disc + ".", add_hyperlink=True, hyperlinks=dir_path)
+    for dir_ in [sub_dirs[2][index], "./"]:
+        generate_md_file(DB=bib_db, list_classif=list_type, key=keys, plot_title_fct=plot_titles,
+                         filename="README.md", add_comments=True, dir_path=dir_,
+                         mapping_name=mapping_name,
+                         discrib=disc + ".", add_hyperlink=True, hyperlinks=dir_path)
+        if index != 0:
+            break
 
 
 fined_taxonomy = {
     "Conference": ["ACL", "EMNLP", "NAACL", "COLING", "EACL", "CoNLL", "ICML", "ICLR", "NeurIPS", "AISTATS", "AAAI",
                    "IJCAI", "WWW", "MM", "CVPR", "ICCV", "ECCV", "WACV"],
     
-    "Journal": [["TACL", "Transactions of the Association for Computational Linguistics", "Trans. Assoc. Comput. Linguistics"],
-                ["TKDE", "IEEE Transactions on Knowledge and Data Engineering", "{IEEE} Trans. Knowl. Data Eng."],
-                ["TNNLS", "IEEE Transactions on Neural Networks and Learning Systems",
-                 "{IEEE} Trans. Neural Networks Learn. Syst."],
-                ["IPM", "Information Processing and Managemen", "Inf. Process. Manag."],
-                ["KBS", "Knowledge-BasedSystems", "Knowl. Based Syst."]],
+    "Journal": [
+        ["TACL", "Transactions of the Association for Computational Linguistics", "Trans. Assoc. Comput. Linguistics"],
+        ["TKDE", "IEEE Transactions on Knowledge and Data Engineering", "{IEEE} Trans. Knowl. Data Eng."],
+        ["TNNLS", "IEEE Transactions on Neural Networks and Learning Systems",
+         "{IEEE} Trans. Neural Networks Learn. Syst."],
+        ["IPM", "Information Processing and Managemen", "Inf. Process. Manag."],
+        ["KBS", "Knowledge-BasedSystems", "Knowl. Based Syst."]],
     
     "Preprint": ["arXiv", "CoRR"],
     
@@ -74,8 +79,8 @@ fined_taxonomy = {
     
     # 10: Dataset
     "Dataset": [
-                "Other Dataset"
-                ],
+        "Other Dataset"
+    ],
     
     # 11: Metrics
     "Metrics": ["Accuracy", ]
@@ -104,7 +109,7 @@ dir_path_IE4nlp = ["IE4nlp/" + dp for dp in dir_path]
 dir_path_IE4cv = ["IE4cv/" + dp for dp in dir_path]
 sub_dirs = [dir_path_IE4nlp, dir_path_IE4cv, dir_path_IE4all]
 
-#0 Home
+# 0 Home
 list_type = [[venue] for venue in fined_taxonomy["Conference"]]
 list_type += fined_taxonomy["Journal"]
 list_type.append(fined_taxonomy["Preprint"])
