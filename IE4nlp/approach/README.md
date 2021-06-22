@@ -1,5 +1,5 @@
 # Information Extraction Literature in NLP 
-This repository is maintained by [Tongtong Wu](https://wutong8023.site). Please don't hesitate to send me an email to collaborate or fix some entries (wutong8023 AT gmail.com). The automation script of this repo is adapted from [Automatic_Awesome_Bibliography](https://github.com/TLESORT/Automatic_Awesome_Bibliography).
+This repository is maintained by [Tongtong Wu](https://wutong8023.site). Please don't hesitate to send me an email to collaborate or fix some entries (wutong8023 AT gmail.com). The automation script of this repo is powered by [Auto-Bibfile](https://github.com/wutong8023/Auto-Bibfile.git).
 
 This page categorizes the literature by the **Continual Learning Approach**, filtered by NLP area.
 

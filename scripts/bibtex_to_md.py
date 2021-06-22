@@ -1,7 +1,6 @@
 from utils import generate_md_file
 import bibtexparser
 
-
 file_name = 'bibtex.bib'
 
 # TODO 0: modify the meta-information
@@ -30,8 +29,8 @@ def get_outline(list_classif, count_list, filename, dicrib, add_hyperlink=False)
     # Todo 1: Change to your description
     str_outline += "This repository is maintained by [Tongtong Wu](https://wutong8023.site). " \
                    "Please don't hesitate to send me an email to collaborate or fix some entries (wutong8023 AT gmail.com). " \
-                   "The automation script of this repo is adapted from [Automatic_Awesome_Bibliography]" \
-                   "(https://github.com/TLESORT/Automatic_Awesome_Bibliography).\n\n"
+                   "The automation script of this repo is powered" \
+                   " by [Auto-Bibfile](https://github.com/wutong8023/Auto-Bibfile.git).\n\n"
     str_outline += dicrib + "\n\n"
     
     str_outline += "## Outline \n"
@@ -135,8 +134,8 @@ fined_taxonomy = {
     
     # 10: Dataset
     "Dataset": [
-                "Other Dataset"
-                ],
+        "Other Dataset"
+    ],
     
     # 11: Metrics
     "Metrics": ["Accuracy", "F1"]
