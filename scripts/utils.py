@@ -3,6 +3,8 @@ import bibtexparser
 
 bibtex_filename = "./bibtex.bib"
 
+# Todo: customization
+base_link = "https://github.com/wutong8023/Awesome_Information_Extraction/tree/master/"
 
 def keep_last_and_only(authors_str):
     """
@@ -44,11 +46,10 @@ def get_bibtex_line(filename, ID):
     assert end_line_number > 0
     return start_line_number, end_line_number
 
-
 def create_bib_link(ID):
     link = bibtex_filename
     start_bib, end_bib = get_bibtex_line(link, ID)
-    link = "https://github.com/wutong8023/Awesome_Information_Extraction/tree/master/" + link
+    link = base_link + link
     
     # bibtex file is one folder upon markdown files
     # link = "../blob/master/" + link
@@ -65,11 +66,14 @@ def get_md_entry(DB, entry, add_comments=True):
     :return: markdown string
     """
     md_str = "\n"
-    
+
+    paper_title = entry['title'].replace("{", "")
+    paper_title = paper_title.replace("}", "")
+
     if 'url' in entry.keys():
-        md_str += "- [**" + entry['title'] + "**](" + entry['url'] + ") "
+        md_str += "- [**" + paper_title + "**](" + entry['url'] + ") "
     else:
-        md_str += "- **" + entry['title'] + "**"
+        md_str += "- **" + paper_title + "**"
     
     md_str += ", ("
     
@@ -139,50 +143,6 @@ def get_md(DB, item, key, add_comments, filter_key="", filter_content=None):
     return all_str, len(sorted_tuple_list)
 
 
-def get_outline(list_classif, count_list, filename, dicrib, add_hyperlink=False):
-    if filename.startswith("cl4nlp"):
-        str_outline = "# Information Extraction Literature in NLP \n"
-    elif filename.startswith("cl4cv"):
-        str_outline = "# Information Extraction Literature in CV \n"
-    else:
-        str_outline = "# Information Extraction Literature \n"
-    
-    str_outline += "This repository is maintained by [Tongtong Wu](https://wutong8023.site). " \
-                   "Please don't hesitate to send me an email to collaborate or fix some entries (wutong8023 AT gmail.com). " \
-                   "The automation script of this repo is adapted from [Automatic_Awesome_Bibliography]" \
-                   "(https://github.com/TLESORT/Automatic_Awesome_Bibliography).\n\n"
-    str_outline += dicrib + "\n\n"
-    
-    str_outline += "## Outline \n"
-    
-    if add_hyperlink:
-        str_outline += "- [Hyperlink](https://github.com/wutong8023/Awesome_Information_Extraction/tree/master/" + \
-                       filename + '#hyperlink)\n'
-    
-    for i, item in enumerate(list_classif):
-        str_outline += "- [" + str(count_list[i]) + "] [" + item[
-            0] + "](https://github.com/wutong8023/Awesome_Information_Extraction/tree/master/" + filename + "#" \
-                       + item[0].replace(" ", "-").lower() + ')\n'
-    
-    return str_outline
-
-
-def get_hyperlink(hyperlinks, mapping_name):
-    str_hyperlink = "## Hyperlink \n"
-    
-    str_hyperlink += "- [Overview](https://github.com/wutong8023/Awesome_Information_Extraction/tree/master/README.md)\n"
-    for i, item in enumerate(hyperlinks):
-        str_hyperlink += "- " + mapping_name[item]
-        str_hyperlink += " of [All](https://github.com/wutong8023/Awesome_Information_Extraction/tree/master/cl4all/" + \
-                         item + ')'
-        str_hyperlink += " | [NLP](https://github.com/wutong8023/Awesome_Information_Extraction/tree/master/cl4nlp/" + \
-                         item + ')'
-        str_hyperlink += " | [CV or Robotics](https://github.com/wutong8023/Awesome_Information_Extraction/tree/master" \
-                         "/cl4cv_robot/" + item + ')\n'
-    
-    return str_hyperlink
-
-
 def format_author(author_str: str):
     author_str = author_str.replace(" and\n", " and ")
     author_str = author_str.replace("{-}", " ")
@@ -219,11 +179,12 @@ def get_author_list(DB, filter_key, filter_content, filter_num=1):
                 author_dict[author] = author_dict[author] + 1
             else:
                 author_dict[author] = 1
-    authors = [k for k, v in sorted(author_dict.items(), key=lambda item: item[1]) if v > filter_num][::-1]
+    authors = [k for k, v in sorted(author_dict.items(), key=lambda item: item[1]) if v > filter_num]
     return authors
 
 
-def generate_md_file(DB, list_classif, key, plot_title_fct, filename, dir_path="./", add_comments=True, discrib="",
+def generate_md_file(DB, list_classif, key, plot_title_fct, filename, get_outline, get_hyperlink,
+                     dir_path="./", add_comments=True, discrib="",
                      filter_key="", filter_content=None, add_hyperlink=False, hyperlinks=None, mapping_name=None):
     """
     :param dir_path: dictionary path
