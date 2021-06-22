@@ -5,7 +5,6 @@ This page categorizes the literature by the **Continual Learning Approach**.
 
 ## Outline 
 - [Hyperlink](https://github.com/wutong8023/Awesome_Information_Extraction/tree/master/IE4all/approach/README.md#hyperlink)
-- [1] [Sequence-based Modelling](https://github.com/wutong8023/Awesome_Information_Extraction/tree/master/IE4all/approach/README.md#sequence-based-modelling)
 ## Hyperlink 
 - [Overview](https://github.com/wutong8023/Awesome_Information_Extraction/tree/master/README.md)
 - Summary of [All](https://github.com/wutong8023/Awesome_Information_Extraction/tree/master/IE4all/./) | [NLP](https://github.com/wutong8023/Awesome_Information_Extraction/tree/master/IE4nlp/./) | [CV](https://github.com/wutong8023/Awesome_Information_Extraction/tree/master/IE4cv./)
@@ -21,16 +20,3 @@ This page categorizes the literature by the **Continual Learning Approach**.
 - Metrics of [All](https://github.com/wutong8023/Awesome_Information_Extraction/tree/master/IE4all/metrics) | [NLP](https://github.com/wutong8023/Awesome_Information_Extraction/tree/master/IE4nlp/metrics) | [CV](https://github.com/wutong8023/Awesome_Information_Extraction/tree/master/IE4cvmetrics)
 - Author of [All](https://github.com/wutong8023/Awesome_Information_Extraction/tree/master/IE4all/author) | [NLP](https://github.com/wutong8023/Awesome_Information_Extraction/tree/master/IE4nlp/author) | [CV](https://github.com/wutong8023/Awesome_Information_Extraction/tree/master/IE4cvauthor)
 - Published Venue of [All](https://github.com/wutong8023/Awesome_Information_Extraction/tree/master/IE4all/venue) | [NLP](https://github.com/wutong8023/Awesome_Information_Extraction/tree/master/IE4nlp/venue) | [CV](https://github.com/wutong8023/Awesome_Information_Extraction/tree/master/IE4cvvenue)
-
-## Sequence-based Modelling
-
-- [**DocRED: A Large-Scale Document-Level Relation Extraction Dataset**](https://www.aclweb.org/anthology/P19-1074) , (ACL 2019)<br> by *Yao, Yuan  and
-Ye, Deming  and
-Li, Peng  and
-Han, Xu  and
-Lin, Yankai  and
-Liu, Zhenghao  and
-Liu, Zhiyuan  and
-Huang, Lixin  and
-Zhou, Jie  and
-Sun, Maosong* [[bib]](https://github.com/wutong8023/Awesome_Information_Extraction/tree/master/./bibtex.bib#L1-L18) <br>
