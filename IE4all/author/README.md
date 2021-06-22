@@ -24,6 +24,9 @@ This page categorizes the literature by the **Author**.
 - [2] [Wang Xu](https://github.com/wutong8023/Awesome_Information_Extraction/tree/master/IE4all/author/README.md#wang-xu)
 - [2] [Kehai Chen](https://github.com/wutong8023/Awesome_Information_Extraction/tree/master/IE4all/author/README.md#kehai-chen)
 - [2] [Tiejun Zhao](https://github.com/wutong8023/Awesome_Information_Extraction/tree/master/IE4all/author/README.md#tiejun-zhao)
+- [2] [Shumin Deng](https://github.com/wutong8023/Awesome_Information_Extraction/tree/master/IE4all/author/README.md#shumin-deng)
+- [2] [Ningyu Zhang](https://github.com/wutong8023/Awesome_Information_Extraction/tree/master/IE4all/author/README.md#ningyu-zhang)
+- [2] [Huajun Chen](https://github.com/wutong8023/Awesome_Information_Extraction/tree/master/IE4all/author/README.md#huajun-chen)
 - [3] [Peng Li](https://github.com/wutong8023/Awesome_Information_Extraction/tree/master/IE4all/author/README.md#peng-li)
 - [3] [Yankai Lin](https://github.com/wutong8023/Awesome_Information_Extraction/tree/master/IE4all/author/README.md#yankai-lin)
 - [3] [Baobao Chang](https://github.com/wutong8023/Awesome_Information_Extraction/tree/master/IE4all/author/README.md#baobao-chang)
@@ -142,7 +145,7 @@ Peng Li and
 Heng Ji and
 Minlie Huang and
 Maosong Sun and
-Jie Zhou* [[bib]](https://github.com/wutong8023/Awesome_Information_Extraction/tree/master/./bibtex.bib#L327-L343) <br>
+Jie Zhou* [[bib]](https://github.com/wutong8023/Awesome_Information_Extraction/tree/master/./bibtex.bib#L335-L351) <br>
 
 - [**DocRED: A Large-Scale Document-Level Relation Extraction Dataset**](https://www.aclweb.org/anthology/P19-1074) , (ACL 2019)<br> by *Yao, Yuan  and
 Ye, Deming  and
@@ -166,7 +169,7 @@ Jing Huang* [[bib]](https://github.com/wutong8023/Awesome_Information_Extraction
 - [**Entity and Evidence Guided Relation Extraction for DocRED**](https://arxiv.org/abs/2008.12283) , (CoRR 2020)<br> by *Kevin Huang and
 Guangtao Wang and
 Tengyu Ma and
-Jing Huang* [[bib]](https://github.com/wutong8023/Awesome_Information_Extraction/tree/master/./bibtex.bib#L345-L355) <br>
+Jing Huang* [[bib]](https://github.com/wutong8023/Awesome_Information_Extraction/tree/master/./bibtex.bib#L353-L363) <br>
 
 ## Tengyu Ma
 
@@ -179,7 +182,7 @@ Jing Huang* [[bib]](https://github.com/wutong8023/Awesome_Information_Extraction
 - [**Entity and Evidence Guided Relation Extraction for DocRED**](https://arxiv.org/abs/2008.12283) , (CoRR 2020)<br> by *Kevin Huang and
 Guangtao Wang and
 Tengyu Ma and
-Jing Huang* [[bib]](https://github.com/wutong8023/Awesome_Information_Extraction/tree/master/./bibtex.bib#L345-L355) <br>
+Jing Huang* [[bib]](https://github.com/wutong8023/Awesome_Information_Extraction/tree/master/./bibtex.bib#L353-L363) <br>
 
 ## Jing Huang
 
@@ -192,7 +195,7 @@ Jing Huang* [[bib]](https://github.com/wutong8023/Awesome_Information_Extraction
 - [**Entity and Evidence Guided Relation Extraction for DocRED**](https://arxiv.org/abs/2008.12283) , (CoRR 2020)<br> by *Kevin Huang and
 Guangtao Wang and
 Tengyu Ma and
-Jing Huang* [[bib]](https://github.com/wutong8023/Awesome_Information_Extraction/tree/master/./bibtex.bib#L345-L355) <br>
+Jing Huang* [[bib]](https://github.com/wutong8023/Awesome_Information_Extraction/tree/master/./bibtex.bib#L353-L363) <br>
 
 ## Hengzhu Tang
 
@@ -279,7 +282,7 @@ Shikun Zhang* [[bib]](https://github.com/wutong8023/Awesome_Information_Extracti
 
 ## Shuang Zeng
 
-- [**SIRE: Separate Intra- and Inter-sentential Reasoning for Document-level Relation Extraction**](https://arxiv.org/abs/2106.01709) , (CoRR 2021)<br> by *Shuang Zeng, Yuting Wu and Baobao Chang* [[bib]](https://github.com/wutong8023/Awesome_Information_Extraction/tree/master/./bibtex.bib#L294-L301) <br>
+- [**SIRE: Separate Intra- and Inter-sentential Reasoning for Document-level Relation Extraction**](https://arxiv.org/abs/2106.01709) , (CoRR 2021)<br> by *Shuang Zeng, Yuting Wu and Baobao Chang* [[bib]](https://github.com/wutong8023/Awesome_Information_Extraction/tree/master/./bibtex.bib#L292-L299) <br>
 ``` ACL2021 ``` 
 
 - [**Double Graph Based Reasoning for Document-level Relation Extraction**](https://doi.org/10.18653/v1/2020.emnlp-main.127) , (EMNLP 2020)<br> by *Shuang Zeng and
@@ -289,7 +292,7 @@ Lei Li* [[bib]](https://github.com/wutong8023/Awesome_Information_Extraction/tre
 
 ## Runxin Xu
 
-- [**Document-level Event Extraction via Heterogeneous Graph-based Interaction Model with a Tracker**](https://arxiv.org/abs/2105.14924) , (CoRR 2021)<br> by *Runxin Xu, Tianyu Liu, Lei Li and Baobao Chang* [[bib]](https://github.com/wutong8023/Awesome_Information_Extraction/tree/master/./bibtex.bib#L273-L280) <br>
+- [**Document-level Event Extraction via Heterogeneous Graph-based Interaction Model with a Tracker**](https://arxiv.org/abs/2105.14924) , (CoRR 2021)<br> by *Runxin Xu, Tianyu Liu, Lei Li and Baobao Chang* [[bib]](https://github.com/wutong8023/Awesome_Information_Extraction/tree/master/./bibtex.bib#L271-L278) <br>
 ``` ACL2021 ``` 
 
 - [**Double Graph Based Reasoning for Document-level Relation Extraction**](https://doi.org/10.18653/v1/2020.emnlp-main.127) , (EMNLP 2020)<br> by *Shuang Zeng and
@@ -299,7 +302,7 @@ Lei Li* [[bib]](https://github.com/wutong8023/Awesome_Information_Extraction/tre
 
 ## Lei Li
 
-- [**Document-level Event Extraction via Heterogeneous Graph-based Interaction Model with a Tracker**](https://arxiv.org/abs/2105.14924) , (CoRR 2021)<br> by *Runxin Xu, Tianyu Liu, Lei Li and Baobao Chang* [[bib]](https://github.com/wutong8023/Awesome_Information_Extraction/tree/master/./bibtex.bib#L273-L280) <br>
+- [**Document-level Event Extraction via Heterogeneous Graph-based Interaction Model with a Tracker**](https://arxiv.org/abs/2105.14924) , (CoRR 2021)<br> by *Runxin Xu, Tianyu Liu, Lei Li and Baobao Chang* [[bib]](https://github.com/wutong8023/Awesome_Information_Extraction/tree/master/./bibtex.bib#L271-L278) <br>
 ``` ACL2021 ``` 
 
 - [**Double Graph Based Reasoning for Document-level Relation Extraction**](https://doi.org/10.18653/v1/2020.emnlp-main.127) , (EMNLP 2020)<br> by *Shuang Zeng and
@@ -313,7 +316,7 @@ Lei Li* [[bib]](https://github.com/wutong8023/Awesome_Information_Extraction/tre
 Kehai Chen and
 Tiejun Zhao* [[bib]](https://github.com/wutong8023/Awesome_Information_Extraction/tree/master/./bibtex.bib#L158-L167) <br>
 
-- [**Discriminative Reasoning for Document-level Relation Extraction**](https://arxiv.org/abs/2106.01562) , (CoRR 2021)<br> by *Wang Xu, Kehai Chen and Tiejun Zhao* [[bib]](https://github.com/wutong8023/Awesome_Information_Extraction/tree/master/./bibtex.bib#L283-L291) <br>
+- [**Discriminative Reasoning for Document-level Relation Extraction**](https://arxiv.org/abs/2106.01562) , (CoRR 2021)<br> by *Wang Xu, Kehai Chen and Tiejun Zhao* [[bib]](https://github.com/wutong8023/Awesome_Information_Extraction/tree/master/./bibtex.bib#L281-L289) <br>
 ``` ACL2021 ``` 
 
 ## Kehai Chen
@@ -322,7 +325,7 @@ Tiejun Zhao* [[bib]](https://github.com/wutong8023/Awesome_Information_Extractio
 Kehai Chen and
 Tiejun Zhao* [[bib]](https://github.com/wutong8023/Awesome_Information_Extraction/tree/master/./bibtex.bib#L158-L167) <br>
 
-- [**Discriminative Reasoning for Document-level Relation Extraction**](https://arxiv.org/abs/2106.01562) , (CoRR 2021)<br> by *Wang Xu, Kehai Chen and Tiejun Zhao* [[bib]](https://github.com/wutong8023/Awesome_Information_Extraction/tree/master/./bibtex.bib#L283-L291) <br>
+- [**Discriminative Reasoning for Document-level Relation Extraction**](https://arxiv.org/abs/2106.01562) , (CoRR 2021)<br> by *Wang Xu, Kehai Chen and Tiejun Zhao* [[bib]](https://github.com/wutong8023/Awesome_Information_Extraction/tree/master/./bibtex.bib#L281-L289) <br>
 ``` ACL2021 ``` 
 
 ## Tiejun Zhao
@@ -331,7 +334,43 @@ Tiejun Zhao* [[bib]](https://github.com/wutong8023/Awesome_Information_Extractio
 Kehai Chen and
 Tiejun Zhao* [[bib]](https://github.com/wutong8023/Awesome_Information_Extraction/tree/master/./bibtex.bib#L158-L167) <br>
 
-- [**Discriminative Reasoning for Document-level Relation Extraction**](https://arxiv.org/abs/2106.01562) , (CoRR 2021)<br> by *Wang Xu, Kehai Chen and Tiejun Zhao* [[bib]](https://github.com/wutong8023/Awesome_Information_Extraction/tree/master/./bibtex.bib#L283-L291) <br>
+- [**Discriminative Reasoning for Document-level Relation Extraction**](https://arxiv.org/abs/2106.01562) , (CoRR 2021)<br> by *Wang Xu, Kehai Chen and Tiejun Zhao* [[bib]](https://github.com/wutong8023/Awesome_Information_Extraction/tree/master/./bibtex.bib#L281-L289) <br>
+``` ACL2021 ``` 
+
+## Shumin Deng
+
+- [**MLBiNet: A Cross-Sentence Collective Event Detection Network**](https://arxiv.org/abs/2105.09458) , (CoRR 2021)<br> by *Dongfang Lou and
+Zhilin Liao and
+Shumin Deng and
+Ningyu Zhang and
+Huajun Chen* [[bib]](https://github.com/wutong8023/Awesome_Information_Extraction/tree/master/./bibtex.bib#L256-L267) <br>
+``` ACL2021 ``` 
+
+- [**Document-level Relation Extraction as Semantic Segmentation**](https://arxiv.org/abs/2106.03618) , (CoRR 2021)<br> by *Ningyu Zhang, Xiang Chen, Xin Xie, Shumin Deng, Chuanqi Tan, Mosha Chen, Fei Huang, Luo Si and Huajun Chen* [[bib]](https://github.com/wutong8023/Awesome_Information_Extraction/tree/master/./bibtex.bib#L312-L319) <br>
+``` ACL2021 ``` 
+
+## Ningyu Zhang
+
+- [**MLBiNet: A Cross-Sentence Collective Event Detection Network**](https://arxiv.org/abs/2105.09458) , (CoRR 2021)<br> by *Dongfang Lou and
+Zhilin Liao and
+Shumin Deng and
+Ningyu Zhang and
+Huajun Chen* [[bib]](https://github.com/wutong8023/Awesome_Information_Extraction/tree/master/./bibtex.bib#L256-L267) <br>
+``` ACL2021 ``` 
+
+- [**Document-level Relation Extraction as Semantic Segmentation**](https://arxiv.org/abs/2106.03618) , (CoRR 2021)<br> by *Ningyu Zhang, Xiang Chen, Xin Xie, Shumin Deng, Chuanqi Tan, Mosha Chen, Fei Huang, Luo Si and Huajun Chen* [[bib]](https://github.com/wutong8023/Awesome_Information_Extraction/tree/master/./bibtex.bib#L312-L319) <br>
+``` ACL2021 ``` 
+
+## Huajun Chen
+
+- [**MLBiNet: A Cross-Sentence Collective Event Detection Network**](https://arxiv.org/abs/2105.09458) , (CoRR 2021)<br> by *Dongfang Lou and
+Zhilin Liao and
+Shumin Deng and
+Ningyu Zhang and
+Huajun Chen* [[bib]](https://github.com/wutong8023/Awesome_Information_Extraction/tree/master/./bibtex.bib#L256-L267) <br>
+``` ACL2021 ``` 
+
+- [**Document-level Relation Extraction as Semantic Segmentation**](https://arxiv.org/abs/2106.03618) , (CoRR 2021)<br> by *Ningyu Zhang, Xiang Chen, Xin Xie, Shumin Deng, Chuanqi Tan, Mosha Chen, Fei Huang, Luo Si and Huajun Chen* [[bib]](https://github.com/wutong8023/Awesome_Information_Extraction/tree/master/./bibtex.bib#L312-L319) <br>
 ``` ACL2021 ``` 
 
 ## Peng Li
@@ -353,7 +392,7 @@ Peng Li and
 Heng Ji and
 Minlie Huang and
 Maosong Sun and
-Jie Zhou* [[bib]](https://github.com/wutong8023/Awesome_Information_Extraction/tree/master/./bibtex.bib#L327-L343) <br>
+Jie Zhou* [[bib]](https://github.com/wutong8023/Awesome_Information_Extraction/tree/master/./bibtex.bib#L335-L351) <br>
 
 - [**DocRED: A Large-Scale Document-Level Relation Extraction Dataset**](https://www.aclweb.org/anthology/P19-1074) , (ACL 2019)<br> by *Yao, Yuan  and
 Ye, Deming  and
@@ -385,7 +424,7 @@ Peng Li and
 Heng Ji and
 Minlie Huang and
 Maosong Sun and
-Jie Zhou* [[bib]](https://github.com/wutong8023/Awesome_Information_Extraction/tree/master/./bibtex.bib#L327-L343) <br>
+Jie Zhou* [[bib]](https://github.com/wutong8023/Awesome_Information_Extraction/tree/master/./bibtex.bib#L335-L351) <br>
 
 - [**DocRED: A Large-Scale Document-Level Relation Extraction Dataset**](https://www.aclweb.org/anthology/P19-1074) , (ACL 2019)<br> by *Yao, Yuan  and
 Ye, Deming  and
@@ -400,10 +439,10 @@ Sun, Maosong* [[bib]](https://github.com/wutong8023/Awesome_Information_Extracti
 
 ## Baobao Chang
 
-- [**Document-level Event Extraction via Heterogeneous Graph-based Interaction Model with a Tracker**](https://arxiv.org/abs/2105.14924) , (CoRR 2021)<br> by *Runxin Xu, Tianyu Liu, Lei Li and Baobao Chang* [[bib]](https://github.com/wutong8023/Awesome_Information_Extraction/tree/master/./bibtex.bib#L273-L280) <br>
+- [**Document-level Event Extraction via Heterogeneous Graph-based Interaction Model with a Tracker**](https://arxiv.org/abs/2105.14924) , (CoRR 2021)<br> by *Runxin Xu, Tianyu Liu, Lei Li and Baobao Chang* [[bib]](https://github.com/wutong8023/Awesome_Information_Extraction/tree/master/./bibtex.bib#L271-L278) <br>
 ``` ACL2021 ``` 
 
-- [**SIRE: Separate Intra- and Inter-sentential Reasoning for Document-level Relation Extraction**](https://arxiv.org/abs/2106.01709) , (CoRR 2021)<br> by *Shuang Zeng, Yuting Wu and Baobao Chang* [[bib]](https://github.com/wutong8023/Awesome_Information_Extraction/tree/master/./bibtex.bib#L294-L301) <br>
+- [**SIRE: Separate Intra- and Inter-sentential Reasoning for Document-level Relation Extraction**](https://arxiv.org/abs/2106.01709) , (CoRR 2021)<br> by *Shuang Zeng, Yuting Wu and Baobao Chang* [[bib]](https://github.com/wutong8023/Awesome_Information_Extraction/tree/master/./bibtex.bib#L292-L299) <br>
 ``` ACL2021 ``` 
 
 - [**Double Graph Based Reasoning for Document-level Relation Extraction**](https://doi.org/10.18653/v1/2020.emnlp-main.127) , (EMNLP 2020)<br> by *Shuang Zeng and
@@ -439,7 +478,7 @@ Peng Li and
 Heng Ji and
 Minlie Huang and
 Maosong Sun and
-Jie Zhou* [[bib]](https://github.com/wutong8023/Awesome_Information_Extraction/tree/master/./bibtex.bib#L327-L343) <br>
+Jie Zhou* [[bib]](https://github.com/wutong8023/Awesome_Information_Extraction/tree/master/./bibtex.bib#L335-L351) <br>
 
 - [**DocRED: A Large-Scale Document-Level Relation Extraction Dataset**](https://www.aclweb.org/anthology/P19-1074) , (ACL 2019)<br> by *Yao, Yuan  and
 Ye, Deming  and
@@ -480,7 +519,7 @@ Peng Li and
 Heng Ji and
 Minlie Huang and
 Maosong Sun and
-Jie Zhou* [[bib]](https://github.com/wutong8023/Awesome_Information_Extraction/tree/master/./bibtex.bib#L327-L343) <br>
+Jie Zhou* [[bib]](https://github.com/wutong8023/Awesome_Information_Extraction/tree/master/./bibtex.bib#L335-L351) <br>
 
 - [**DocRED: A Large-Scale Document-Level Relation Extraction Dataset**](https://www.aclweb.org/anthology/P19-1074) , (ACL 2019)<br> by *Yao, Yuan  and
 Ye, Deming  and
