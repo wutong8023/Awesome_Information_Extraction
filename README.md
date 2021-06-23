@@ -235,7 +235,7 @@ Huajun Chen* [[bib]](https://github.com/wutong8023/Awesome_Information_Extractio
 ``` ACL2021 ``` 
 
 - [**Document-level Relation Extraction as Semantic Segmentation**](https://arxiv.org/abs/2106.03618) , (CoRR 2021)<br> by *Ningyu Zhang, Xiang Chen, Xin Xie, Shumin Deng, Chuanqi Tan, Mosha Chen, Fei Huang, Luo Si and Huajun Chen* [[bib]](https://github.com/wutong8023/Awesome_Information_Extraction/tree/master/./bibtex.bib#L385-L392) <br>
-``` ACL2021 ``` 
+``` IJCAI2021 ``` 
 
 - [**ERICA: Improving Entity and Relation Understanding for Pre-trained
 Language Models via Contrastive Learning**](https://arxiv.org/abs/2012.15022) , (CoRR 2020)<br> by *Yujia Qin and
