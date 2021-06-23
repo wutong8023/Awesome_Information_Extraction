@@ -5,7 +5,7 @@ This page categorizes the literature by the **Published Venue**.
 
 ## Outline 
 - [Hyperlink](https://github.com/wutong8023/Awesome_Information_Extraction/tree/master/IE4all/venue/README.md#hyperlink)
-- [7] [ACL](https://github.com/wutong8023/Awesome_Information_Extraction/tree/master/IE4all/venue/README.md#acl)
+- [6] [ACL](https://github.com/wutong8023/Awesome_Information_Extraction/tree/master/IE4all/venue/README.md#acl)
 - [5] [EMNLP](https://github.com/wutong8023/Awesome_Information_Extraction/tree/master/IE4all/venue/README.md#emnlp)
 - [1] [NAACL](https://github.com/wutong8023/Awesome_Information_Extraction/tree/master/IE4all/venue/README.md#naacl)
 - [3] [COLING](https://github.com/wutong8023/Awesome_Information_Extraction/tree/master/IE4all/venue/README.md#coling)
@@ -72,14 +72,6 @@ Liu, Zhiyuan  and
 Huang, Lixin  and
 Zhou, Jie  and
 Sun, Maosong* [[bib]](https://github.com/wutong8023/Awesome_Information_Extraction/tree/master/./bibtex.bib#L75-L91) <br>
-
-## ACL
-
-- [**Cross-A Large-Scale Document-Level RelatSentence N-ary Relation Extraction with Graph LSTMs**](https://transacl.org/ojs/index.php/tacl/article/view/1028) , (TACL 2017)<br> by *Nanyun Peng and
-Hoifung Poon and
-Chris Quirk and
-Kristina Toutanova and
-Wen{-}tau Yih* [[bib]](https://github.com/wutong8023/Awesome_Information_Extraction/tree/master/./bibtex.bib#L299-L311) <br>
 
 ## EMNLP
 
