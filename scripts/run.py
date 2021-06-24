@@ -39,12 +39,14 @@ def get_outline(list_classif, count_list, filename, dicrib, add_hyperlink=False)
     else:
         str_outline = "# " + your_research_topic_full_name + " Literature \n"
     
-    # Todo 1: Change to your description
     str_outline += "This repository is maintained by [{author_info}]({personal_link}). " \
                    "Please don't hesitate to send me an email to collaborate or fix some entries (wutong8023 AT gmail.com). \n" \
                    "The automation script of this repo is powered by " \
-                   "[Auto-Bibfile](https://github.com/wutong8023/Auto-Bibfile.git).\n\n".format(author_info=author_info,
-                                                                                                personal_link=personal_link)
+                   "[Auto-Bibfile](https://github.com/wutong8023/Auto-Bibfile.git).\n\n" \
+                   "You can directly use our bibtex.bib in overleaf with this " \
+                   "[link]({bib_link_overleaf})\n\n" \
+                   "".format(author_info=author_info, personal_link=personal_link, bib_link_overleaf=bib_link_overleaf)
+    
     str_outline += dicrib + "\n\n"
     
     str_outline += "## Outline \n"
