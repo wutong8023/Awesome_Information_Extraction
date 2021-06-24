@@ -1,12 +1,13 @@
 # Information Extraction Literature in CV 
-This repository is maintained by [Tongtong Wu](https://wutong8023.site). Please don't hesitate to send me an email to collaborate or fix some entries (wutong8023 AT gmail.com). The automation script of this repo is powered by [Auto-Bibfile](https://github.com/wutong8023/Auto-Bibfile.git).
+This repository is maintained by [Tongtong Wu](https://wutong8023.site). Please don't hesitate to send me an email to collaborate or fix some entries (wutong8023 AT gmail.com). 
+The automation script of this repo is powered by [Auto-Bibfile](https://github.com/wutong8023/Auto-Bibfile.git).
 
 This page categorizes the literature by the **Learning Paradigm**, filtered by CV area.
 
 ## Outline 
-- [Hyperlink](https://github.com/wutong8023/Awesome_Information_Extraction/tree/master/IE4cv/supervision/README.md#hyperlink)
+- [![](https://img.shields.io/badge/Hyperlink-blue)](https://github.com/wutong8023/Awesome_Information_Extraction/tree/master/IE4cv/supervision/README.md#hyperlink)
 ## Hyperlink 
-- [Overview](https://github.com/wutong8023/Awesome_Information_Extraction/tree/master/README.md)
+- Homepage [Overview](https://github.com/wutong8023/Awesome_Information_Extraction/tree/master/README.md)
 - Summary of [All](https://github.com/wutong8023/Awesome_Information_Extraction/tree/master/IE4all/./) | [NLP](https://github.com/wutong8023/Awesome_Information_Extraction/tree/master/IE4nlp/./) | [CV](https://github.com/wutong8023/Awesome_Information_Extraction/tree/master/IE4cv./)
 - Resource Type of [All](https://github.com/wutong8023/Awesome_Information_Extraction/tree/master/IE4all/type) | [NLP](https://github.com/wutong8023/Awesome_Information_Extraction/tree/master/IE4nlp/type) | [CV](https://github.com/wutong8023/Awesome_Information_Extraction/tree/master/IE4cvtype)
 - Published Time of [All](https://github.com/wutong8023/Awesome_Information_Extraction/tree/master/IE4all/time) | [NLP](https://github.com/wutong8023/Awesome_Information_Extraction/tree/master/IE4nlp/time) | [CV](https://github.com/wutong8023/Awesome_Information_Extraction/tree/master/IE4cvtime)

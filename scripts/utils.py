@@ -1,10 +1,8 @@
 import os
 import bibtexparser
+from config import *
 
 bibtex_filename = "./bibtex.bib"
-
-# Todo: customization
-base_link = "https://github.com/wutong8023/Awesome_Information_Extraction/tree/master/"
 
 def keep_last_and_only(authors_str):
     """
@@ -74,18 +72,27 @@ def get_md_entry(DB, entry, add_comments=True):
         md_str += "- [**" + paper_title + "**](" + entry['url'] + ") "
     else:
         md_str += "- **" + paper_title + "**"
-    
-    md_str += ", ("
+
+    venue = ""
+    year = ""
     
     if "booktitle" in entry.keys():
-        md_str += entry["booktitle"].replace("Proceedings of ", "")
-    
+        venue = entry["booktitle"].replace("Proceedings of ", "")
     if "journal" in entry.keys():
-        md_str += entry["journal"]
+        venue += entry["journal"].replace("{", "").replace("}", "")
     
-    md_str += " "
-    md_str += entry['year'] + ")<br>"
+    venue = venue.replace(" ", "_").replace("-", "_")
+    if "year" in entry.keys():
+        year = entry['year']
     
+    if venue != "" or year != "":
+        tag = "![](https://img.shields.io/badge/{}-{}-red)".format(venue, year)
+        tag = "[{}]({})".format(tag, entry['url'])
+        md_str += ", {}<br>".format(tag)
+    else:
+        md_str += ", <br>"
+
+
     md_str += " by *" + keep_last_and_only(entry['author']) + "*"
     
     md_str += " [[bib]](" + create_bib_link(entry['ID']) + ") "
