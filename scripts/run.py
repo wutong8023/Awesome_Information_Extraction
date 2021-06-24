@@ -32,12 +32,20 @@ def plot_titles(titles):
 
 
 def get_outline(list_classif, count_list, filename, dicrib, add_hyperlink=False):
+    external_link = "[![](https://img.shields.io/badge/Awesome_Continual_Learning-yello)](https://github.com/wutong8023/Awesome_Continual_Learning.git) " \
+                    "[![](https://img.shields.io/badge/Awesome_Few_Shot_learning-green)](https://github.com/wutong8023/Awesome_Few_Shot_Learning.git) " \
+                    "[![](https://img.shields.io/badge/Awesome_Information_Extraction-blue)](https://github.com/wutong8023/Awesome_Information_Extraction.git) " \
+                    "[![](https://img.shields.io/badge/Awesome_Ideas-red)](https://github.com/wutong8023/Awesome_Ideas.git)"
+    
     if filename.startswith("" + your_research_topic + "4nlp"):
-        str_outline = "# " + your_research_topic_full_name + " Literature in NLP \n"
+        str_outline = external_link
+        str_outline += "# " + your_research_topic_full_name + " Literature in NLP \n"
     elif filename.startswith("" + your_research_topic + "4cv"):
-        str_outline = "# " + your_research_topic_full_name + " Literature in CV \n"
+        str_outline = external_link
+        str_outline += "# " + your_research_topic_full_name + " Literature in CV \n"
     else:
-        str_outline = "# " + your_research_topic_full_name + " Literature \n"
+        str_outline = external_link
+        str_outline += "# " + your_research_topic_full_name + " Literature \n"
     
     str_outline += "This repository is maintained by [{author_info}]({personal_link}). " \
                    "Please don't hesitate to send me an email to collaborate or fix some entries (wutong8023 AT gmail.com). \n" \
