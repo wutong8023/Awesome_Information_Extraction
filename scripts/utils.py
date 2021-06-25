@@ -110,8 +110,8 @@ def get_md_entry(DB, entry, add_comments=True):
             md_str += DB.strings[entry['ID'].lower()]
             md_str += '\n```'
     md_str += "</details>"
-    
-    img_link = base_link + "scripts/svg/copy-5.png"
+
+    img_link = os.path.join(base_link, "scripts/svg/copy_icon.png")
     md_str += f'<details><summary><img src={img_link} height="20"></summary>'
     md_str += f"<pre>```{entry['ID']}```"
     
