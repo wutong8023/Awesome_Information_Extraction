@@ -196,7 +196,7 @@ def get_author_list(DB, filter_key, filter_content, filter_num=1):
                 author_dict[author] = author_dict[author] + 1
             else:
                 author_dict[author] = 1
-    authors = [k for k, v in sorted(author_dict.items(), key=lambda item: item[1]) if v > filter_num]
+    authors = [k for k, v in sorted(author_dict.items(), key=lambda item: item[1]) if v > filter_num][::-1]
     return authors
 
 
