@@ -82,14 +82,15 @@ def get_hyperlink(hyperlinks, mapping_name):
     # Note: please check the branch name carefully!
     str_hyperlink += "- Homepage [[Overview]](" + base_link + "README.md)\n"
     for i, item in enumerate(hyperlinks):
-        str_hyperlink += "- " + mapping_name[item]
+        str_hyperlink += "- "
         all_link = "![](https://img.shields.io/badge/ALL-green)"
         nlp_link = "![](https://img.shields.io/badge/NLP-green)"
         cv_link = "![](https://img.shields.io/badge/CV-green)"
         
-        str_hyperlink += " of  [[All]](" + base_link + "" + your_research_topic + "4all/" + item + ')'
+        str_hyperlink += "[[All]](" + base_link + "" + your_research_topic + "4all/" + item + ')'
         str_hyperlink += "  [[NLP]](" + base_link + "" + your_research_topic + "4nlp/" + item + ')'
-        str_hyperlink += "  [[CV]](" + base_link + "" + your_research_topic + "4cv" + item + ')\n'
+        str_hyperlink += "  [[CV]](" + base_link + "" + your_research_topic + "4cv" + item + ') '
+        str_hyperlink += "-- " + mapping_name[item]
     
     return str_hyperlink
 
