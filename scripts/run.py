@@ -78,6 +78,8 @@ def get_outline(list_classif, count_list, filename, dicrib, add_hyperlink=False)
 def get_hyperlink(hyperlinks, mapping_name):
     str_hyperlink = "## Hyperlink \n"
     
+    hyperlinks = sorted(hyperlinks)
+    
     # Todo 2: Change to your own link
     # Note: please check the branch name carefully!
     str_hyperlink += "- [[Overview]](" + base_link + "README.md) -- Homepage\n"
