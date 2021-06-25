@@ -64,15 +64,9 @@ def get_md_entry(DB, entry, add_comments=True):
     :return: markdown string
     """
     md_str = "\n"
-
-    paper_title = entry['title'].replace("{", "")
-    paper_title = paper_title.replace("}", "")
-
-    if 'url' in entry.keys():
-        md_str += "- [**" + paper_title + "**](" + entry['url'] + ") "
-    else:
-        md_str += "- **" + paper_title + "**"
-
+    
+    md_str += "- "
+    
     venue = ""
     year = ""
     
@@ -87,25 +81,41 @@ def get_md_entry(DB, entry, add_comments=True):
     
     if venue != "" or year != "":
         tag = "![](https://img.shields.io/badge/{}-{}-red)".format(venue, year)
+        if "url" not in entry.keys():
+            print(entry["ID"])
         tag = "[{}]({})".format(tag, entry['url'])
-        md_str += ", {}<br>".format(tag)
+        md_str += "{}".format(tag)
     else:
-        md_str += ", <br>"
-
-
+        md_str += ""
+    
+    paper_title = entry['title'].replace("{", "")
+    paper_title = paper_title.replace("}", "")
+    
+    if 'url' in entry.keys():
+        md_str += " [**" + paper_title + "**](" + entry['url'] + ") "
+    else:
+        md_str += " **" + paper_title + "**"
+    
+    md_str += ", <br>"
+    
     md_str += " by *" + keep_last_and_only(entry['author']) + "*"
     
-    md_str += " [[bib]](" + create_bib_link(entry['ID']) + ") "
-    
-    md_str += '<br>\n'
+    md_str += " [[bib]](" + create_bib_link(entry['ID']) + ")<br> "
     
     if add_comments:
         # maybe there is a comment to write
         if entry['ID'].lower() in DB.strings:
             # print("Com : " + entry['ID'])
-            md_str += '``` '
+            md_str += '```'
             md_str += DB.strings[entry['ID'].lower()]
-            md_str += ' ``` \n'
+            md_str += '\n```'
+    md_str += "</details>"
+    
+    img_link = base_link + "scripts/svg/copy-5.png"
+    md_str += f'<details><summary><img src={img_link} height="20"></summary>'
+    md_str += f"<pre>```{entry['ID']}```"
+    
+    # md_str += '<br>\n'
     return md_str
 
 
