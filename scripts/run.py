@@ -80,7 +80,7 @@ def get_hyperlink(hyperlinks, mapping_name):
     
     # Todo 2: Change to your own link
     # Note: please check the branch name carefully!
-    str_hyperlink += "- Homepage [[Overview]](" + base_link + "README.md)\n"
+    str_hyperlink += "- [[Overview]](" + base_link + "README.md) -- Homepage\n"
     for i, item in enumerate(hyperlinks):
         str_hyperlink += "- "
         all_link = "![](https://img.shields.io/badge/ALL-green)"
