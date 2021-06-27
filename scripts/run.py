@@ -40,7 +40,7 @@ def get_outline(list_classif, count_list, filename, dicrib, add_hyperlink=False)
     if filename.startswith("" + your_research_topic + "4nlp"):
         str_outline = external_link
         str_outline += "# " + your_research_topic_full_name + " Literature in NLP \n"
-    elif filename.startswith("" + your_research_topic + "4cv"):
+    elif filename.startswith("" + your_research_topic + "4cv/"):
         str_outline = external_link
         str_outline += "# " + your_research_topic_full_name + " Literature in CV \n"
     else:
@@ -91,7 +91,7 @@ def get_hyperlink(hyperlinks, mapping_name):
         
         str_hyperlink += "[[All]](" + base_link + "" + your_research_topic + "4all/" + item + ')'
         str_hyperlink += "  [[NLP]](" + base_link + "" + your_research_topic + "4nlp/" + item + ')'
-        str_hyperlink += "  [[CV]](" + base_link + "" + your_research_topic + "4cv" + item + ') '
+        str_hyperlink += "  [[CV]](" + base_link + "" + your_research_topic + "4cv/" + item + ') '
         str_hyperlink += "-- " + mapping_name[item] + "\n"
     
     return str_hyperlink
