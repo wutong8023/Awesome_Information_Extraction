@@ -80,7 +80,7 @@ def get_md_entry(DB, entry, add_comments=True):
         year = entry['year']
     
     if venue != "" or year != "":
-        tag = "![](https://img.shields.io/badge/{}-{}-red)".format(venue, year)
+        tag = "![](https://img.shields.io/badge/{}-{}-{})".format(venue, year,color)
         if "url" not in entry.keys():
             print(entry["ID"])
         tag = "[{}]({})".format(tag, entry['url'])

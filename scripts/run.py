@@ -60,13 +60,13 @@ def get_outline(list_classif, count_list, filename, dicrib, add_hyperlink=False)
     str_outline += "## Outline \n"
     
     if add_hyperlink:
-        hyperlink = "![](https://img.shields.io/badge/Hyperlink-blue)"
+        hyperlink = f"![](https://img.shields.io/badge/Hyperlink-{color})"
         link = base_link + filename + '#hyperlink'
         str_outline += "- [" + hyperlink + "](" + link + ')\n'
     
     for i, item in enumerate(list_classif):
-        paper_number = "![](https://img.shields.io/badge/{}-{}-blue)".format(
-            item[0].replace(" ", "_").replace("-", "_"), str(count_list[i]))
+        paper_number = "![](https://img.shields.io/badge/{}-{}-{})".format(
+            item[0].replace(" ", "_").replace("-", "_"), str(count_list[i]), color)
         link = base_link + "" + filename + "#" + item[0].replace(" ", "-").lower()
         paper_number = "[{}]({})".format(paper_number, link)
         
