@@ -31,7 +31,7 @@ fined_taxonomy = {
 
     "Workshop":[
         ["Workshop on Narrative Understanding"],
-    ]
+    ],
     
     "Preprint": ["arXiv", "CoRR"],
     
