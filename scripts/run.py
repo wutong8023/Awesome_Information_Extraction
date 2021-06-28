@@ -148,6 +148,7 @@ sub_dirs = [dir_path_IE4nlp, dir_path_IE4cv, dir_path_IE4all]
 # 0 Home
 list_type = [[venue] for venue in fined_taxonomy["Conference"]]
 list_type += fined_taxonomy["Journal"]
+list_type += fined_taxonomy["Workshop"]
 list_type.append(fined_taxonomy["Preprint"])
 indexs = [0, -1]
 disc = "This page categorizes the literature by the **Published Venue**"

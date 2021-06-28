@@ -28,6 +28,10 @@ fined_taxonomy = {
          "{IEEE} Trans. Neural Networks Learn. Syst."],
         ["IPM", "Information Processing and Managemen", "Inf. Process. Manag."],
         ["KBS", "Knowledge-BasedSystems", "Knowl. Based Syst."]],
+
+    "Workshop":[
+        ["Workshop on Narrative Understanding"],
+    ]
     
     "Preprint": ["arXiv", "CoRR"],
     
