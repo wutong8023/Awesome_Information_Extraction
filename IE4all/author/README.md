@@ -541,7 +541,7 @@ Baobao Chang and
 Lei Li* [[bib]](https://github.com/wutong8023/Awesome_Information_Extraction/blob/master/./bibtex.bib#L813-L823)<br> </details><details><summary><img src=https://github.com/wutong8023/Awesome_Information_Extraction/blob/master/scripts/svg/copy_icon.png height="20"></summary><pre>```ZengXCL20```
 ## Nanyun Peng
 
-- [![](https://img.shields.io/badge/Workshop_on_Narrative_Understanding-2021-blue)](https://www.aclweb.org/anthology/2021.nuse-1.4) [**Document-level Event Extraction with Efficient End-to-end Learning of Cross-event Dependencies**](https://www.aclweb.org/anthology/2021.nuse-1.4) , <br> by *Huang, Kung-Hsiang  and
+- [![](https://img.shields.io/badge/NUSE_NAACL-2021-blue)](https://www.aclweb.org/anthology/2021.nuse-1.4) [**Document-level Event Extraction with Efficient End-to-end Learning of Cross-event Dependencies**](https://www.aclweb.org/anthology/2021.nuse-1.4) , <br> by *Huang, Kung-Hsiang  and
 Peng, Nanyun* [[bib]](https://github.com/wutong8023/Awesome_Information_Extraction/blob/master/./bibtex.bib#L1-L9)<br> </details><details><summary><img src=https://github.com/wutong8023/Awesome_Information_Extraction/blob/master/scripts/svg/copy_icon.png height="20"></summary><pre>```huang-peng-2021-document```
 - [![](https://img.shields.io/badge/EMNLP-2020-blue)](https://www.aclweb.org/anthology/2020.emnlp-main.461) [**Domain Knowledge Empowered Structured Neural Net for End-to-End Event Temporal Relation Extraction**](https://www.aclweb.org/anthology/2020.emnlp-main.461) , <br> by *Han, Rujun  and
 Zhou, Yichao  and

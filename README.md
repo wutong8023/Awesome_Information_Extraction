@@ -20,7 +20,7 @@ This page categorizes the literature by the **Published Venue**.
 - [![](https://img.shields.io/badge/NeurIPS-1-blue)](https://github.com/wutong8023/Awesome_Information_Extraction/blob/master/./README.md#neurips)
 - [![](https://img.shields.io/badge/AAAI-4-blue)](https://github.com/wutong8023/Awesome_Information_Extraction/blob/master/./README.md#aaai)
 - [![](https://img.shields.io/badge/TACL-1-blue)](https://github.com/wutong8023/Awesome_Information_Extraction/blob/master/./README.md#tacl)
-- [![](https://img.shields.io/badge/Workshop_on_Narrative_Understanding-1-blue)](https://github.com/wutong8023/Awesome_Information_Extraction/blob/master/./README.md#workshop-on-narrative-understanding)
+- [![](https://img.shields.io/badge/NUSE_NAACL-1-blue)](https://github.com/wutong8023/Awesome_Information_Extraction/blob/master/./README.md#nuse-naacl)
 - [![](https://img.shields.io/badge/arXiv-10-blue)](https://github.com/wutong8023/Awesome_Information_Extraction/blob/master/./README.md#arxiv)
 ## Hyperlink 
 - [[Overview]](https://github.com/wutong8023/Awesome_Information_Extraction/blob/master/README.md) -- Homepage
@@ -379,9 +379,9 @@ Hoifung Poon and
 Chris Quirk and
 Kristina Toutanova and
 Wen{-}tau Yih* [[bib]](https://github.com/wutong8023/Awesome_Information_Extraction/blob/master/./bibtex.bib#L902-L914)<br> </details><details><summary><img src=https://github.com/wutong8023/Awesome_Information_Extraction/blob/master/scripts/svg/copy_icon.png height="20"></summary><pre>```PengPQTY17```
-## Workshop on Narrative Understanding
+## NUSE-NAACL
 
-- [![](https://img.shields.io/badge/Workshop_on_Narrative_Understanding-2021-blue)](https://www.aclweb.org/anthology/2021.nuse-1.4) [**Document-level Event Extraction with Efficient End-to-end Learning of Cross-event Dependencies**](https://www.aclweb.org/anthology/2021.nuse-1.4) , <br> by *Huang, Kung-Hsiang  and
+- [![](https://img.shields.io/badge/NUSE_NAACL-2021-blue)](https://www.aclweb.org/anthology/2021.nuse-1.4) [**Document-level Event Extraction with Efficient End-to-end Learning of Cross-event Dependencies**](https://www.aclweb.org/anthology/2021.nuse-1.4) , <br> by *Huang, Kung-Hsiang  and
 Peng, Nanyun* [[bib]](https://github.com/wutong8023/Awesome_Information_Extraction/blob/master/./bibtex.bib#L1-L9)<br> </details><details><summary><img src=https://github.com/wutong8023/Awesome_Information_Extraction/blob/master/scripts/svg/copy_icon.png height="20"></summary><pre>```huang-peng-2021-document```
 ## arXiv
 
