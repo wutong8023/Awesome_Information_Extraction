@@ -30,7 +30,7 @@ fined_taxonomy = {
         ["KBS", "Knowledge-BasedSystems", "Knowl. Based Syst."]],
 
     "Workshop":[
-        ["Workshop on Narrative Understanding"],
+        ["NUSE@NAACL"],
     ],
     
     "Preprint": ["arXiv", "CoRR"],
