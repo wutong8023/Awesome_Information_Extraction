@@ -411,11 +411,12 @@ Peng Li and
 Heng Ji and
 Minlie Huang and
 Maosong Sun and
-Jie Zhou* [[bib]](https://github.com/wutong8023/Awesome_Information_Extraction/blob/master/./bibtex.bib#L1014-L1030)<br> </details><details><summary><img src=https://github.com/wutong8023/Awesome_Information_Extraction/blob/master/scripts/svg/copy_icon.png height="20"></summary><pre>```abs-2012-15022```
+Jie Zhou* [[bib]](https://github.com/wutong8023/Awesome_Information_Extraction/blob/master/./bibtex.bib#L1014-L1030)<br> ```ACL 2021
+```</details><details><summary><img src=https://github.com/wutong8023/Awesome_Information_Extraction/blob/master/scripts/svg/copy_icon.png height="20"></summary><pre>```abs-2012-15022```
 - [![](https://img.shields.io/badge/CoRR-2020-blue)](https://arxiv.org/abs/2008.12283) [**Entity and Evidence Guided Relation Extraction for DocRED**](https://arxiv.org/abs/2008.12283) , <br> by *Kevin Huang and
 Guangtao Wang and
 Tengyu Ma and
-Jing Huang* [[bib]](https://github.com/wutong8023/Awesome_Information_Extraction/blob/master/./bibtex.bib#L1032-L1042)<br> </details><details><summary><img src=https://github.com/wutong8023/Awesome_Information_Extraction/blob/master/scripts/svg/copy_icon.png height="20"></summary><pre>```abs-2008-12283```
+Jing Huang* [[bib]](https://github.com/wutong8023/Awesome_Information_Extraction/blob/master/./bibtex.bib#L1033-L1043)<br> </details><details><summary><img src=https://github.com/wutong8023/Awesome_Information_Extraction/blob/master/scripts/svg/copy_icon.png height="20"></summary><pre>```abs-2008-12283```
 - [![](https://img.shields.io/badge/CoRR-2019-blue)](http://arxiv.org/abs/1909.11898) [**Fine-tune Bert for DocRED with Two-step Process**](http://arxiv.org/abs/1909.11898) , <br> by *Hong Wang and
 Christfried Focke and
 Rob Sylvester and
