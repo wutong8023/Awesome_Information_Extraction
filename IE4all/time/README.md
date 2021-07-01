@@ -10,7 +10,7 @@ This page categorizes the literature by the **Last Post**.
 
 ## Outline 
 - [![](https://img.shields.io/badge/Hyperlink-blue)](https://github.com/wutong8023/Awesome_Information_Extraction/blob/master/IE4all/time/README.md#hyperlink)
-- [![](https://img.shields.io/badge/2021-30-blue)](https://github.com/wutong8023/Awesome_Information_Extraction/blob/master/IE4all/time/README.md#2021)
+- [![](https://img.shields.io/badge/2021-31-blue)](https://github.com/wutong8023/Awesome_Information_Extraction/blob/master/IE4all/time/README.md#2021)
 - [![](https://img.shields.io/badge/2020-49-blue)](https://github.com/wutong8023/Awesome_Information_Extraction/blob/master/IE4all/time/README.md#2020)
 - [![](https://img.shields.io/badge/2019-4-blue)](https://github.com/wutong8023/Awesome_Information_Extraction/blob/master/IE4all/time/README.md#2019)
 - [![](https://img.shields.io/badge/2017-1-blue)](https://github.com/wutong8023/Awesome_Information_Extraction/blob/master/IE4all/time/README.md#2017)
@@ -143,6 +143,8 @@ Huajun Chen* [[bib]](https://github.com/wutong8023/Awesome_Information_Extractio
 ```</details><details><summary><img src=https://github.com/wutong8023/Awesome_Information_Extraction/blob/master/scripts/svg/copy_icon.png height="20"></summary><pre>```huang2021sentences```
 - [![](https://img.shields.io/badge/CoRR-2021-blue)](https://arxiv.org/abs/2106.03618) [**Document-level Relation Extraction as Semantic Segmentation**](https://arxiv.org/abs/2106.03618) , <br> by *Ningyu Zhang, Xiang Chen, Xin Xie, Shumin Deng, Chuanqi Tan, Mosha Chen, Fei Huang, Luo Si and Huajun Chen* [[bib]](https://github.com/wutong8023/Awesome_Information_Extraction/blob/master/./bibtex.bib#L988-L995)<br> ```IJCAI2021
 ```</details><details><summary><img src=https://github.com/wutong8023/Awesome_Information_Extraction/blob/master/scripts/svg/copy_icon.png height="20"></summary><pre>```zhang2021documentlevel```
+- [![](https://img.shields.io/badge/CoRR-2021-blue)](https://arxiv.org/abs/2106.09895) [**PRGC: Potential Relation and Global Correspondence Based Joint Relational Triple Extraction**](https://arxiv.org/abs/2106.09895) , <br> by *Hengyi Zheng, Rui Wen, Xi Chen, Yifan Yang, Yunyan Zhang, Ziheng Zhang, Ningyu Zhang, Bin Qin, Ming Xu and Yefeng Zheng* [[bib]](https://github.com/wutong8023/Awesome_Information_Extraction/blob/master/./bibtex.bib#L1055-L1062)<br> ```ACL 2021
+```</details><details><summary><img src=https://github.com/wutong8023/Awesome_Information_Extraction/blob/master/scripts/svg/copy_icon.png height="20"></summary><pre>```zheng2021prgc```
 ## 2020
 
 - [![](https://img.shields.io/badge/ACL-2020-blue)](https://www.aclweb.org/anthology/2020.acl-main.751) [**TXtract: Taxonomy-Aware Knowledge Extraction for Thousands of Product Categories**](https://www.aclweb.org/anthology/2020.acl-main.751) , <br> by *Karamanolakis, Giannis  and

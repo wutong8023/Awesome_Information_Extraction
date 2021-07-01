@@ -21,7 +21,7 @@ This page categorizes the literature by the **Published Venue**.
 - [![](https://img.shields.io/badge/AAAI-4-blue)](https://github.com/wutong8023/Awesome_Information_Extraction/blob/master/IE4all/./README.md#aaai)
 - [![](https://img.shields.io/badge/TACL-1-blue)](https://github.com/wutong8023/Awesome_Information_Extraction/blob/master/IE4all/./README.md#tacl)
 - [![](https://img.shields.io/badge/NUSE_NAACL-1-blue)](https://github.com/wutong8023/Awesome_Information_Extraction/blob/master/IE4all/./README.md#nuse-naacl)
-- [![](https://img.shields.io/badge/arXiv-10-blue)](https://github.com/wutong8023/Awesome_Information_Extraction/blob/master/IE4all/./README.md#arxiv)
+- [![](https://img.shields.io/badge/arXiv-11-blue)](https://github.com/wutong8023/Awesome_Information_Extraction/blob/master/IE4all/./README.md#arxiv)
 ## Hyperlink 
 - [[Overview]](https://github.com/wutong8023/Awesome_Information_Extraction/blob/master/README.md) -- Homepage
 - [[All]](https://github.com/wutong8023/Awesome_Information_Extraction/blob/master/IE4all/./)  [[NLP]](https://github.com/wutong8023/Awesome_Information_Extraction/blob/master/IE4nlp/./)  [[CV]](https://github.com/wutong8023/Awesome_Information_Extraction/blob/master/IE4cv/./) -- Summary
@@ -407,6 +407,8 @@ Huajun Chen* [[bib]](https://github.com/wutong8023/Awesome_Information_Extractio
 ```</details><details><summary><img src=https://github.com/wutong8023/Awesome_Information_Extraction/blob/master/scripts/svg/copy_icon.png height="20"></summary><pre>```huang2021sentences```
 - [![](https://img.shields.io/badge/CoRR-2021-blue)](https://arxiv.org/abs/2106.03618) [**Document-level Relation Extraction as Semantic Segmentation**](https://arxiv.org/abs/2106.03618) , <br> by *Ningyu Zhang, Xiang Chen, Xin Xie, Shumin Deng, Chuanqi Tan, Mosha Chen, Fei Huang, Luo Si and Huajun Chen* [[bib]](https://github.com/wutong8023/Awesome_Information_Extraction/blob/master/./bibtex.bib#L988-L995)<br> ```IJCAI2021
 ```</details><details><summary><img src=https://github.com/wutong8023/Awesome_Information_Extraction/blob/master/scripts/svg/copy_icon.png height="20"></summary><pre>```zhang2021documentlevel```
+- [![](https://img.shields.io/badge/CoRR-2021-blue)](https://arxiv.org/abs/2106.09895) [**PRGC: Potential Relation and Global Correspondence Based Joint Relational Triple Extraction**](https://arxiv.org/abs/2106.09895) , <br> by *Hengyi Zheng, Rui Wen, Xi Chen, Yifan Yang, Yunyan Zhang, Ziheng Zhang, Ningyu Zhang, Bin Qin, Ming Xu and Yefeng Zheng* [[bib]](https://github.com/wutong8023/Awesome_Information_Extraction/blob/master/./bibtex.bib#L1055-L1062)<br> ```ACL 2021
+```</details><details><summary><img src=https://github.com/wutong8023/Awesome_Information_Extraction/blob/master/scripts/svg/copy_icon.png height="20"></summary><pre>```zheng2021prgc```
 - [![](https://img.shields.io/badge/CoRR-2020-blue)](https://arxiv.org/abs/2012.15022) [**ERICA: Improving Entity and Relation Understanding for Pre-trained
 Language Models via Contrastive Learning**](https://arxiv.org/abs/2012.15022) , <br> by *Yujia Qin and
 Yankai Lin and

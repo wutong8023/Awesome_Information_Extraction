@@ -18,6 +18,7 @@ This page categorizes the literature by the **Author**.
 - [![](https://img.shields.io/badge/Heng_Ji-5-blue)](https://github.com/wutong8023/Awesome_Information_Extraction/blob/master/IE4all/author/README.md#heng-ji)
 - [![](https://img.shields.io/badge/Jie_Zhou-4-blue)](https://github.com/wutong8023/Awesome_Information_Extraction/blob/master/IE4all/author/README.md#jie-zhou)
 - [![](https://img.shields.io/badge/Claire_Cardie-4-blue)](https://github.com/wutong8023/Awesome_Information_Extraction/blob/master/IE4all/author/README.md#claire-cardie)
+- [![](https://img.shields.io/badge/Ningyu_Zhang-3-blue)](https://github.com/wutong8023/Awesome_Information_Extraction/blob/master/IE4all/author/README.md#ningyu-zhang)
 - [![](https://img.shields.io/badge/Baobao_Chang-3-blue)](https://github.com/wutong8023/Awesome_Information_Extraction/blob/master/IE4all/author/README.md#baobao-chang)
 - [![](https://img.shields.io/badge/Xinya_Du-3-blue)](https://github.com/wutong8023/Awesome_Information_Extraction/blob/master/IE4all/author/README.md#xinya-du)
 - [![](https://img.shields.io/badge/Yuan_Yao-3-blue)](https://github.com/wutong8023/Awesome_Information_Extraction/blob/master/IE4all/author/README.md#yuan-yao)
@@ -27,7 +28,6 @@ This page categorizes the literature by the **Author**.
 - [![](https://img.shields.io/badge/Lei_Li-3-blue)](https://github.com/wutong8023/Awesome_Information_Extraction/blob/master/IE4all/author/README.md#lei-li)
 - [![](https://img.shields.io/badge/Nanyun_Peng-3-blue)](https://github.com/wutong8023/Awesome_Information_Extraction/blob/master/IE4all/author/README.md#nanyun-peng)
 - [![](https://img.shields.io/badge/Huajun_Chen-2-blue)](https://github.com/wutong8023/Awesome_Information_Extraction/blob/master/IE4all/author/README.md#huajun-chen)
-- [![](https://img.shields.io/badge/Ningyu_Zhang-2-blue)](https://github.com/wutong8023/Awesome_Information_Extraction/blob/master/IE4all/author/README.md#ningyu-zhang)
 - [![](https://img.shields.io/badge/Shumin_Deng-2-blue)](https://github.com/wutong8023/Awesome_Information_Extraction/blob/master/IE4all/author/README.md#shumin-deng)
 - [![](https://img.shields.io/badge/Tiejun_Zhao-2-blue)](https://github.com/wutong8023/Awesome_Information_Extraction/blob/master/IE4all/author/README.md#tiejun-zhao)
 - [![](https://img.shields.io/badge/Kehai_Chen-2-blue)](https://github.com/wutong8023/Awesome_Information_Extraction/blob/master/IE4all/author/README.md#kehai-chen)
@@ -431,6 +431,18 @@ Cardie, Claire* [[bib]](https://github.com/wutong8023/Awesome_Information_Extrac
 - [![](https://img.shields.io/badge/ACL-2020-blue)](https://doi.org/10.18653/v1/2020.acl-main.714) [**Document-Level Event Role Filler Extraction using Multi-Granularity
 Contextualized Encoding**](https://doi.org/10.18653/v1/2020.acl-main.714) , <br> by *Xinya Du and
 Claire Cardie* [[bib]](https://github.com/wutong8023/Awesome_Information_Extraction/blob/master/./bibtex.bib#L629-L638)<br> </details><details><summary><img src=https://github.com/wutong8023/Awesome_Information_Extraction/blob/master/scripts/svg/copy_icon.png height="20"></summary><pre>```DuC20```
+## Ningyu Zhang
+
+- [![](https://img.shields.io/badge/CoRR-2021-blue)](https://arxiv.org/abs/2105.09458) [**MLBiNet: A Cross-Sentence Collective Event Detection Network**](https://arxiv.org/abs/2105.09458) , <br> by *Dongfang Lou and
+Zhilin Liao and
+Shumin Deng and
+Ningyu Zhang and
+Huajun Chen* [[bib]](https://github.com/wutong8023/Awesome_Information_Extraction/blob/master/./bibtex.bib#L932-L943)<br> ```ACL2021
+```</details><details><summary><img src=https://github.com/wutong8023/Awesome_Information_Extraction/blob/master/scripts/svg/copy_icon.png height="20"></summary><pre>```abs-2105-09458```
+- [![](https://img.shields.io/badge/CoRR-2021-blue)](https://arxiv.org/abs/2106.03618) [**Document-level Relation Extraction as Semantic Segmentation**](https://arxiv.org/abs/2106.03618) , <br> by *Ningyu Zhang, Xiang Chen, Xin Xie, Shumin Deng, Chuanqi Tan, Mosha Chen, Fei Huang, Luo Si and Huajun Chen* [[bib]](https://github.com/wutong8023/Awesome_Information_Extraction/blob/master/./bibtex.bib#L988-L995)<br> ```IJCAI2021
+```</details><details><summary><img src=https://github.com/wutong8023/Awesome_Information_Extraction/blob/master/scripts/svg/copy_icon.png height="20"></summary><pre>```zhang2021documentlevel```
+- [![](https://img.shields.io/badge/CoRR-2021-blue)](https://arxiv.org/abs/2106.09895) [**PRGC: Potential Relation and Global Correspondence Based Joint Relational Triple Extraction**](https://arxiv.org/abs/2106.09895) , <br> by *Hengyi Zheng, Rui Wen, Xi Chen, Yifan Yang, Yunyan Zhang, Ziheng Zhang, Ningyu Zhang, Bin Qin, Ming Xu and Yefeng Zheng* [[bib]](https://github.com/wutong8023/Awesome_Information_Extraction/blob/master/./bibtex.bib#L1055-L1062)<br> ```ACL 2021
+```</details><details><summary><img src=https://github.com/wutong8023/Awesome_Information_Extraction/blob/master/scripts/svg/copy_icon.png height="20"></summary><pre>```zheng2021prgc```
 ## Baobao Chang
 
 - [![](https://img.shields.io/badge/CoRR-2021-blue)](https://arxiv.org/abs/2105.14924) [**Document-level Event Extraction via Heterogeneous Graph-based Interaction Model with a Tracker**](https://arxiv.org/abs/2105.14924) , <br> by *Runxin Xu, Tianyu Liu, Lei Li and Baobao Chang* [[bib]](https://github.com/wutong8023/Awesome_Information_Extraction/blob/master/./bibtex.bib#L947-L954)<br> ```ACL2021
@@ -552,16 +564,6 @@ Chris Quirk and
 Kristina Toutanova and
 Wen{-}tau Yih* [[bib]](https://github.com/wutong8023/Awesome_Information_Extraction/blob/master/./bibtex.bib#L902-L914)<br> </details><details><summary><img src=https://github.com/wutong8023/Awesome_Information_Extraction/blob/master/scripts/svg/copy_icon.png height="20"></summary><pre>```PengPQTY17```
 ## Huajun Chen
-
-- [![](https://img.shields.io/badge/CoRR-2021-blue)](https://arxiv.org/abs/2105.09458) [**MLBiNet: A Cross-Sentence Collective Event Detection Network**](https://arxiv.org/abs/2105.09458) , <br> by *Dongfang Lou and
-Zhilin Liao and
-Shumin Deng and
-Ningyu Zhang and
-Huajun Chen* [[bib]](https://github.com/wutong8023/Awesome_Information_Extraction/blob/master/./bibtex.bib#L932-L943)<br> ```ACL2021
-```</details><details><summary><img src=https://github.com/wutong8023/Awesome_Information_Extraction/blob/master/scripts/svg/copy_icon.png height="20"></summary><pre>```abs-2105-09458```
-- [![](https://img.shields.io/badge/CoRR-2021-blue)](https://arxiv.org/abs/2106.03618) [**Document-level Relation Extraction as Semantic Segmentation**](https://arxiv.org/abs/2106.03618) , <br> by *Ningyu Zhang, Xiang Chen, Xin Xie, Shumin Deng, Chuanqi Tan, Mosha Chen, Fei Huang, Luo Si and Huajun Chen* [[bib]](https://github.com/wutong8023/Awesome_Information_Extraction/blob/master/./bibtex.bib#L988-L995)<br> ```IJCAI2021
-```</details><details><summary><img src=https://github.com/wutong8023/Awesome_Information_Extraction/blob/master/scripts/svg/copy_icon.png height="20"></summary><pre>```zhang2021documentlevel```
-## Ningyu Zhang
 
 - [![](https://img.shields.io/badge/CoRR-2021-blue)](https://arxiv.org/abs/2105.09458) [**MLBiNet: A Cross-Sentence Collective Event Detection Network**](https://arxiv.org/abs/2105.09458) , <br> by *Dongfang Lou and
 Zhilin Liao and
