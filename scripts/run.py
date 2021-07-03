@@ -90,7 +90,7 @@ def get_hyperlink(hyperlinks, mapping_name):
 
         str_hyperlink += f"[[NLP]]({base_link + your_research_topic}4nlp/{item})"
         str_hyperlink += f"  [[CV]]({base_link + your_research_topic}4cv/{item})"
-        str_hyperlink += f" -- [{mapping_name[item]}]({base_link + your_research_topic})\n"
+        str_hyperlink += f" -- [{mapping_name[item]}]({base_link + your_research_topic}4all/{item})\n"
     
     return str_hyperlink
 
