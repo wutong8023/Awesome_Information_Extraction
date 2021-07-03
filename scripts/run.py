@@ -81,7 +81,7 @@ def get_hyperlink(hyperlinks, mapping_name):
     hyperlinks = sorted(hyperlinks)
     
     # Note: please check the branch name carefully!
-    str_hyperlink += "- [[Overview]](" + base_link + "README.md) -- Homepage\n"
+    str_hyperlink += f"- [[Overview]]({base_link}README.md) -- [Homepage]({base_link}README.md)\n"
     for i, item in enumerate(hyperlinks):
         str_hyperlink += "- "
         all_link = "![](https://img.shields.io/badge/ALL-green)"
@@ -90,7 +90,7 @@ def get_hyperlink(hyperlinks, mapping_name):
 
         str_hyperlink += f"[[NLP]]({base_link + your_research_topic}4nlp/{item})"
         str_hyperlink += f"  [[CV]]({base_link + your_research_topic}4cv/{item})"
-        str_hyperlink += f"-- [{mapping_name[item]}]({base_link + your_research_topic})\n"
+        str_hyperlink += f" -- [{mapping_name[item]}]({base_link + your_research_topic})\n"
     
     return str_hyperlink
 
