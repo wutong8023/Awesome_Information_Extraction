@@ -80,7 +80,6 @@ def get_hyperlink(hyperlinks, mapping_name):
     
     hyperlinks = sorted(hyperlinks)
     
-    # Todo 2: Change to your own link
     # Note: please check the branch name carefully!
     str_hyperlink += "- [[Overview]](" + base_link + "README.md) -- Homepage\n"
     for i, item in enumerate(hyperlinks):
@@ -88,11 +87,10 @@ def get_hyperlink(hyperlinks, mapping_name):
         all_link = "![](https://img.shields.io/badge/ALL-green)"
         nlp_link = "![](https://img.shields.io/badge/NLP-green)"
         cv_link = "![](https://img.shields.io/badge/CV-green)"
-        
-        str_hyperlink += "[[All]](" + base_link + "" + your_research_topic + "4all/" + item + ')'
-        str_hyperlink += "  [[NLP]](" + base_link + "" + your_research_topic + "4nlp/" + item + ')'
-        str_hyperlink += "  [[CV]](" + base_link + "" + your_research_topic + "4cv/" + item + ') '
-        str_hyperlink += "-- " + mapping_name[item] + "\n"
+
+        str_hyperlink += f"[[NLP]]({base_link + your_research_topic}4nlp/{item})"
+        str_hyperlink += f"  [[CV]]({base_link + your_research_topic}4cv/{item})"
+        str_hyperlink += f"-- [{mapping_name[item]}]({base_link + your_research_topic})\n"
     
     return str_hyperlink
 
