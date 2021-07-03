@@ -120,7 +120,7 @@ def plot_content(index, keys, dir_path, disc, list_type, plot_titles=plot_titles
 # check repetition
 check_repetition()
 
-dir_path = ["./", "type", "time", "application", "supervision", "approach", "setting",
+dir_path = ["./", "contribution", "time", "application", "supervision", "approach", "setting",
             "research_question", "backbone_model", "dataset", "metrics", "author", "venue"]
 
 mapping_name = {
@@ -128,7 +128,7 @@ mapping_name = {
     "venue": "Published Venue",
     "time": "Published Time",
     "application": "Application",
-    "type": "Resource Type",
+    "contribution": "Contribution",
     "supervision": " Learning Paradigm",
     "approach": "Approach",
     "setting": "Setting",
@@ -154,10 +154,10 @@ for index in indexs:
     plot_content(index=index, keys=["booktitle", "journal"], dir_path=dir_path, disc=disc, list_type=list_type,
                  sub_dirs=sub_dirs, mapping_name=mapping_name)
 
-# 1 Resource Type
-list_type = [[typ] for typ in fined_taxonomy["Type"]]
+# 1 Contribution
+list_type = [[typ] for typ in fined_taxonomy["Contribution"]]
 index = 1
-disc = "This page categorizes the literature by the Resource Type"
+disc = "This page categorizes the literature by the Contribution"
 plot_content(index=index, keys=["keywords"], dir_path=dir_path, disc=disc, list_type=list_type, sub_dirs=sub_dirs,
              mapping_name=mapping_name)
 
