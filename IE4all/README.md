@@ -21,7 +21,7 @@ This page categorizes the literature by the **Published Venue**.
 - [![](https://img.shields.io/badge/AAAI-4-blue)](https://github.com/wutong8023/Awesome_Information_Extraction/blob/master/IE4all/./README.md#aaai)
 - [![](https://img.shields.io/badge/TACL-1-blue)](https://github.com/wutong8023/Awesome_Information_Extraction/blob/master/IE4all/./README.md#tacl)
 - [![](https://img.shields.io/badge/NUSE_NAACL-1-blue)](https://github.com/wutong8023/Awesome_Information_Extraction/blob/master/IE4all/./README.md#nuse-naacl)
-- [![](https://img.shields.io/badge/arXiv-11-blue)](https://github.com/wutong8023/Awesome_Information_Extraction/blob/master/IE4all/./README.md#arxiv)
+- [![](https://img.shields.io/badge/arXiv-12-blue)](https://github.com/wutong8023/Awesome_Information_Extraction/blob/master/IE4all/./README.md#arxiv)
 ## Hyperlink 
 - [[Overview]](https://github.com/wutong8023/Awesome_Information_Extraction/blob/master/README.md) -- [Homepage](https://github.com/wutong8023/Awesome_Information_Extraction/blob/master/README.md)
 - [[NLP]](https://github.com/wutong8023/Awesome_Information_Extraction/blob/master/IE4nlp/./)  [[CV]](https://github.com/wutong8023/Awesome_Information_Extraction/blob/master/IE4cv/./) -- [Summary](https://github.com/wutong8023/Awesome_Information_Extraction/blob/master/IE4all/./)
@@ -409,6 +409,8 @@ Huajun Chen* [[bib]](https://github.com/wutong8023/Awesome_Information_Extractio
 ```</details><details><summary><img src=https://github.com/wutong8023/Awesome_Information_Extraction/blob/master/scripts/svg/copy_icon.png height="20"></summary><pre>```zhang2021documentlevel```
 - [![](https://img.shields.io/badge/CoRR-2021-blue)](https://arxiv.org/abs/2106.09895) [**PRGC: Potential Relation and Global Correspondence Based Joint Relational Triple Extraction**](https://arxiv.org/abs/2106.09895) , <br> by *Hengyi Zheng, Rui Wen, Xi Chen, Yifan Yang, Yunyan Zhang, Ziheng Zhang, Ningyu Zhang, Bin Qin, Ming Xu and Yefeng Zheng* [[bib]](https://github.com/wutong8023/Awesome_Information_Extraction/blob/master/./bibtex.bib#L1055-L1062)<br> ```ACL 2021
 ```</details><details><summary><img src=https://github.com/wutong8023/Awesome_Information_Extraction/blob/master/scripts/svg/copy_icon.png height="20"></summary><pre>```zheng2021prgc```
+- [![](https://img.shields.io/badge/CoRR-2021-blue)](https://arxiv.org/abs/2107.04292) [**UniRE: A Unified Label Space for Entity Relation Extraction**](https://arxiv.org/abs/2107.04292) , <br> by *Yijun Wang, Changzhi Sun, Yuanbin Wu, Hao Zhou, Lei Li and Junchi Yan* [[bib]](https://github.com/wutong8023/Awesome_Information_Extraction/blob/master/./bibtex.bib#L1065-L1072)<br> ```ACL 2021
+```</details><details><summary><img src=https://github.com/wutong8023/Awesome_Information_Extraction/blob/master/scripts/svg/copy_icon.png height="20"></summary><pre>```wang2021unire```
 - [![](https://img.shields.io/badge/CoRR-2020-blue)](https://arxiv.org/abs/2012.15022) [**ERICA: Improving Entity and Relation Understanding for Pre-trained
 Language Models via Contrastive Learning**](https://arxiv.org/abs/2012.15022) , <br> by *Yujia Qin and
 Yankai Lin and
