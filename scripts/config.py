@@ -6,7 +6,7 @@ Time: 24-06-2021
 """
 user_id = "wutong8023"  # github id
 author_info = "Tongtong Wu"  # used in introduction
-personal_link = "https://wutong8023.site"  # used in introduction
+personal_link = "https://wutong8023.github.io"  # used in introduction
 repo_name = "Awesome_Information_Extraction"  # repository name
 branch_name = "blob/master/"  # branch name
 your_research_topic = "IE"  # used for dictionary name
