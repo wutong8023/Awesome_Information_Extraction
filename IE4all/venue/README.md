@@ -355,7 +355,7 @@ Taebum Kim and
 U Kang* [[bib]](https://github.com/wutong8023/Awesome_Information_Extraction/blob/master/./bibtex.bib#L606-L616)<br> </details><details><summary><img src=https://github.com/wutong8023/Awesome_Information_Extraction/blob/master/scripts/svg/copy_icon.png height="20"></summary><pre>```YooCKK19```
 ## SIGIR
 
-- [![](https://img.shields.io/badge/SIGIR-2021-blue)](https://doi.org/10.1145/3404835.3463054) [**Graph Learning Regularization and Transfer Learning for Few-Shot Event Detection**](https://doi.org/10.1145/3404835.3463054) , <br> by *Lai, Viet Dac, Nguyen, Minh Van, Nguyen, Thien Huu and Dernoncourt, Franck* [[bib]](https://github.com/wutong8023/Awesome_Information_Extraction/blob/master/./bibtex.bib#L11-L18)<br> </details><details><summary><img src=https://github.com/wutong8023/Awesome_Information_Extraction/blob/master/scripts/svg/copy_icon.png height="20"></summary><pre>```10.1145/3404835.3463054```
+- [![](https://img.shields.io/badge/SIGIR-2021-blue)](https://doi.org/10.1145/3404835.3463054) [**Graph Learning Regularization and Transfer Learning for Few-Shot Event Detection**](https://doi.org/10.1145/3404835.3463054) , <br> by *Lai, Viet Dac, Nguyen, Minh Van, Nguyen, Thien Huu and Dernoncourt, Franck* [[bib]](https://github.com/wutong8023/Awesome_Information_Extraction/blob/master/./bibtex.bib#L11-L18)<br> </details><details><summary><img src=https://github.com/wutong8023/Awesome_Information_Extraction/blob/master/scripts/svg/copy_icon.png height="20"></summary><pre>```3404835.3463054```
 ## AAAI
 
 - [![](https://img.shields.io/badge/AAAI-2021-blue)](https://ojs.aaai.org/index.php/AAAI/article/view/17717) [**Document-Level Relation Extraction with Adaptive Thresholding and
