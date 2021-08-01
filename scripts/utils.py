@@ -100,7 +100,11 @@ def get_md_entry(DB, entry, add_comments=True):
     
     md_str += " by *" + keep_last_and_only(entry['author']) + "*"
     
-    md_str += " [[bib]](" + create_bib_link(entry['ID']) + ")<br> "
+    md_str += " [[bib]](" + create_bib_link(entry['ID']) + ") "
+
+    img_link = os.path.join(base_link, "scripts/svg/google.png")
+    gs_link = "https://scholar.google.com.hk/scholar?q=" + "+".join(paper_title.split())
+    md_str += f'<a href="{gs_link}"><img src={img_link} height="20"></a><br>'
     
     if add_comments:
         # maybe there is a comment to write
