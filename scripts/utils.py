@@ -93,9 +93,9 @@ def get_md_entry(DB, entry, add_comments=True):
     paper_title = paper_title.replace("}", "")
     paper_title = paper_title.strip()
 
-    img_link = os.path.join(base_link, "https://img.shields.io/badge/-0076b0.svg?&logo=google-scholar&logoColor=white")
+    img_link = os.path.join(base_link, 'https://img.shields.io/badge/-0076b0.svg?&logo=google-scholar&logoColor=white')
     gs_link = "https://scholar.google.com.hk/scholar?q=" + "+".join(paper_title.split())
-    md_str += f'<a href="{gs_link}"><img src={img_link} height="18" align="bottom"></a>'
+    md_str += f'<a href="{gs_link}"><img src="{img_link}" height="18" align="bottom"></a>'
     
     
     if 'url' in entry.keys():
