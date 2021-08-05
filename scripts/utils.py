@@ -93,9 +93,9 @@ def get_md_entry(DB, entry, add_comments=True):
     paper_title = paper_title.replace("}", "")
     paper_title = paper_title.strip()
 
-    # img_link = f"https://img.shields.io/badge/-{color}.svg?&logo=google-scholar&logoColor=white"
-    # gs_link = "https://scholar.google.com.hk/scholar?q=" + "+".join(paper_title.split())
-    # md_str += f'<a href="{gs_link}"><img src="{img_link}" height="18" align="bottom"></a>'
+    img_link = f"https://img.shields.io/badge/-{color}.svg?&logo=google-scholar&logoColor=white"
+    gs_link = "https://scholar.google.com.hk/scholar?q=" + "+".join(paper_title.split())
+    md_str += f'<a href="{gs_link}"><img src="{img_link}" height="18" align="bottom"></a>'
     
     
     if 'url' in entry.keys():
@@ -103,10 +103,6 @@ def get_md_entry(DB, entry, add_comments=True):
     else:
         md_str += " **" + paper_title + "**"
     
-
-    img_link = f"https://img.shields.io/badge/-{color}.svg?&logo=google-scholar&logoColor=white"
-    gs_link = "https://scholar.google.com.hk/scholar?q=" + "+".join(paper_title.split())
-    md_str += f'<a href="{gs_link}"><img src="{img_link}" height="18" align="bottom"></a>'
     md_str += ", <br>"
     
     md_str += " by *" + keep_last_and_only(entry['author']) + "*"
