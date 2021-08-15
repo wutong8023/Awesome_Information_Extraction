@@ -11,7 +11,7 @@ This page categorizes the literature by the **Dataset**.
 ## Outline 
 - [![](https://img.shields.io/badge/Hyperlink-blue)](https://github.com/wutong8023/Awesome_Information_Extraction/blob/master/IE4all/dataset/README.md#hyperlink)
 - [![](https://img.shields.io/badge/NYT-1-blue)](https://github.com/wutong8023/Awesome_Information_Extraction/blob/master/IE4all/dataset/README.md#nyt)
-- [![](https://img.shields.io/badge/WebNLG-1-blue)](https://github.com/wutong8023/Awesome_Information_Extraction/blob/master/IE4all/dataset/README.md#webnlg)
+- [![](https://img.shields.io/badge/WebNLG-2-blue)](https://github.com/wutong8023/Awesome_Information_Extraction/blob/master/IE4all/dataset/README.md#webnlg)
 ## Hyperlink 
 - [[Overview]](https://github.com/wutong8023/Awesome_Information_Extraction/blob/master/README.md) -- [Homepage](https://github.com/wutong8023/Awesome_Information_Extraction/blob/master/README.md)
 - [[NLP]](https://github.com/wutong8023/Awesome_Information_Extraction/blob/master/IE4nlp/./)  [[CV]](https://github.com/wutong8023/Awesome_Information_Extraction/blob/master/IE4cv/./) -- [Summary](https://github.com/wutong8023/Awesome_Information_Extraction/blob/master/IE4all/./)
@@ -35,7 +35,13 @@ Limin Yao and
 Andrew McCallum* [[bib]](https://github.com/wutong8023/Awesome_Information_Extraction/blob/master/./bibtex.bib#L11-L24) </details><details><summary><img src=https://github.com/wutong8023/Awesome_Information_Extraction/blob/master/scripts/svg/copy_icon.png height="20" align="bottom"></summary><pre>```RiedelYM10```
 ## WebNLG
 
+- [![](https://img.shields.io/badge/ACL-2018-blue)](https://aclanthology.org/P18-1047/)<a href="https://scholar.google.com.hk/scholar?q=Extracting+Relational+Facts+by+an+End-to-End+Neural+Model+with+Copy+Mechanism"><img src="https://img.shields.io/badge/-blue.svg?&logo=google-scholar&logoColor=white" height="18" align="bottom"></a> [**Extracting Relational Facts by an End-to-End Neural Model with Copy
+Mechanism**](https://aclanthology.org/P18-1047/) , <br> by *Xiangrong Zeng and
+Daojian Zeng and
+Shizhu He and
+Kang Liu and
+Jun Zhao* [[bib]](https://github.com/wutong8023/Awesome_Information_Extraction/blob/master/./bibtex.bib#L26-L42) </details><details><summary><img src=https://github.com/wutong8023/Awesome_Information_Extraction/blob/master/scripts/svg/copy_icon.png height="20" align="bottom"></summary><pre>```LiuZZHZ18```
 - [![](https://img.shields.io/badge/ACL-2017-blue)](https://doi.org/10.18653/v1/P17-1017)<a href="https://scholar.google.com.hk/scholar?q=Creating+Training+Corpora+for+NLG+Micro-Planners"><img src="https://img.shields.io/badge/-blue.svg?&logo=google-scholar&logoColor=white" height="18" align="bottom"></a> [**Creating Training Corpora for NLG Micro-Planners**](https://doi.org/10.18653/v1/P17-1017) , <br> by *Claire Gardent and
 Anastasia Shimorina and
 Shashi Narayan and
-Laura Perez{-}Beltrachini* [[bib]](https://github.com/wutong8023/Awesome_Information_Extraction/blob/master/./bibtex.bib#L26-L40) </details><details><summary><img src=https://github.com/wutong8023/Awesome_Information_Extraction/blob/master/scripts/svg/copy_icon.png height="20" align="bottom"></summary><pre>```GardentSNP17```
+Laura Perez{-}Beltrachini* [[bib]](https://github.com/wutong8023/Awesome_Information_Extraction/blob/master/./bibtex.bib#L44-L58) </details><details><summary><img src=https://github.com/wutong8023/Awesome_Information_Extraction/blob/master/scripts/svg/copy_icon.png height="20" align="bottom"></summary><pre>```GardentSNP17```
