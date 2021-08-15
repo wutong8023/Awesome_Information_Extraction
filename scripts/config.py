@@ -71,7 +71,7 @@ fined_taxonomy = {
     # 10: Dataset
     "Dataset": ["Fewrel", "SimpleQuestion", "Tacred",
                 "FewEvent", 
-                "NYT",
+                "NYT", "WebNLG",
                 "Other Dataset"
                 ],
     

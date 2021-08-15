@@ -11,6 +11,7 @@ This page categorizes the literature by the **Dataset**.
 ## Outline 
 - [![](https://img.shields.io/badge/Hyperlink-blue)](https://github.com/wutong8023/Awesome_Information_Extraction/blob/master/IE4all/dataset/README.md#hyperlink)
 - [![](https://img.shields.io/badge/NYT-1-blue)](https://github.com/wutong8023/Awesome_Information_Extraction/blob/master/IE4all/dataset/README.md#nyt)
+- [![](https://img.shields.io/badge/WebNLG-1-blue)](https://github.com/wutong8023/Awesome_Information_Extraction/blob/master/IE4all/dataset/README.md#webnlg)
 ## Hyperlink 
 - [[Overview]](https://github.com/wutong8023/Awesome_Information_Extraction/blob/master/README.md) -- [Homepage](https://github.com/wutong8023/Awesome_Information_Extraction/blob/master/README.md)
 - [[NLP]](https://github.com/wutong8023/Awesome_Information_Extraction/blob/master/IE4nlp/./)  [[CV]](https://github.com/wutong8023/Awesome_Information_Extraction/blob/master/IE4cv/./) -- [Summary](https://github.com/wutong8023/Awesome_Information_Extraction/blob/master/IE4all/./)
@@ -32,3 +33,9 @@ This page categorizes the literature by the **Dataset**.
 - [![](https://img.shields.io/badge/ECML-2010-blue)](https://doi.org/10.1007/978-3-642-15939-8\_10)<a href="https://scholar.google.com.hk/scholar?q=Modeling+Relations+and+Their+Mentions+without+Labeled+Text"><img src="https://img.shields.io/badge/-blue.svg?&logo=google-scholar&logoColor=white" height="18" align="bottom"></a> [**Modeling Relations and Their Mentions without Labeled Text**](https://doi.org/10.1007/978-3-642-15939-8\_10) , <br> by *Sebastian Riedel and
 Limin Yao and
 Andrew McCallum* [[bib]](https://github.com/wutong8023/Awesome_Information_Extraction/blob/master/./bibtex.bib#L11-L24) </details><details><summary><img src=https://github.com/wutong8023/Awesome_Information_Extraction/blob/master/scripts/svg/copy_icon.png height="20" align="bottom"></summary><pre>```RiedelYM10```
+## WebNLG
+
+- [![](https://img.shields.io/badge/ACL-2017-blue)](https://doi.org/10.18653/v1/P17-1017)<a href="https://scholar.google.com.hk/scholar?q=Creating+Training+Corpora+for+NLG+Micro-Planners"><img src="https://img.shields.io/badge/-blue.svg?&logo=google-scholar&logoColor=white" height="18" align="bottom"></a> [**Creating Training Corpora for NLG Micro-Planners**](https://doi.org/10.18653/v1/P17-1017) , <br> by *Claire Gardent and
+Anastasia Shimorina and
+Shashi Narayan and
+Laura Perez{-}Beltrachini* [[bib]](https://github.com/wutong8023/Awesome_Information_Extraction/blob/master/./bibtex.bib#L26-L40) </details><details><summary><img src=https://github.com/wutong8023/Awesome_Information_Extraction/blob/master/scripts/svg/copy_icon.png height="20" align="bottom"></summary><pre>```GardentSNP17```
