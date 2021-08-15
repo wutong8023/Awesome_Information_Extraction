@@ -18,7 +18,7 @@ base_link = "https://github.com/{user_id}/{repo}/{branch}".format(user_id=user_i
 
 # user customized taxonomy
 fined_taxonomy = {
-    "Conference": ["ACL", "EMNLP", "NAACL", "COLING", "EACL", "CoNLL", "ICML", "ICLR", "NeurIPS", "AISTATS", 
+    "Conference": ["ACL", "EMNLP", "NAACL", "COLING", "EACL", "CoNLL", "ICML", "ICLR", "NeurIPS", "AISTATS", "ECML",
     "SIGIR",
     "AAAI", "IJCAI", 
                    "WWW", "MM", "CVPR", "ICCV", "ECCV", "WACV"],
@@ -38,7 +38,7 @@ fined_taxonomy = {
     "Preprint": ["arXiv", "CoRR"],
     
     # 1: resource type
-    "Contribution": ["Survey", "Important", "New Settings or Metrics", "New Application",
+    "Contribution": ["Survey", "Important", "New Settings, New Metrics", "New Application", "New Dataset"
              "Empirical Study", "Theory", "New Backbone Model", "New Method", "Thesis", "Library", "Workshop",
              "Other Type"],
     # 2: Area
@@ -70,7 +70,8 @@ fined_taxonomy = {
     
     # 10: Dataset
     "Dataset": ["Fewrel", "SimpleQuestion", "Tacred",
-                "FewEvent",
+                "FewEvent", 
+                "NYT",
                 "Other Dataset"
                 ],
     
