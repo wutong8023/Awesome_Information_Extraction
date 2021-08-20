@@ -18,7 +18,7 @@ base_link = "https://github.com/{user_id}/{repo}/{branch}".format(user_id=user_i
 
 # user customized taxonomy
 fined_taxonomy = {
-    "Conference": ["ACL", "EMNLP", "NAACL", "COLING", "EACL", "CoNLL", "ICML", "ICLR", "NeurIPS", "AISTATS", "ECML",
+    "Conference": ["ACL", "EMNLP", "NAACL", "COLING", "EACL", "AACL", "CoNLL", "ICML", "ICLR", "NeurIPS", "AISTATS", "ECML",
     "SIGIR",
     "KDD","ICDM", "CIKM",
     "AAAI", "IJCAI", 
