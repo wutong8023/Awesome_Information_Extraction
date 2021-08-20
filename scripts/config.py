@@ -30,7 +30,8 @@ fined_taxonomy = {
         ["TNNLS", "IEEE Transactions on Neural Networks and Learning Systems",
          "{IEEE} Trans. Neural Networks Learn. Syst."],
         ["IPM", "Information Processing and Managemen", "Inf. Process. Manag."],
-        ["KBS", "Knowledge-BasedSystems", "Knowl. Based Syst."]],
+        ["KBS", "Knowledge-BasedSystems", "Knowl. Based Syst."],
+        ["ACM Comput. Surv.", "ACM Computing Surveys", "{ACM} Comput. Surv."]],
 
     "Workshop":[
         ["NUSE-NAACL"],
