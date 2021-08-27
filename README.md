@@ -28,7 +28,7 @@ This page categorizes the literature by the **Published Venue**.
 - [![](https://img.shields.io/badge/TACL-1-blue)](https://github.com/wutong8023/Awesome_Information_Extraction/blob/master/./README.md#tacl)
 - [![](https://img.shields.io/badge/ACM_Comput._Surv.-1-blue)](https://github.com/wutong8023/Awesome_Information_Extraction/blob/master/./README.md#acm-comput.-surv.)
 - [![](https://img.shields.io/badge/NUSE_NAACL-1-blue)](https://github.com/wutong8023/Awesome_Information_Extraction/blob/master/./README.md#nuse-naacl)
-- [![](https://img.shields.io/badge/arXiv-3-blue)](https://github.com/wutong8023/Awesome_Information_Extraction/blob/master/./README.md#arxiv)
+- [![](https://img.shields.io/badge/arXiv-2-blue)](https://github.com/wutong8023/Awesome_Information_Extraction/blob/master/./README.md#arxiv)
 ## Hyperlink 
 - [[Overview]](https://github.com/wutong8023/Awesome_Information_Extraction/blob/master/README.md) -- [Homepage](https://github.com/wutong8023/Awesome_Information_Extraction/blob/master/README.md)
 - [[NLP]](https://github.com/wutong8023/Awesome_Information_Extraction/blob/master/IE4nlp/./)  [[CV]](https://github.com/wutong8023/Awesome_Information_Extraction/blob/master/IE4cv/./) -- [Summary](https://github.com/wutong8023/Awesome_Information_Extraction/blob/master/IE4all/./)
@@ -292,7 +292,7 @@ Wei Lu* [[bib]](https://github.com/wutong8023/Awesome_Information_Extraction/blo
 Xiang Kong and
 Zhengzhong Liu and
 Xuezhe Ma and
-Eduard H. Hovy* [[bib]](https://github.com/wutong8023/Awesome_Information_Extraction/blob/master/./bibtex.bib#L1615-L1626) </details><details><summary><img src=https://github.com/wutong8023/Awesome_Information_Extraction/blob/master/scripts/svg/copy_icon.png height="20" align="bottom"></summary><pre>```ZhangKLMH20```
+Eduard H. Hovy* [[bib]](https://github.com/wutong8023/Awesome_Information_Extraction/blob/master/./bibtex.bib#L1605-L1616) </details><details><summary><img src=https://github.com/wutong8023/Awesome_Information_Extraction/blob/master/scripts/svg/copy_icon.png height="20" align="bottom"></summary><pre>```ZhangKLMH20```
 - [![](https://img.shields.io/badge/ACL-2019-blue)](https://doi.org/10.18653/v1/p19-1128)<a href="https://scholar.google.com.hk/scholar?q=Graph+Neural+Networks+with+Generated+Parameters+for+Relation+Extraction"><img src="https://img.shields.io/badge/-blue.svg?&logo=google-scholar&logoColor=white" height="18" align="bottom"></a> [**Graph Neural Networks with Generated Parameters for Relation Extraction**](https://doi.org/10.18653/v1/p19-1128) , <br> by *Hao Zhu and
 Yankai Lin and
 Zhiyuan Liu and
@@ -676,14 +676,12 @@ Philippe Cudr{\'{e}}{-}Mauroux* [[bib]](https://github.com/wutong8023/Awesome_In
 Peng, Nanyun* [[bib]](https://github.com/wutong8023/Awesome_Information_Extraction/blob/master/./bibtex.bib#L37-L45) </details><details><summary><img src=https://github.com/wutong8023/Awesome_Information_Extraction/blob/master/scripts/svg/copy_icon.png height="20" align="bottom"></summary><pre>```huang-peng-2021-document```
 ## arXiv
 
-- [![](https://img.shields.io/badge/CoRR-2021-blue)](https://arxiv.org/abs/2106.03618)<a href="https://scholar.google.com.hk/scholar?q=Document-level+Relation+Extraction+as+Semantic+Segmentation"><img src="https://img.shields.io/badge/-blue.svg?&logo=google-scholar&logoColor=white" height="18" align="bottom"></a> [**Document-level Relation Extraction as Semantic Segmentation**](https://arxiv.org/abs/2106.03618) , <br> by *Ningyu Zhang, Xiang Chen, Xin Xie, Shumin Deng, Chuanqi Tan, Mosha Chen, Fei Huang, Luo Si and Huajun Chen* [[bib]](https://github.com/wutong8023/Awesome_Information_Extraction/blob/master/./bibtex.bib#L1592-L1599) ```IJCAI2021
-```</details><details><summary><img src=https://github.com/wutong8023/Awesome_Information_Extraction/blob/master/scripts/svg/copy_icon.png height="20" align="bottom"></summary><pre>```zhang2021documentlevel```
 - [![](https://img.shields.io/badge/CoRR-2020-blue)](https://arxiv.org/abs/2008.12283)<a href="https://scholar.google.com.hk/scholar?q=Entity+and+Evidence+Guided+Relation+Extraction+for+DocRED"><img src="https://img.shields.io/badge/-blue.svg?&logo=google-scholar&logoColor=white" height="18" align="bottom"></a> [**Entity and Evidence Guided Relation Extraction for DocRED**](https://arxiv.org/abs/2008.12283) , <br> by *Kevin Huang and
 Guangtao Wang and
 Tengyu Ma and
-Jing Huang* [[bib]](https://github.com/wutong8023/Awesome_Information_Extraction/blob/master/./bibtex.bib#L1629-L1639) </details><details><summary><img src=https://github.com/wutong8023/Awesome_Information_Extraction/blob/master/scripts/svg/copy_icon.png height="20" align="bottom"></summary><pre>```abs-2008-12283```
+Jing Huang* [[bib]](https://github.com/wutong8023/Awesome_Information_Extraction/blob/master/./bibtex.bib#L1619-L1629) </details><details><summary><img src=https://github.com/wutong8023/Awesome_Information_Extraction/blob/master/scripts/svg/copy_icon.png height="20" align="bottom"></summary><pre>```abs-2008-12283```
 - [![](https://img.shields.io/badge/CoRR-2019-blue)](http://arxiv.org/abs/1909.11898)<a href="https://scholar.google.com.hk/scholar?q=Fine-tune+Bert+for+DocRED+with+Two-step+Process"><img src="https://img.shields.io/badge/-blue.svg?&logo=google-scholar&logoColor=white" height="18" align="bottom"></a> [**Fine-tune Bert for DocRED with Two-step Process**](http://arxiv.org/abs/1909.11898) , <br> by *Hong Wang and
 Christfried Focke and
 Rob Sylvester and
 Nilesh Mishra and
-William Yang Wang* [[bib]](https://github.com/wutong8023/Awesome_Information_Extraction/blob/master/./bibtex.bib#L1602-L1613) </details><details><summary><img src=https://github.com/wutong8023/Awesome_Information_Extraction/blob/master/scripts/svg/copy_icon.png height="20" align="bottom"></summary><pre>```abs-1909-11898```
+William Yang Wang* [[bib]](https://github.com/wutong8023/Awesome_Information_Extraction/blob/master/./bibtex.bib#L1592-L1603) </details><details><summary><img src=https://github.com/wutong8023/Awesome_Information_Extraction/blob/master/scripts/svg/copy_icon.png height="20" align="bottom"></summary><pre>```abs-1909-11898```

@@ -10,7 +10,7 @@ This page categorizes the literature by the **Last Post**.
 
 ## Outline 
 - [![](https://img.shields.io/badge/Hyperlink-blue)](https://github.com/wutong8023/Awesome_Information_Extraction/blob/master/IE4all/time/README.md#hyperlink)
-- [![](https://img.shields.io/badge/2021-57-blue)](https://github.com/wutong8023/Awesome_Information_Extraction/blob/master/IE4all/time/README.md#2021)
+- [![](https://img.shields.io/badge/2021-56-blue)](https://github.com/wutong8023/Awesome_Information_Extraction/blob/master/IE4all/time/README.md#2021)
 - [![](https://img.shields.io/badge/2020-51-blue)](https://github.com/wutong8023/Awesome_Information_Extraction/blob/master/IE4all/time/README.md#2020)
 - [![](https://img.shields.io/badge/2019-10-blue)](https://github.com/wutong8023/Awesome_Information_Extraction/blob/master/IE4all/time/README.md#2019)
 - [![](https://img.shields.io/badge/2018-2-blue)](https://github.com/wutong8023/Awesome_Information_Extraction/blob/master/IE4all/time/README.md#2018)
@@ -304,8 +304,6 @@ Shikun Zhang* [[bib]](https://github.com/wutong8023/Awesome_Information_Extracti
 - [![](https://img.shields.io/badge/AAAI-2021-blue)](https://ojs.aaai.org/index.php/AAAI/article/view/17667)<a href="https://scholar.google.com.hk/scholar?q=Document-Level+Relation+Extraction+with+Reconstruction"><img src="https://img.shields.io/badge/-blue.svg?&logo=google-scholar&logoColor=white" height="18" align="bottom"></a> [**Document-Level Relation Extraction with Reconstruction**](https://ojs.aaai.org/index.php/AAAI/article/view/17667) , <br> by *Wang Xu and
 Kehai Chen and
 Tiejun Zhao* [[bib]](https://github.com/wutong8023/Awesome_Information_Extraction/blob/master/./bibtex.bib#L1498-L1507) </details><details><summary><img src=https://github.com/wutong8023/Awesome_Information_Extraction/blob/master/scripts/svg/copy_icon.png height="20" align="bottom"></summary><pre>```XuCZ21```
-- [![](https://img.shields.io/badge/CoRR-2021-blue)](https://arxiv.org/abs/2106.03618)<a href="https://scholar.google.com.hk/scholar?q=Document-level+Relation+Extraction+as+Semantic+Segmentation"><img src="https://img.shields.io/badge/-blue.svg?&logo=google-scholar&logoColor=white" height="18" align="bottom"></a> [**Document-level Relation Extraction as Semantic Segmentation**](https://arxiv.org/abs/2106.03618) , <br> by *Ningyu Zhang, Xiang Chen, Xin Xie, Shumin Deng, Chuanqi Tan, Mosha Chen, Fei Huang, Luo Si and Huajun Chen* [[bib]](https://github.com/wutong8023/Awesome_Information_Extraction/blob/master/./bibtex.bib#L1592-L1599) ```IJCAI2021
-```</details><details><summary><img src=https://github.com/wutong8023/Awesome_Information_Extraction/blob/master/scripts/svg/copy_icon.png height="20" align="bottom"></summary><pre>```zhang2021documentlevel```
 ## 2020
 
 - [![](https://img.shields.io/badge/AACL-2020-blue)](https://aclanthology.org/2020.aacl-main.75/)<a href="https://scholar.google.com.hk/scholar?q=More+Data,+More+Relations,+More+Context+and+More+Openness:+A+Review+and+Outlook+for+Relation+Extraction"><img src="https://img.shields.io/badge/-blue.svg?&logo=google-scholar&logoColor=white" height="18" align="bottom"></a> [**More Data, More Relations, More Context and More Openness: A Review
@@ -552,11 +550,11 @@ Shikun Zhang* [[bib]](https://github.com/wutong8023/Awesome_Information_Extracti
 Xiang Kong and
 Zhengzhong Liu and
 Xuezhe Ma and
-Eduard H. Hovy* [[bib]](https://github.com/wutong8023/Awesome_Information_Extraction/blob/master/./bibtex.bib#L1615-L1626) </details><details><summary><img src=https://github.com/wutong8023/Awesome_Information_Extraction/blob/master/scripts/svg/copy_icon.png height="20" align="bottom"></summary><pre>```ZhangKLMH20```
+Eduard H. Hovy* [[bib]](https://github.com/wutong8023/Awesome_Information_Extraction/blob/master/./bibtex.bib#L1605-L1616) </details><details><summary><img src=https://github.com/wutong8023/Awesome_Information_Extraction/blob/master/scripts/svg/copy_icon.png height="20" align="bottom"></summary><pre>```ZhangKLMH20```
 - [![](https://img.shields.io/badge/CoRR-2020-blue)](https://arxiv.org/abs/2008.12283)<a href="https://scholar.google.com.hk/scholar?q=Entity+and+Evidence+Guided+Relation+Extraction+for+DocRED"><img src="https://img.shields.io/badge/-blue.svg?&logo=google-scholar&logoColor=white" height="18" align="bottom"></a> [**Entity and Evidence Guided Relation Extraction for DocRED**](https://arxiv.org/abs/2008.12283) , <br> by *Kevin Huang and
 Guangtao Wang and
 Tengyu Ma and
-Jing Huang* [[bib]](https://github.com/wutong8023/Awesome_Information_Extraction/blob/master/./bibtex.bib#L1629-L1639) </details><details><summary><img src=https://github.com/wutong8023/Awesome_Information_Extraction/blob/master/scripts/svg/copy_icon.png height="20" align="bottom"></summary><pre>```abs-2008-12283```
+Jing Huang* [[bib]](https://github.com/wutong8023/Awesome_Information_Extraction/blob/master/./bibtex.bib#L1619-L1629) </details><details><summary><img src=https://github.com/wutong8023/Awesome_Information_Extraction/blob/master/scripts/svg/copy_icon.png height="20" align="bottom"></summary><pre>```abs-2008-12283```
 ## 2019
 
 - [![](https://img.shields.io/badge/ACL-2019-blue)](https://doi.org/10.18653/v1/p19-1128)<a href="https://scholar.google.com.hk/scholar?q=Graph+Neural+Networks+with+Generated+Parameters+for+Relation+Extraction"><img src="https://img.shields.io/badge/-blue.svg?&logo=google-scholar&logoColor=white" height="18" align="bottom"></a> [**Graph Neural Networks with Generated Parameters for Relation Extraction**](https://doi.org/10.18653/v1/p19-1128) , <br> by *Hao Zhu and
@@ -613,7 +611,7 @@ Sophia Ananiadou* [[bib]](https://github.com/wutong8023/Awesome_Information_Extr
 Christfried Focke and
 Rob Sylvester and
 Nilesh Mishra and
-William Yang Wang* [[bib]](https://github.com/wutong8023/Awesome_Information_Extraction/blob/master/./bibtex.bib#L1602-L1613) </details><details><summary><img src=https://github.com/wutong8023/Awesome_Information_Extraction/blob/master/scripts/svg/copy_icon.png height="20" align="bottom"></summary><pre>```abs-1909-11898```
+William Yang Wang* [[bib]](https://github.com/wutong8023/Awesome_Information_Extraction/blob/master/./bibtex.bib#L1592-L1603) </details><details><summary><img src=https://github.com/wutong8023/Awesome_Information_Extraction/blob/master/scripts/svg/copy_icon.png height="20" align="bottom"></summary><pre>```abs-1909-11898```
 ## 2018
 
 - [![](https://img.shields.io/badge/EMNLP-2018-blue)](https://doi.org/10.18653/v1/d18-1514)<a href="https://scholar.google.com.hk/scholar?q=FewRel:+A+Large-Scale+Supervised+Few-shot+Relation+Classification+Dataset+with+State-of-the-Art+Evaluation"><img src="https://img.shields.io/badge/-blue.svg?&logo=google-scholar&logoColor=white" height="18" align="bottom"></a> [**FewRel: A Large-Scale Supervised Few-shot Relation Classification

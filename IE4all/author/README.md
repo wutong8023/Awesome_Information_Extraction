@@ -24,8 +24,6 @@ This page categorizes the literature by the **Author**.
 - [![](https://img.shields.io/badge/Hongyu_Lin-4-blue)](https://github.com/wutong8023/Awesome_Information_Extraction/blob/master/IE4all/author/README.md#hongyu-lin)
 - [![](https://img.shields.io/badge/Lei_Li-4-blue)](https://github.com/wutong8023/Awesome_Information_Extraction/blob/master/IE4all/author/README.md#lei-li)
 - [![](https://img.shields.io/badge/Yuan_Yao-4-blue)](https://github.com/wutong8023/Awesome_Information_Extraction/blob/master/IE4all/author/README.md#yuan-yao)
-- [![](https://img.shields.io/badge/Fei_Huang-4-blue)](https://github.com/wutong8023/Awesome_Information_Extraction/blob/master/IE4all/author/README.md#fei-huang)
-- [![](https://img.shields.io/badge/Ningyu_Zhang-4-blue)](https://github.com/wutong8023/Awesome_Information_Extraction/blob/master/IE4all/author/README.md#ningyu-zhang)
 - [![](https://img.shields.io/badge/Xinya_Du-3-blue)](https://github.com/wutong8023/Awesome_Information_Extraction/blob/master/IE4all/author/README.md#xinya-du)
 - [![](https://img.shields.io/badge/Meng_Liao-3-blue)](https://github.com/wutong8023/Awesome_Information_Extraction/blob/master/IE4all/author/README.md#meng-liao)
 - [![](https://img.shields.io/badge/Jin_Xu-3-blue)](https://github.com/wutong8023/Awesome_Information_Extraction/blob/master/IE4all/author/README.md#jin-xu)
@@ -46,9 +44,8 @@ This page categorizes the literature by the **Author**.
 - [![](https://img.shields.io/badge/Ruobing_Xie-3-blue)](https://github.com/wutong8023/Awesome_Information_Extraction/blob/master/IE4all/author/README.md#ruobing-xie)
 - [![](https://img.shields.io/badge/Nanyun_Peng-3-blue)](https://github.com/wutong8023/Awesome_Information_Extraction/blob/master/IE4all/author/README.md#nanyun-peng)
 - [![](https://img.shields.io/badge/Hao_Zhu-3-blue)](https://github.com/wutong8023/Awesome_Information_Extraction/blob/master/IE4all/author/README.md#hao-zhu)
-- [![](https://img.shields.io/badge/Huajun_Chen-3-blue)](https://github.com/wutong8023/Awesome_Information_Extraction/blob/master/IE4all/author/README.md#huajun-chen)
-- [![](https://img.shields.io/badge/Luo_Si-3-blue)](https://github.com/wutong8023/Awesome_Information_Extraction/blob/master/IE4all/author/README.md#luo-si)
-- [![](https://img.shields.io/badge/Shumin_Deng-3-blue)](https://github.com/wutong8023/Awesome_Information_Extraction/blob/master/IE4all/author/README.md#shumin-deng)
+- [![](https://img.shields.io/badge/Fei_Huang-3-blue)](https://github.com/wutong8023/Awesome_Information_Extraction/blob/master/IE4all/author/README.md#fei-huang)
+- [![](https://img.shields.io/badge/Ningyu_Zhang-3-blue)](https://github.com/wutong8023/Awesome_Information_Extraction/blob/master/IE4all/author/README.md#ningyu-zhang)
 - [![](https://img.shields.io/badge/Shikun_Zhang-2-blue)](https://github.com/wutong8023/Awesome_Information_Extraction/blob/master/IE4all/author/README.md#shikun-zhang)
 - [![](https://img.shields.io/badge/Wei_Ye-2-blue)](https://github.com/wutong8023/Awesome_Information_Extraction/blob/master/IE4all/author/README.md#wei-ye)
 - [![](https://img.shields.io/badge/Bo_Li-2-blue)](https://github.com/wutong8023/Awesome_Information_Extraction/blob/master/IE4all/author/README.md#bo-li)
@@ -96,10 +93,9 @@ This page categorizes the literature by the **Author**.
 - [![](https://img.shields.io/badge/Jun_Zhao-2-blue)](https://github.com/wutong8023/Awesome_Information_Extraction/blob/master/IE4all/author/README.md#jun-zhao)
 - [![](https://img.shields.io/badge/Chaojun_Xiao-2-blue)](https://github.com/wutong8023/Awesome_Information_Extraction/blob/master/IE4all/author/README.md#chaojun-xiao)
 - [![](https://img.shields.io/badge/Hao_Peng-2-blue)](https://github.com/wutong8023/Awesome_Information_Extraction/blob/master/IE4all/author/README.md#hao-peng)
-- [![](https://img.shields.io/badge/Mosha_Chen-2-blue)](https://github.com/wutong8023/Awesome_Information_Extraction/blob/master/IE4all/author/README.md#mosha-chen)
-- [![](https://img.shields.io/badge/Chuanqi_Tan-2-blue)](https://github.com/wutong8023/Awesome_Information_Extraction/blob/master/IE4all/author/README.md#chuanqi-tan)
-- [![](https://img.shields.io/badge/Xin_Xie-2-blue)](https://github.com/wutong8023/Awesome_Information_Extraction/blob/master/IE4all/author/README.md#xin-xie)
-- [![](https://img.shields.io/badge/Xiang_Chen-2-blue)](https://github.com/wutong8023/Awesome_Information_Extraction/blob/master/IE4all/author/README.md#xiang-chen)
+- [![](https://img.shields.io/badge/Huajun_Chen-2-blue)](https://github.com/wutong8023/Awesome_Information_Extraction/blob/master/IE4all/author/README.md#huajun-chen)
+- [![](https://img.shields.io/badge/Luo_Si-2-blue)](https://github.com/wutong8023/Awesome_Information_Extraction/blob/master/IE4all/author/README.md#luo-si)
+- [![](https://img.shields.io/badge/Shumin_Deng-2-blue)](https://github.com/wutong8023/Awesome_Information_Extraction/blob/master/IE4all/author/README.md#shumin-deng)
 ## Hyperlink 
 - [[Overview]](https://github.com/wutong8023/Awesome_Information_Extraction/blob/master/README.md) -- [Homepage](https://github.com/wutong8023/Awesome_Information_Extraction/blob/master/README.md)
 - [[NLP]](https://github.com/wutong8023/Awesome_Information_Extraction/blob/master/IE4nlp/./)  [[CV]](https://github.com/wutong8023/Awesome_Information_Extraction/blob/master/IE4cv/./) -- [Summary](https://github.com/wutong8023/Awesome_Information_Extraction/blob/master/IE4all/./)
@@ -861,47 +857,6 @@ Yuan Yao and
 Zhiyuan Liu and
 Maosong Sun* [[bib]](https://github.com/wutong8023/Awesome_Information_Extraction/blob/master/./bibtex.bib#L122-L136) ```FewRel dataset
 ```</details><details><summary><img src=https://github.com/wutong8023/Awesome_Information_Extraction/blob/master/scripts/svg/copy_icon.png height="20" align="bottom"></summary><pre>```HanZYWYLS18```
-## Fei Huang
-
-- [![](https://img.shields.io/badge/IJCAI-2021-blue)](https://doi.org/10.24963/ijcai.2021/551)<a href="https://scholar.google.com.hk/scholar?q=Document-level+Relation+Extraction+as+Semantic+Segmentation"><img src="https://img.shields.io/badge/-blue.svg?&logo=google-scholar&logoColor=white" height="18" align="bottom"></a> [**Document-level Relation Extraction as Semantic Segmentation**](https://doi.org/10.24963/ijcai.2021/551) , <br> by *Zhang, Ningyu, Chen, Xiang, Xie, Xin, Deng, Shumin, Tan, Chuanqi, Chen, Mosha, Huang, Fei, Si, Luo and Chen, Huajun* [[bib]](https://github.com/wutong8023/Awesome_Information_Extraction/blob/master/./bibtex.bib#L1-L8) </details><details><summary><img src=https://github.com/wutong8023/Awesome_Information_Extraction/blob/master/scripts/svg/copy_icon.png height="20" align="bottom"></summary><pre>```ijcai2021-551```
-- [![](https://img.shields.io/badge/ICLR-2021-blue)](https://openreview.net/forum?id=aCgLmfhIy\_f)<a href="https://scholar.google.com.hk/scholar?q=Prototypical+Representation+Learning+for+Relation+Extraction"><img src="https://img.shields.io/badge/-blue.svg?&logo=google-scholar&logoColor=white" height="18" align="bottom"></a> [**Prototypical Representation Learning for Relation Extraction**](https://openreview.net/forum?id=aCgLmfhIy\_f) , <br> by *Ning Ding and
-Xiaobin Wang and
-Yao Fu and
-Guangwei Xu and
-Rui Wang and
-Pengjun Xie and
-Ying Shen and
-Fei Huang and
-Hai{-}Tao Zheng and
-Rui Zhang* [[bib]](https://github.com/wutong8023/Awesome_Information_Extraction/blob/master/./bibtex.bib#L1282-L1297) </details><details><summary><img src=https://github.com/wutong8023/Awesome_Information_Extraction/blob/master/scripts/svg/copy_icon.png height="20" align="bottom"></summary><pre>```DingWFXWXSHZZ21```
-- [![](https://img.shields.io/badge/CoRR-2021-blue)](https://arxiv.org/abs/2106.03618)<a href="https://scholar.google.com.hk/scholar?q=Document-level+Relation+Extraction+as+Semantic+Segmentation"><img src="https://img.shields.io/badge/-blue.svg?&logo=google-scholar&logoColor=white" height="18" align="bottom"></a> [**Document-level Relation Extraction as Semantic Segmentation**](https://arxiv.org/abs/2106.03618) , <br> by *Ningyu Zhang, Xiang Chen, Xin Xie, Shumin Deng, Chuanqi Tan, Mosha Chen, Fei Huang, Luo Si and Huajun Chen* [[bib]](https://github.com/wutong8023/Awesome_Information_Extraction/blob/master/./bibtex.bib#L1592-L1599) ```IJCAI2021
-```</details><details><summary><img src=https://github.com/wutong8023/Awesome_Information_Extraction/blob/master/scripts/svg/copy_icon.png height="20" align="bottom"></summary><pre>```zhang2021documentlevel```
-- [![](https://img.shields.io/badge/ACL-2020-blue)](https://aclanthology.org/2020.acl-main.713)<a href="https://scholar.google.com.hk/scholar?q=A+Joint+Neural+Model+for+Information+Extraction+with+Global+Features"><img src="https://img.shields.io/badge/-blue.svg?&logo=google-scholar&logoColor=white" height="18" align="bottom"></a> [**A Joint Neural Model for Information Extraction with Global Features**](https://aclanthology.org/2020.acl-main.713) , <br> by *Lin, Ying  and
-Ji, Heng  and
-Huang, Fei  and
-Wu, Lingfei* [[bib]](https://github.com/wutong8023/Awesome_Information_Extraction/blob/master/./bibtex.bib#L291-L301) </details><details><summary><img src=https://github.com/wutong8023/Awesome_Information_Extraction/blob/master/scripts/svg/copy_icon.png height="20" align="bottom"></summary><pre>```lin-etal-2020-joint```
-## Ningyu Zhang
-
-- [![](https://img.shields.io/badge/IJCAI-2021-blue)](https://doi.org/10.24963/ijcai.2021/551)<a href="https://scholar.google.com.hk/scholar?q=Document-level+Relation+Extraction+as+Semantic+Segmentation"><img src="https://img.shields.io/badge/-blue.svg?&logo=google-scholar&logoColor=white" height="18" align="bottom"></a> [**Document-level Relation Extraction as Semantic Segmentation**](https://doi.org/10.24963/ijcai.2021/551) , <br> by *Zhang, Ningyu, Chen, Xiang, Xie, Xin, Deng, Shumin, Tan, Chuanqi, Chen, Mosha, Huang, Fei, Si, Luo and Chen, Huajun* [[bib]](https://github.com/wutong8023/Awesome_Information_Extraction/blob/master/./bibtex.bib#L1-L8) </details><details><summary><img src=https://github.com/wutong8023/Awesome_Information_Extraction/blob/master/scripts/svg/copy_icon.png height="20" align="bottom"></summary><pre>```ijcai2021-551```
-- [![](https://img.shields.io/badge/ACL-2021-blue)](https://aclanthology.org/2021.acl-long.486)<a href="https://scholar.google.com.hk/scholar?q=PRGC:+Potential+Relation+and+Global+Correspondence+Based+Joint+Relational+Triple+Extraction"><img src="https://img.shields.io/badge/-blue.svg?&logo=google-scholar&logoColor=white" height="18" align="bottom"></a> [**PRGC: Potential Relation and Global Correspondence Based Joint Relational Triple Extraction**](https://aclanthology.org/2021.acl-long.486) , <br> by *Zheng, Hengyi  and
-Wen, Rui  and
-Chen, Xi  and
-Yang, Yifan  and
-Zhang, Yunyan  and
-Zhang, Ziheng  and
-Zhang, Ningyu  and
-Qin, Bin  and
-Ming, Xu  and
-Zheng, Yefeng* [[bib]](https://github.com/wutong8023/Awesome_Information_Extraction/blob/master/./bibtex.bib#L512-L528) </details><details><summary><img src=https://github.com/wutong8023/Awesome_Information_Extraction/blob/master/scripts/svg/copy_icon.png height="20" align="bottom"></summary><pre>```zheng-etal-2021-prgc```
-- [![](https://img.shields.io/badge/CoRR-2021-blue)](https://arxiv.org/abs/2106.03618)<a href="https://scholar.google.com.hk/scholar?q=Document-level+Relation+Extraction+as+Semantic+Segmentation"><img src="https://img.shields.io/badge/-blue.svg?&logo=google-scholar&logoColor=white" height="18" align="bottom"></a> [**Document-level Relation Extraction as Semantic Segmentation**](https://arxiv.org/abs/2106.03618) , <br> by *Ningyu Zhang, Xiang Chen, Xin Xie, Shumin Deng, Chuanqi Tan, Mosha Chen, Fei Huang, Luo Si and Huajun Chen* [[bib]](https://github.com/wutong8023/Awesome_Information_Extraction/blob/master/./bibtex.bib#L1592-L1599) ```IJCAI2021
-```</details><details><summary><img src=https://github.com/wutong8023/Awesome_Information_Extraction/blob/master/scripts/svg/copy_icon.png height="20" align="bottom"></summary><pre>```zhang2021documentlevel```
-- [![](https://img.shields.io/badge/COLING-2020-blue)](https://doi.org/10.18653/v1/2020.coling-main.563)<a href="https://scholar.google.com.hk/scholar?q=Bridging+Text+and+Knowledge+with+Multi-Prototype+Embedding+for+Few-Shot+Relational+Triple+Extraction"><img src="https://img.shields.io/badge/-blue.svg?&logo=google-scholar&logoColor=white" height="18" align="bottom"></a> [**Bridging Text and Knowledge with Multi-Prototype Embedding for Few-Shot
-Relational Triple Extraction**](https://doi.org/10.18653/v1/2020.coling-main.563) , <br> by *Haiyang Yu and
-Ningyu Zhang and
-Shumin Deng and
-Hongbin Ye and
-Wei Zhang and
-Huajun Chen* [[bib]](https://github.com/wutong8023/Awesome_Information_Extraction/blob/master/./bibtex.bib#L107-L120) </details><details><summary><img src=https://github.com/wutong8023/Awesome_Information_Extraction/blob/master/scripts/svg/copy_icon.png height="20" align="bottom"></summary><pre>```YuZDYZC20```
 ## Xinya Du
 
 - [![](https://img.shields.io/badge/EACL-2021-blue)](https://www.aclweb.org/anthology/2021.eacl-main.52/)<a href="https://scholar.google.com.hk/scholar?q=GRIT:+Generative+Role-filler+Transformers+for+Document-level+Event+Entity+Extraction"><img src="https://img.shields.io/badge/-blue.svg?&logo=google-scholar&logoColor=white" height="18" align="bottom"></a> [**GRIT: Generative Role-filler Transformers for Document-level Event
@@ -1281,32 +1236,36 @@ Yuan Yao and
 Zhiyuan Liu and
 Maosong Sun* [[bib]](https://github.com/wutong8023/Awesome_Information_Extraction/blob/master/./bibtex.bib#L122-L136) ```FewRel dataset
 ```</details><details><summary><img src=https://github.com/wutong8023/Awesome_Information_Extraction/blob/master/scripts/svg/copy_icon.png height="20" align="bottom"></summary><pre>```HanZYWYLS18```
-## Huajun Chen
+## Fei Huang
 
 - [![](https://img.shields.io/badge/IJCAI-2021-blue)](https://doi.org/10.24963/ijcai.2021/551)<a href="https://scholar.google.com.hk/scholar?q=Document-level+Relation+Extraction+as+Semantic+Segmentation"><img src="https://img.shields.io/badge/-blue.svg?&logo=google-scholar&logoColor=white" height="18" align="bottom"></a> [**Document-level Relation Extraction as Semantic Segmentation**](https://doi.org/10.24963/ijcai.2021/551) , <br> by *Zhang, Ningyu, Chen, Xiang, Xie, Xin, Deng, Shumin, Tan, Chuanqi, Chen, Mosha, Huang, Fei, Si, Luo and Chen, Huajun* [[bib]](https://github.com/wutong8023/Awesome_Information_Extraction/blob/master/./bibtex.bib#L1-L8) </details><details><summary><img src=https://github.com/wutong8023/Awesome_Information_Extraction/blob/master/scripts/svg/copy_icon.png height="20" align="bottom"></summary><pre>```ijcai2021-551```
-- [![](https://img.shields.io/badge/CoRR-2021-blue)](https://arxiv.org/abs/2106.03618)<a href="https://scholar.google.com.hk/scholar?q=Document-level+Relation+Extraction+as+Semantic+Segmentation"><img src="https://img.shields.io/badge/-blue.svg?&logo=google-scholar&logoColor=white" height="18" align="bottom"></a> [**Document-level Relation Extraction as Semantic Segmentation**](https://arxiv.org/abs/2106.03618) , <br> by *Ningyu Zhang, Xiang Chen, Xin Xie, Shumin Deng, Chuanqi Tan, Mosha Chen, Fei Huang, Luo Si and Huajun Chen* [[bib]](https://github.com/wutong8023/Awesome_Information_Extraction/blob/master/./bibtex.bib#L1592-L1599) ```IJCAI2021
-```</details><details><summary><img src=https://github.com/wutong8023/Awesome_Information_Extraction/blob/master/scripts/svg/copy_icon.png height="20" align="bottom"></summary><pre>```zhang2021documentlevel```
-- [![](https://img.shields.io/badge/COLING-2020-blue)](https://doi.org/10.18653/v1/2020.coling-main.563)<a href="https://scholar.google.com.hk/scholar?q=Bridging+Text+and+Knowledge+with+Multi-Prototype+Embedding+for+Few-Shot+Relational+Triple+Extraction"><img src="https://img.shields.io/badge/-blue.svg?&logo=google-scholar&logoColor=white" height="18" align="bottom"></a> [**Bridging Text and Knowledge with Multi-Prototype Embedding for Few-Shot
-Relational Triple Extraction**](https://doi.org/10.18653/v1/2020.coling-main.563) , <br> by *Haiyang Yu and
-Ningyu Zhang and
-Shumin Deng and
-Hongbin Ye and
-Wei Zhang and
-Huajun Chen* [[bib]](https://github.com/wutong8023/Awesome_Information_Extraction/blob/master/./bibtex.bib#L107-L120) </details><details><summary><img src=https://github.com/wutong8023/Awesome_Information_Extraction/blob/master/scripts/svg/copy_icon.png height="20" align="bottom"></summary><pre>```YuZDYZC20```
-## Luo Si
+- [![](https://img.shields.io/badge/ICLR-2021-blue)](https://openreview.net/forum?id=aCgLmfhIy\_f)<a href="https://scholar.google.com.hk/scholar?q=Prototypical+Representation+Learning+for+Relation+Extraction"><img src="https://img.shields.io/badge/-blue.svg?&logo=google-scholar&logoColor=white" height="18" align="bottom"></a> [**Prototypical Representation Learning for Relation Extraction**](https://openreview.net/forum?id=aCgLmfhIy\_f) , <br> by *Ning Ding and
+Xiaobin Wang and
+Yao Fu and
+Guangwei Xu and
+Rui Wang and
+Pengjun Xie and
+Ying Shen and
+Fei Huang and
+Hai{-}Tao Zheng and
+Rui Zhang* [[bib]](https://github.com/wutong8023/Awesome_Information_Extraction/blob/master/./bibtex.bib#L1282-L1297) </details><details><summary><img src=https://github.com/wutong8023/Awesome_Information_Extraction/blob/master/scripts/svg/copy_icon.png height="20" align="bottom"></summary><pre>```DingWFXWXSHZZ21```
+- [![](https://img.shields.io/badge/ACL-2020-blue)](https://aclanthology.org/2020.acl-main.713)<a href="https://scholar.google.com.hk/scholar?q=A+Joint+Neural+Model+for+Information+Extraction+with+Global+Features"><img src="https://img.shields.io/badge/-blue.svg?&logo=google-scholar&logoColor=white" height="18" align="bottom"></a> [**A Joint Neural Model for Information Extraction with Global Features**](https://aclanthology.org/2020.acl-main.713) , <br> by *Lin, Ying  and
+Ji, Heng  and
+Huang, Fei  and
+Wu, Lingfei* [[bib]](https://github.com/wutong8023/Awesome_Information_Extraction/blob/master/./bibtex.bib#L291-L301) </details><details><summary><img src=https://github.com/wutong8023/Awesome_Information_Extraction/blob/master/scripts/svg/copy_icon.png height="20" align="bottom"></summary><pre>```lin-etal-2020-joint```
+## Ningyu Zhang
 
 - [![](https://img.shields.io/badge/IJCAI-2021-blue)](https://doi.org/10.24963/ijcai.2021/551)<a href="https://scholar.google.com.hk/scholar?q=Document-level+Relation+Extraction+as+Semantic+Segmentation"><img src="https://img.shields.io/badge/-blue.svg?&logo=google-scholar&logoColor=white" height="18" align="bottom"></a> [**Document-level Relation Extraction as Semantic Segmentation**](https://doi.org/10.24963/ijcai.2021/551) , <br> by *Zhang, Ningyu, Chen, Xiang, Xie, Xin, Deng, Shumin, Tan, Chuanqi, Chen, Mosha, Huang, Fei, Si, Luo and Chen, Huajun* [[bib]](https://github.com/wutong8023/Awesome_Information_Extraction/blob/master/./bibtex.bib#L1-L8) </details><details><summary><img src=https://github.com/wutong8023/Awesome_Information_Extraction/blob/master/scripts/svg/copy_icon.png height="20" align="bottom"></summary><pre>```ijcai2021-551```
-- [![](https://img.shields.io/badge/ACL-2021-blue)](https://aclanthology.org/2021.acl-long.496)<a href="https://scholar.google.com.hk/scholar?q=Argument+Pair+Extraction+via+Attention-guided+Multi-Layer+Multi-Cross+Encoding"><img src="https://img.shields.io/badge/-blue.svg?&logo=google-scholar&logoColor=white" height="18" align="bottom"></a> [**Argument Pair Extraction via Attention-guided Multi-Layer Multi-Cross Encoding**](https://aclanthology.org/2021.acl-long.496) , <br> by *Cheng, Liying  and
-Wu, Tianyu  and
-Bing, Lidong  and
-Si, Luo* [[bib]](https://github.com/wutong8023/Awesome_Information_Extraction/blob/master/./bibtex.bib#L560-L572) </details><details><summary><img src=https://github.com/wutong8023/Awesome_Information_Extraction/blob/master/scripts/svg/copy_icon.png height="20" align="bottom"></summary><pre>```cheng-etal-2021-argument```
-- [![](https://img.shields.io/badge/CoRR-2021-blue)](https://arxiv.org/abs/2106.03618)<a href="https://scholar.google.com.hk/scholar?q=Document-level+Relation+Extraction+as+Semantic+Segmentation"><img src="https://img.shields.io/badge/-blue.svg?&logo=google-scholar&logoColor=white" height="18" align="bottom"></a> [**Document-level Relation Extraction as Semantic Segmentation**](https://arxiv.org/abs/2106.03618) , <br> by *Ningyu Zhang, Xiang Chen, Xin Xie, Shumin Deng, Chuanqi Tan, Mosha Chen, Fei Huang, Luo Si and Huajun Chen* [[bib]](https://github.com/wutong8023/Awesome_Information_Extraction/blob/master/./bibtex.bib#L1592-L1599) ```IJCAI2021
-```</details><details><summary><img src=https://github.com/wutong8023/Awesome_Information_Extraction/blob/master/scripts/svg/copy_icon.png height="20" align="bottom"></summary><pre>```zhang2021documentlevel```
-## Shumin Deng
-
-- [![](https://img.shields.io/badge/IJCAI-2021-blue)](https://doi.org/10.24963/ijcai.2021/551)<a href="https://scholar.google.com.hk/scholar?q=Document-level+Relation+Extraction+as+Semantic+Segmentation"><img src="https://img.shields.io/badge/-blue.svg?&logo=google-scholar&logoColor=white" height="18" align="bottom"></a> [**Document-level Relation Extraction as Semantic Segmentation**](https://doi.org/10.24963/ijcai.2021/551) , <br> by *Zhang, Ningyu, Chen, Xiang, Xie, Xin, Deng, Shumin, Tan, Chuanqi, Chen, Mosha, Huang, Fei, Si, Luo and Chen, Huajun* [[bib]](https://github.com/wutong8023/Awesome_Information_Extraction/blob/master/./bibtex.bib#L1-L8) </details><details><summary><img src=https://github.com/wutong8023/Awesome_Information_Extraction/blob/master/scripts/svg/copy_icon.png height="20" align="bottom"></summary><pre>```ijcai2021-551```
-- [![](https://img.shields.io/badge/CoRR-2021-blue)](https://arxiv.org/abs/2106.03618)<a href="https://scholar.google.com.hk/scholar?q=Document-level+Relation+Extraction+as+Semantic+Segmentation"><img src="https://img.shields.io/badge/-blue.svg?&logo=google-scholar&logoColor=white" height="18" align="bottom"></a> [**Document-level Relation Extraction as Semantic Segmentation**](https://arxiv.org/abs/2106.03618) , <br> by *Ningyu Zhang, Xiang Chen, Xin Xie, Shumin Deng, Chuanqi Tan, Mosha Chen, Fei Huang, Luo Si and Huajun Chen* [[bib]](https://github.com/wutong8023/Awesome_Information_Extraction/blob/master/./bibtex.bib#L1592-L1599) ```IJCAI2021
-```</details><details><summary><img src=https://github.com/wutong8023/Awesome_Information_Extraction/blob/master/scripts/svg/copy_icon.png height="20" align="bottom"></summary><pre>```zhang2021documentlevel```
+- [![](https://img.shields.io/badge/ACL-2021-blue)](https://aclanthology.org/2021.acl-long.486)<a href="https://scholar.google.com.hk/scholar?q=PRGC:+Potential+Relation+and+Global+Correspondence+Based+Joint+Relational+Triple+Extraction"><img src="https://img.shields.io/badge/-blue.svg?&logo=google-scholar&logoColor=white" height="18" align="bottom"></a> [**PRGC: Potential Relation and Global Correspondence Based Joint Relational Triple Extraction**](https://aclanthology.org/2021.acl-long.486) , <br> by *Zheng, Hengyi  and
+Wen, Rui  and
+Chen, Xi  and
+Yang, Yifan  and
+Zhang, Yunyan  and
+Zhang, Ziheng  and
+Zhang, Ningyu  and
+Qin, Bin  and
+Ming, Xu  and
+Zheng, Yefeng* [[bib]](https://github.com/wutong8023/Awesome_Information_Extraction/blob/master/./bibtex.bib#L512-L528) </details><details><summary><img src=https://github.com/wutong8023/Awesome_Information_Extraction/blob/master/scripts/svg/copy_icon.png height="20" align="bottom"></summary><pre>```zheng-etal-2021-prgc```
 - [![](https://img.shields.io/badge/COLING-2020-blue)](https://doi.org/10.18653/v1/2020.coling-main.563)<a href="https://scholar.google.com.hk/scholar?q=Bridging+Text+and+Knowledge+with+Multi-Prototype+Embedding+for+Few-Shot+Relational+Triple+Extraction"><img src="https://img.shields.io/badge/-blue.svg?&logo=google-scholar&logoColor=white" height="18" align="bottom"></a> [**Bridging Text and Knowledge with Multi-Prototype Embedding for Few-Shot
 Relational Triple Extraction**](https://doi.org/10.18653/v1/2020.coling-main.563) , <br> by *Haiyang Yu and
 Ningyu Zhang and
@@ -1397,7 +1356,7 @@ Jing Huang* [[bib]](https://github.com/wutong8023/Awesome_Information_Extraction
 - [![](https://img.shields.io/badge/CoRR-2020-blue)](https://arxiv.org/abs/2008.12283)<a href="https://scholar.google.com.hk/scholar?q=Entity+and+Evidence+Guided+Relation+Extraction+for+DocRED"><img src="https://img.shields.io/badge/-blue.svg?&logo=google-scholar&logoColor=white" height="18" align="bottom"></a> [**Entity and Evidence Guided Relation Extraction for DocRED**](https://arxiv.org/abs/2008.12283) , <br> by *Kevin Huang and
 Guangtao Wang and
 Tengyu Ma and
-Jing Huang* [[bib]](https://github.com/wutong8023/Awesome_Information_Extraction/blob/master/./bibtex.bib#L1629-L1639) </details><details><summary><img src=https://github.com/wutong8023/Awesome_Information_Extraction/blob/master/scripts/svg/copy_icon.png height="20" align="bottom"></summary><pre>```abs-2008-12283```
+Jing Huang* [[bib]](https://github.com/wutong8023/Awesome_Information_Extraction/blob/master/./bibtex.bib#L1619-L1629) </details><details><summary><img src=https://github.com/wutong8023/Awesome_Information_Extraction/blob/master/scripts/svg/copy_icon.png height="20" align="bottom"></summary><pre>```abs-2008-12283```
 ## Tengyu Ma
 
 - [![](https://img.shields.io/badge/AAAI-2021-blue)](https://ojs.aaai.org/index.php/AAAI/article/view/17717)<a href="https://scholar.google.com.hk/scholar?q=Document-Level+Relation+Extraction+with+Adaptive+Thresholding+and+Localized+Context+Pooling"><img src="https://img.shields.io/badge/-blue.svg?&logo=google-scholar&logoColor=white" height="18" align="bottom"></a> [**Document-Level Relation Extraction with Adaptive Thresholding and
@@ -1408,7 +1367,7 @@ Jing Huang* [[bib]](https://github.com/wutong8023/Awesome_Information_Extraction
 - [![](https://img.shields.io/badge/CoRR-2020-blue)](https://arxiv.org/abs/2008.12283)<a href="https://scholar.google.com.hk/scholar?q=Entity+and+Evidence+Guided+Relation+Extraction+for+DocRED"><img src="https://img.shields.io/badge/-blue.svg?&logo=google-scholar&logoColor=white" height="18" align="bottom"></a> [**Entity and Evidence Guided Relation Extraction for DocRED**](https://arxiv.org/abs/2008.12283) , <br> by *Kevin Huang and
 Guangtao Wang and
 Tengyu Ma and
-Jing Huang* [[bib]](https://github.com/wutong8023/Awesome_Information_Extraction/blob/master/./bibtex.bib#L1629-L1639) </details><details><summary><img src=https://github.com/wutong8023/Awesome_Information_Extraction/blob/master/scripts/svg/copy_icon.png height="20" align="bottom"></summary><pre>```abs-2008-12283```
+Jing Huang* [[bib]](https://github.com/wutong8023/Awesome_Information_Extraction/blob/master/./bibtex.bib#L1619-L1629) </details><details><summary><img src=https://github.com/wutong8023/Awesome_Information_Extraction/blob/master/scripts/svg/copy_icon.png height="20" align="bottom"></summary><pre>```abs-2008-12283```
 ## Kevin Huang
 
 - [![](https://img.shields.io/badge/AAAI-2021-blue)](https://ojs.aaai.org/index.php/AAAI/article/view/17717)<a href="https://scholar.google.com.hk/scholar?q=Document-Level+Relation+Extraction+with+Adaptive+Thresholding+and+Localized+Context+Pooling"><img src="https://img.shields.io/badge/-blue.svg?&logo=google-scholar&logoColor=white" height="18" align="bottom"></a> [**Document-Level Relation Extraction with Adaptive Thresholding and
@@ -1419,7 +1378,7 @@ Jing Huang* [[bib]](https://github.com/wutong8023/Awesome_Information_Extraction
 - [![](https://img.shields.io/badge/CoRR-2020-blue)](https://arxiv.org/abs/2008.12283)<a href="https://scholar.google.com.hk/scholar?q=Entity+and+Evidence+Guided+Relation+Extraction+for+DocRED"><img src="https://img.shields.io/badge/-blue.svg?&logo=google-scholar&logoColor=white" height="18" align="bottom"></a> [**Entity and Evidence Guided Relation Extraction for DocRED**](https://arxiv.org/abs/2008.12283) , <br> by *Kevin Huang and
 Guangtao Wang and
 Tengyu Ma and
-Jing Huang* [[bib]](https://github.com/wutong8023/Awesome_Information_Extraction/blob/master/./bibtex.bib#L1629-L1639) </details><details><summary><img src=https://github.com/wutong8023/Awesome_Information_Extraction/blob/master/scripts/svg/copy_icon.png height="20" align="bottom"></summary><pre>```abs-2008-12283```
+Jing Huang* [[bib]](https://github.com/wutong8023/Awesome_Information_Extraction/blob/master/./bibtex.bib#L1619-L1629) </details><details><summary><img src=https://github.com/wutong8023/Awesome_Information_Extraction/blob/master/scripts/svg/copy_icon.png height="20" align="bottom"></summary><pre>```abs-2008-12283```
 ## Zhenghao Liu
 
 - [![](https://img.shields.io/badge/EMNLP-2020-blue)](https://doi.org/10.18653/v1/2020.emnlp-main.582)<a href="https://scholar.google.com.hk/scholar?q=Coreferential+Reasoning+Learning+for+Language+Representation"><img src="https://img.shields.io/badge/-blue.svg?&logo=google-scholar&logoColor=white" height="18" align="bottom"></a> [**Coreferential Reasoning Learning for Language Representation**](https://doi.org/10.18653/v1/2020.emnlp-main.582) , <br> by *Deming Ye and
@@ -1957,23 +1916,30 @@ Li, Peng  and
 Liu, Zhiyuan  and
 Sun, Maosong  and
 Zhou, Jie* [[bib]](https://github.com/wutong8023/Awesome_Information_Extraction/blob/master/./bibtex.bib#L1182-L1196) </details><details><summary><img src=https://github.com/wutong8023/Awesome_Information_Extraction/blob/master/scripts/svg/copy_icon.png height="20" align="bottom"></summary><pre>```peng-etal-2020-learning```
-## Mosha Chen
+## Huajun Chen
 
 - [![](https://img.shields.io/badge/IJCAI-2021-blue)](https://doi.org/10.24963/ijcai.2021/551)<a href="https://scholar.google.com.hk/scholar?q=Document-level+Relation+Extraction+as+Semantic+Segmentation"><img src="https://img.shields.io/badge/-blue.svg?&logo=google-scholar&logoColor=white" height="18" align="bottom"></a> [**Document-level Relation Extraction as Semantic Segmentation**](https://doi.org/10.24963/ijcai.2021/551) , <br> by *Zhang, Ningyu, Chen, Xiang, Xie, Xin, Deng, Shumin, Tan, Chuanqi, Chen, Mosha, Huang, Fei, Si, Luo and Chen, Huajun* [[bib]](https://github.com/wutong8023/Awesome_Information_Extraction/blob/master/./bibtex.bib#L1-L8) </details><details><summary><img src=https://github.com/wutong8023/Awesome_Information_Extraction/blob/master/scripts/svg/copy_icon.png height="20" align="bottom"></summary><pre>```ijcai2021-551```
-- [![](https://img.shields.io/badge/CoRR-2021-blue)](https://arxiv.org/abs/2106.03618)<a href="https://scholar.google.com.hk/scholar?q=Document-level+Relation+Extraction+as+Semantic+Segmentation"><img src="https://img.shields.io/badge/-blue.svg?&logo=google-scholar&logoColor=white" height="18" align="bottom"></a> [**Document-level Relation Extraction as Semantic Segmentation**](https://arxiv.org/abs/2106.03618) , <br> by *Ningyu Zhang, Xiang Chen, Xin Xie, Shumin Deng, Chuanqi Tan, Mosha Chen, Fei Huang, Luo Si and Huajun Chen* [[bib]](https://github.com/wutong8023/Awesome_Information_Extraction/blob/master/./bibtex.bib#L1592-L1599) ```IJCAI2021
-```</details><details><summary><img src=https://github.com/wutong8023/Awesome_Information_Extraction/blob/master/scripts/svg/copy_icon.png height="20" align="bottom"></summary><pre>```zhang2021documentlevel```
-## Chuanqi Tan
+- [![](https://img.shields.io/badge/COLING-2020-blue)](https://doi.org/10.18653/v1/2020.coling-main.563)<a href="https://scholar.google.com.hk/scholar?q=Bridging+Text+and+Knowledge+with+Multi-Prototype+Embedding+for+Few-Shot+Relational+Triple+Extraction"><img src="https://img.shields.io/badge/-blue.svg?&logo=google-scholar&logoColor=white" height="18" align="bottom"></a> [**Bridging Text and Knowledge with Multi-Prototype Embedding for Few-Shot
+Relational Triple Extraction**](https://doi.org/10.18653/v1/2020.coling-main.563) , <br> by *Haiyang Yu and
+Ningyu Zhang and
+Shumin Deng and
+Hongbin Ye and
+Wei Zhang and
+Huajun Chen* [[bib]](https://github.com/wutong8023/Awesome_Information_Extraction/blob/master/./bibtex.bib#L107-L120) </details><details><summary><img src=https://github.com/wutong8023/Awesome_Information_Extraction/blob/master/scripts/svg/copy_icon.png height="20" align="bottom"></summary><pre>```YuZDYZC20```
+## Luo Si
 
 - [![](https://img.shields.io/badge/IJCAI-2021-blue)](https://doi.org/10.24963/ijcai.2021/551)<a href="https://scholar.google.com.hk/scholar?q=Document-level+Relation+Extraction+as+Semantic+Segmentation"><img src="https://img.shields.io/badge/-blue.svg?&logo=google-scholar&logoColor=white" height="18" align="bottom"></a> [**Document-level Relation Extraction as Semantic Segmentation**](https://doi.org/10.24963/ijcai.2021/551) , <br> by *Zhang, Ningyu, Chen, Xiang, Xie, Xin, Deng, Shumin, Tan, Chuanqi, Chen, Mosha, Huang, Fei, Si, Luo and Chen, Huajun* [[bib]](https://github.com/wutong8023/Awesome_Information_Extraction/blob/master/./bibtex.bib#L1-L8) </details><details><summary><img src=https://github.com/wutong8023/Awesome_Information_Extraction/blob/master/scripts/svg/copy_icon.png height="20" align="bottom"></summary><pre>```ijcai2021-551```
-- [![](https://img.shields.io/badge/CoRR-2021-blue)](https://arxiv.org/abs/2106.03618)<a href="https://scholar.google.com.hk/scholar?q=Document-level+Relation+Extraction+as+Semantic+Segmentation"><img src="https://img.shields.io/badge/-blue.svg?&logo=google-scholar&logoColor=white" height="18" align="bottom"></a> [**Document-level Relation Extraction as Semantic Segmentation**](https://arxiv.org/abs/2106.03618) , <br> by *Ningyu Zhang, Xiang Chen, Xin Xie, Shumin Deng, Chuanqi Tan, Mosha Chen, Fei Huang, Luo Si and Huajun Chen* [[bib]](https://github.com/wutong8023/Awesome_Information_Extraction/blob/master/./bibtex.bib#L1592-L1599) ```IJCAI2021
-```</details><details><summary><img src=https://github.com/wutong8023/Awesome_Information_Extraction/blob/master/scripts/svg/copy_icon.png height="20" align="bottom"></summary><pre>```zhang2021documentlevel```
-## Xin Xie
+- [![](https://img.shields.io/badge/ACL-2021-blue)](https://aclanthology.org/2021.acl-long.496)<a href="https://scholar.google.com.hk/scholar?q=Argument+Pair+Extraction+via+Attention-guided+Multi-Layer+Multi-Cross+Encoding"><img src="https://img.shields.io/badge/-blue.svg?&logo=google-scholar&logoColor=white" height="18" align="bottom"></a> [**Argument Pair Extraction via Attention-guided Multi-Layer Multi-Cross Encoding**](https://aclanthology.org/2021.acl-long.496) , <br> by *Cheng, Liying  and
+Wu, Tianyu  and
+Bing, Lidong  and
+Si, Luo* [[bib]](https://github.com/wutong8023/Awesome_Information_Extraction/blob/master/./bibtex.bib#L560-L572) </details><details><summary><img src=https://github.com/wutong8023/Awesome_Information_Extraction/blob/master/scripts/svg/copy_icon.png height="20" align="bottom"></summary><pre>```cheng-etal-2021-argument```
+## Shumin Deng
 
 - [![](https://img.shields.io/badge/IJCAI-2021-blue)](https://doi.org/10.24963/ijcai.2021/551)<a href="https://scholar.google.com.hk/scholar?q=Document-level+Relation+Extraction+as+Semantic+Segmentation"><img src="https://img.shields.io/badge/-blue.svg?&logo=google-scholar&logoColor=white" height="18" align="bottom"></a> [**Document-level Relation Extraction as Semantic Segmentation**](https://doi.org/10.24963/ijcai.2021/551) , <br> by *Zhang, Ningyu, Chen, Xiang, Xie, Xin, Deng, Shumin, Tan, Chuanqi, Chen, Mosha, Huang, Fei, Si, Luo and Chen, Huajun* [[bib]](https://github.com/wutong8023/Awesome_Information_Extraction/blob/master/./bibtex.bib#L1-L8) </details><details><summary><img src=https://github.com/wutong8023/Awesome_Information_Extraction/blob/master/scripts/svg/copy_icon.png height="20" align="bottom"></summary><pre>```ijcai2021-551```
-- [![](https://img.shields.io/badge/CoRR-2021-blue)](https://arxiv.org/abs/2106.03618)<a href="https://scholar.google.com.hk/scholar?q=Document-level+Relation+Extraction+as+Semantic+Segmentation"><img src="https://img.shields.io/badge/-blue.svg?&logo=google-scholar&logoColor=white" height="18" align="bottom"></a> [**Document-level Relation Extraction as Semantic Segmentation**](https://arxiv.org/abs/2106.03618) , <br> by *Ningyu Zhang, Xiang Chen, Xin Xie, Shumin Deng, Chuanqi Tan, Mosha Chen, Fei Huang, Luo Si and Huajun Chen* [[bib]](https://github.com/wutong8023/Awesome_Information_Extraction/blob/master/./bibtex.bib#L1592-L1599) ```IJCAI2021
-```</details><details><summary><img src=https://github.com/wutong8023/Awesome_Information_Extraction/blob/master/scripts/svg/copy_icon.png height="20" align="bottom"></summary><pre>```zhang2021documentlevel```
-## Xiang Chen
-
-- [![](https://img.shields.io/badge/IJCAI-2021-blue)](https://doi.org/10.24963/ijcai.2021/551)<a href="https://scholar.google.com.hk/scholar?q=Document-level+Relation+Extraction+as+Semantic+Segmentation"><img src="https://img.shields.io/badge/-blue.svg?&logo=google-scholar&logoColor=white" height="18" align="bottom"></a> [**Document-level Relation Extraction as Semantic Segmentation**](https://doi.org/10.24963/ijcai.2021/551) , <br> by *Zhang, Ningyu, Chen, Xiang, Xie, Xin, Deng, Shumin, Tan, Chuanqi, Chen, Mosha, Huang, Fei, Si, Luo and Chen, Huajun* [[bib]](https://github.com/wutong8023/Awesome_Information_Extraction/blob/master/./bibtex.bib#L1-L8) </details><details><summary><img src=https://github.com/wutong8023/Awesome_Information_Extraction/blob/master/scripts/svg/copy_icon.png height="20" align="bottom"></summary><pre>```ijcai2021-551```
-- [![](https://img.shields.io/badge/CoRR-2021-blue)](https://arxiv.org/abs/2106.03618)<a href="https://scholar.google.com.hk/scholar?q=Document-level+Relation+Extraction+as+Semantic+Segmentation"><img src="https://img.shields.io/badge/-blue.svg?&logo=google-scholar&logoColor=white" height="18" align="bottom"></a> [**Document-level Relation Extraction as Semantic Segmentation**](https://arxiv.org/abs/2106.03618) , <br> by *Ningyu Zhang, Xiang Chen, Xin Xie, Shumin Deng, Chuanqi Tan, Mosha Chen, Fei Huang, Luo Si and Huajun Chen* [[bib]](https://github.com/wutong8023/Awesome_Information_Extraction/blob/master/./bibtex.bib#L1592-L1599) ```IJCAI2021
-```</details><details><summary><img src=https://github.com/wutong8023/Awesome_Information_Extraction/blob/master/scripts/svg/copy_icon.png height="20" align="bottom"></summary><pre>```zhang2021documentlevel```
+- [![](https://img.shields.io/badge/COLING-2020-blue)](https://doi.org/10.18653/v1/2020.coling-main.563)<a href="https://scholar.google.com.hk/scholar?q=Bridging+Text+and+Knowledge+with+Multi-Prototype+Embedding+for+Few-Shot+Relational+Triple+Extraction"><img src="https://img.shields.io/badge/-blue.svg?&logo=google-scholar&logoColor=white" height="18" align="bottom"></a> [**Bridging Text and Knowledge with Multi-Prototype Embedding for Few-Shot
+Relational Triple Extraction**](https://doi.org/10.18653/v1/2020.coling-main.563) , <br> by *Haiyang Yu and
+Ningyu Zhang and
+Shumin Deng and
+Hongbin Ye and
+Wei Zhang and
+Huajun Chen* [[bib]](https://github.com/wutong8023/Awesome_Information_Extraction/blob/master/./bibtex.bib#L107-L120) </details><details><summary><img src=https://github.com/wutong8023/Awesome_Information_Extraction/blob/master/scripts/svg/copy_icon.png height="20" align="bottom"></summary><pre>```YuZDYZC20```
