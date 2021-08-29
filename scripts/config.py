@@ -11,7 +11,7 @@ repo_name = "Awesome_Information_Extraction"  # repository name
 branch_name = "blob/master/"  # branch name
 your_research_topic = "IE"  # used for dictionary name
 your_research_topic_full_name = "Information Extraction"  # used for title
-bib_link_overleaf = "https://github.com/wutong8023/bibtex_Tong/blob/master/bibtxt.bib"  # used for overleaf
+bib_link_overleaf = "https://www.overleaf.com/read/rgscdxhxbwhp"  # used for overleaf
 color = "blue"
 
 base_link = "https://github.com/{user_id}/{repo}/{branch}".format(user_id=user_id, repo=repo_name, branch=branch_name)
