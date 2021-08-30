@@ -21,8 +21,8 @@ fined_taxonomy = {
     "Conference": ["ACL", "EMNLP", "NAACL", "COLING", "EACL", "AACL", "CoNLL", "ICML", "ICLR", "NeurIPS", "AISTATS", "ECML",
     "SIGIR",
     "KDD","ICDM", "CIKM",
-    "AAAI", "IJCAI", 
-                   "WWW", "MM", "CVPR", "ICCV", "ECCV", "WACV"],
+    "AAAI", "IJCAI", "ECAI",
+    "WWW", "MM", "CVPR", "ICCV", "ECCV", "WACV"],
     
     "Journal": [
         ["TACL", "Transactions of the Association for Computational Linguistics", "Trans. Assoc. Comput. Linguistics"],
