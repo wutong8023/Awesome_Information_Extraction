@@ -40,7 +40,7 @@ fined_taxonomy = {
     "Preprint": ["arXiv", "CoRR"],
     
     # 1: resource type
-    "Contribution": ["Survey", "Important", "New Settings, New Metrics", "New Application", "New Dataset"
+    "Contribution": ["Survey", "Important", "New Settings, New Metrics", "New Application", "New Dataset", "Toolkit",
              "Empirical Study", "Theory", "New Backbone Model", "New Method", "Thesis", "Library", "Workshop",
              "Other Type"],
     # 2: Area

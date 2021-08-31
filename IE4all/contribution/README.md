@@ -10,6 +10,8 @@ This page categorizes the literature by the Contribution.
 
 ## Outline 
 - [![](https://img.shields.io/badge/Hyperlink-blue)](https://github.com/wutong8023/Awesome_Information_Extraction/blob/master/IE4all/contribution/README.md#hyperlink)
+- [![](https://img.shields.io/badge/New_Dataset-3-blue)](https://github.com/wutong8023/Awesome_Information_Extraction/blob/master/IE4all/contribution/README.md#new-dataset)
+- [![](https://img.shields.io/badge/Toolkit-1-blue)](https://github.com/wutong8023/Awesome_Information_Extraction/blob/master/IE4all/contribution/README.md#toolkit)
 ## Hyperlink 
 - [[Overview]](https://github.com/wutong8023/Awesome_Information_Extraction/blob/master/README.md) -- [Homepage](https://github.com/wutong8023/Awesome_Information_Extraction/blob/master/README.md)
 - [[NLP]](https://github.com/wutong8023/Awesome_Information_Extraction/blob/master/IE4nlp/./)  [[CV]](https://github.com/wutong8023/Awesome_Information_Extraction/blob/master/IE4cv/./) -- [Summary](https://github.com/wutong8023/Awesome_Information_Extraction/blob/master/IE4all/./)
@@ -25,3 +27,27 @@ This page categorizes the literature by the Contribution.
 - [[NLP]](https://github.com/wutong8023/Awesome_Information_Extraction/blob/master/IE4nlp/supervision)  [[CV]](https://github.com/wutong8023/Awesome_Information_Extraction/blob/master/IE4cv/supervision) -- [ Learning Paradigm](https://github.com/wutong8023/Awesome_Information_Extraction/blob/master/IE4all/supervision)
 - [[NLP]](https://github.com/wutong8023/Awesome_Information_Extraction/blob/master/IE4nlp/time)  [[CV]](https://github.com/wutong8023/Awesome_Information_Extraction/blob/master/IE4cv/time) -- [Published Time](https://github.com/wutong8023/Awesome_Information_Extraction/blob/master/IE4all/time)
 - [[NLP]](https://github.com/wutong8023/Awesome_Information_Extraction/blob/master/IE4nlp/venue)  [[CV]](https://github.com/wutong8023/Awesome_Information_Extraction/blob/master/IE4cv/venue) -- [Published Venue](https://github.com/wutong8023/Awesome_Information_Extraction/blob/master/IE4all/venue)
+
+## New Dataset
+
+- [![](https://img.shields.io/badge/ACL-2018-blue)](https://aclanthology.org/P18-1047/)<a href="https://scholar.google.com.hk/scholar?q=Extracting+Relational+Facts+by+an+End-to-End+Neural+Model+with+Copy+Mechanism"><img src="https://img.shields.io/badge/-blue.svg?&logo=google-scholar&logoColor=white" height="18" align="bottom"></a> [**Extracting Relational Facts by an End-to-End Neural Model with Copy
+Mechanism**](https://aclanthology.org/P18-1047/) , <br> by *Xiangrong Zeng and
+Daojian Zeng and
+Shizhu He and
+Kang Liu and
+Jun Zhao* [[bib]](https://github.com/wutong8023/Awesome_Information_Extraction/blob/master/./bibtex.bib#L362-L378) </details><details><summary><img src=https://github.com/wutong8023/Awesome_Information_Extraction/blob/master/scripts/svg/copy_icon.png height="20" align="bottom"></summary><pre>```LiuZZHZ18```
+- [![](https://img.shields.io/badge/ACL-2017-blue)](https://doi.org/10.18653/v1/P17-1017)<a href="https://scholar.google.com.hk/scholar?q=Creating+Training+Corpora+for+NLG+Micro-Planners"><img src="https://img.shields.io/badge/-blue.svg?&logo=google-scholar&logoColor=white" height="18" align="bottom"></a> [**Creating Training Corpora for NLG Micro-Planners**](https://doi.org/10.18653/v1/P17-1017) , <br> by *Claire Gardent and
+Anastasia Shimorina and
+Shashi Narayan and
+Laura Perez{-}Beltrachini* [[bib]](https://github.com/wutong8023/Awesome_Information_Extraction/blob/master/./bibtex.bib#L390-L404) </details><details><summary><img src=https://github.com/wutong8023/Awesome_Information_Extraction/blob/master/scripts/svg/copy_icon.png height="20" align="bottom"></summary><pre>```GardentSNP17```
+- [![](https://img.shields.io/badge/ECML-2010-blue)](https://doi.org/10.1007/978-3-642-15939-8\_10)<a href="https://scholar.google.com.hk/scholar?q=Modeling+Relations+and+Their+Mentions+without+Labeled+Text"><img src="https://img.shields.io/badge/-blue.svg?&logo=google-scholar&logoColor=white" height="18" align="bottom"></a> [**Modeling Relations and Their Mentions without Labeled Text**](https://doi.org/10.1007/978-3-642-15939-8\_10) , <br> by *Sebastian Riedel and
+Limin Yao and
+Andrew McCallum* [[bib]](https://github.com/wutong8023/Awesome_Information_Extraction/blob/master/./bibtex.bib#L347-L360) </details><details><summary><img src=https://github.com/wutong8023/Awesome_Information_Extraction/blob/master/scripts/svg/copy_icon.png height="20" align="bottom"></summary><pre>```RiedelYM10```
+## Toolkit
+
+- [![](https://img.shields.io/badge/ACL-2014-blue)](https://doi.org/10.3115/v1/p14-5010)<a href="https://scholar.google.com.hk/scholar?q=The+Stanford+CoreNLP+Natural+Language+Processing+Toolkit"><img src="https://img.shields.io/badge/-blue.svg?&logo=google-scholar&logoColor=white" height="18" align="bottom"></a> [**The Stanford CoreNLP Natural Language Processing Toolkit**](https://doi.org/10.3115/v1/p14-5010) , <br> by *Christopher D. Manning and
+Mihai Surdeanu and
+John Bauer and
+Jenny Rose Finkel and
+Steven Bethard and
+David McClosky* [[bib]](https://github.com/wutong8023/Awesome_Information_Extraction/blob/master/./bibtex.bib#L11-L24) </details><details><summary><img src=https://github.com/wutong8023/Awesome_Information_Extraction/blob/master/scripts/svg/copy_icon.png height="20" align="bottom"></summary><pre>```ManningSBFBM14```
