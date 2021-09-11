@@ -29,7 +29,7 @@ This page categorizes the literature by the **Published Venue**.
 - [![](https://img.shields.io/badge/TACL-1-blue)](https://github.com/wutong8023/Awesome_Information_Extraction/blob/master/./README.md#tacl)
 - [![](https://img.shields.io/badge/ACM_Comput._Surv.-1-blue)](https://github.com/wutong8023/Awesome_Information_Extraction/blob/master/./README.md#acm-comput.-surv.)
 - [![](https://img.shields.io/badge/NUSE_NAACL-1-blue)](https://github.com/wutong8023/Awesome_Information_Extraction/blob/master/./README.md#nuse-naacl)
-- [![](https://img.shields.io/badge/arXiv-3-blue)](https://github.com/wutong8023/Awesome_Information_Extraction/blob/master/./README.md#arxiv)
+- [![](https://img.shields.io/badge/arXiv-4-blue)](https://github.com/wutong8023/Awesome_Information_Extraction/blob/master/./README.md#arxiv)
 ## Hyperlink 
 - [[Overview]](https://github.com/wutong8023/Awesome_Information_Extraction/blob/master/README.md) -- [Homepage](https://github.com/wutong8023/Awesome_Information_Extraction/blob/master/README.md)
 - [[NLP]](https://github.com/wutong8023/Awesome_Information_Extraction/blob/master/IE4nlp/./)  [[CV]](https://github.com/wutong8023/Awesome_Information_Extraction/blob/master/IE4cv/./) -- [Summary](https://github.com/wutong8023/Awesome_Information_Extraction/blob/master/IE4all/./)
@@ -729,6 +729,7 @@ Chuanqi Tan and
 Fei Huang and
 Luo Si and
 Huajun Chen* [[bib]](https://github.com/wutong8023/Awesome_Information_Extraction/blob/master/./bibtex.bib#L1763-L1778) </details><details><summary><img src=https://github.com/wutong8023/Awesome_Information_Extraction/blob/master/scripts/svg/copy_icon.png height="20" align="bottom"></summary><pre>```abs-2104-07650```
+- [![](https://img.shields.io/badge/CoRR-2021-blue)](https://arxiv.org/abs/2108.12724)<a href="https://scholar.google.com.hk/scholar?q=Event+Extraction+as+Natural+Language+Generation"><img src="https://img.shields.io/badge/-blue.svg?&logo=google-scholar&logoColor=white" height="18" align="bottom"></a> [**Event Extraction as Natural Language Generation**](https://arxiv.org/abs/2108.12724) , <br> by *I-Hung Hsu, Kuan-Hao Huang, Elizabeth Boschee, Scott Miller, Prem Natarajan, Kai-Wei Chang and Nanyun Peng* [[bib]](https://github.com/wutong8023/Awesome_Information_Extraction/blob/master/./bibtex.bib#L1780-L1787) </details><details><summary><img src=https://github.com/wutong8023/Awesome_Information_Extraction/blob/master/scripts/svg/copy_icon.png height="20" align="bottom"></summary><pre>```hsu2021event```
 - [![](https://img.shields.io/badge/CoRR-2020-blue)](https://arxiv.org/abs/2008.12283)<a href="https://scholar.google.com.hk/scholar?q=Entity+and+Evidence+Guided+Relation+Extraction+for+DocRED"><img src="https://img.shields.io/badge/-blue.svg?&logo=google-scholar&logoColor=white" height="18" align="bottom"></a> [**Entity and Evidence Guided Relation Extraction for DocRED**](https://arxiv.org/abs/2008.12283) , <br> by *Kevin Huang and
 Guangtao Wang and
 Tengyu Ma and
