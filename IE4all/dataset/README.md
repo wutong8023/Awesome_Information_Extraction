@@ -10,6 +10,7 @@ This page categorizes the literature by the **Dataset**.
 
 ## Outline 
 - [![](https://img.shields.io/badge/Hyperlink-blue)](https://github.com/wutong8023/Awesome_Information_Extraction/blob/master/IE4all/dataset/README.md#hyperlink)
+- [![](https://img.shields.io/badge/ESTER-1-blue)](https://github.com/wutong8023/Awesome_Information_Extraction/blob/master/IE4all/dataset/README.md#ester)
 - [![](https://img.shields.io/badge/NYT-1-blue)](https://github.com/wutong8023/Awesome_Information_Extraction/blob/master/IE4all/dataset/README.md#nyt)
 - [![](https://img.shields.io/badge/WebNLG-2-blue)](https://github.com/wutong8023/Awesome_Information_Extraction/blob/master/IE4all/dataset/README.md#webnlg)
 ## Hyperlink 
@@ -28,6 +29,17 @@ This page categorizes the literature by the **Dataset**.
 - [[NLP]](https://github.com/wutong8023/Awesome_Information_Extraction/blob/master/IE4nlp/time)  [[CV]](https://github.com/wutong8023/Awesome_Information_Extraction/blob/master/IE4cv/time) -- [Published Time](https://github.com/wutong8023/Awesome_Information_Extraction/blob/master/IE4all/time)
 - [[NLP]](https://github.com/wutong8023/Awesome_Information_Extraction/blob/master/IE4nlp/venue)  [[CV]](https://github.com/wutong8023/Awesome_Information_Extraction/blob/master/IE4cv/venue) -- [Published Venue](https://github.com/wutong8023/Awesome_Information_Extraction/blob/master/IE4all/venue)
 
+## ESTER
+
+- [![](https://img.shields.io/badge/CoRR-2021-blue)](https://arxiv.org/abs/2104.08350)<a href="https://scholar.google.com.hk/scholar?q=ESTER:+A+Machine+Reading+Comprehension+Dataset+for+Event+Semantic+Relation+Reasoning"><img src="https://img.shields.io/badge/-blue.svg?&logo=google-scholar&logoColor=white" height="18" align="bottom"></a> [**ESTER: A Machine Reading Comprehension Dataset for Event Semantic
+Relation Reasoning**](https://arxiv.org/abs/2104.08350) , <br> by *Rujun Han and
+I{-}Hung Hsu and
+Jiao Sun and
+Julia Baylon and
+Qiang Ning and
+Dan Roth and
+Nanyun Peng* [[bib]](https://github.com/wutong8023/Awesome_Information_Extraction/blob/master/./bibtex.bib#L1798-L1815) ```EMNLP 2021, A QA dataset for event relation reasoning.
+```</details><details><summary><img src=https://github.com/wutong8023/Awesome_Information_Extraction/blob/master/scripts/svg/copy_icon.png height="20" align="bottom"></summary><pre>```abs-2104-08350```
 ## NYT
 
 - [![](https://img.shields.io/badge/ECML-2010-blue)](https://doi.org/10.1007/978-3-642-15939-8\_10)<a href="https://scholar.google.com.hk/scholar?q=Modeling+Relations+and+Their+Mentions+without+Labeled+Text"><img src="https://img.shields.io/badge/-blue.svg?&logo=google-scholar&logoColor=white" height="18" align="bottom"></a> [**Modeling Relations and Their Mentions without Labeled Text**](https://doi.org/10.1007/978-3-642-15939-8\_10) , <br> by *Sebastian Riedel and

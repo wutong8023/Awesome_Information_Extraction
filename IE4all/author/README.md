@@ -13,20 +13,21 @@ This page categorizes the literature by the **Author**.
 - [![](https://img.shields.io/badge/Zhiyuan_Liu-14-blue)](https://github.com/wutong8023/Awesome_Information_Extraction/blob/master/IE4all/author/README.md#zhiyuan-liu)
 - [![](https://img.shields.io/badge/Xu_Han-12-blue)](https://github.com/wutong8023/Awesome_Information_Extraction/blob/master/IE4all/author/README.md#xu-han)
 - [![](https://img.shields.io/badge/Maosong_Sun-11-blue)](https://github.com/wutong8023/Awesome_Information_Extraction/blob/master/IE4all/author/README.md#maosong-sun)
+- [![](https://img.shields.io/badge/Heng_Ji-8-blue)](https://github.com/wutong8023/Awesome_Information_Extraction/blob/master/IE4all/author/README.md#heng-ji)
 - [![](https://img.shields.io/badge/Peng_Li-7-blue)](https://github.com/wutong8023/Awesome_Information_Extraction/blob/master/IE4all/author/README.md#peng-li)
 - [![](https://img.shields.io/badge/Yankai_Lin-7-blue)](https://github.com/wutong8023/Awesome_Information_Extraction/blob/master/IE4all/author/README.md#yankai-lin)
-- [![](https://img.shields.io/badge/Heng_Ji-7-blue)](https://github.com/wutong8023/Awesome_Information_Extraction/blob/master/IE4all/author/README.md#heng-ji)
 - [![](https://img.shields.io/badge/Jie_Zhou-6-blue)](https://github.com/wutong8023/Awesome_Information_Extraction/blob/master/IE4all/author/README.md#jie-zhou)
 - [![](https://img.shields.io/badge/Tianyu_Gao-6-blue)](https://github.com/wutong8023/Awesome_Information_Extraction/blob/master/IE4all/author/README.md#tianyu-gao)
+- [![](https://img.shields.io/badge/Nanyun_Peng-5-blue)](https://github.com/wutong8023/Awesome_Information_Extraction/blob/master/IE4all/author/README.md#nanyun-peng)
 - [![](https://img.shields.io/badge/Claire_Cardie-4-blue)](https://github.com/wutong8023/Awesome_Information_Extraction/blob/master/IE4all/author/README.md#claire-cardie)
 - [![](https://img.shields.io/badge/Le_Sun-4-blue)](https://github.com/wutong8023/Awesome_Information_Extraction/blob/master/IE4all/author/README.md#le-sun)
 - [![](https://img.shields.io/badge/Xianpei_Han-4-blue)](https://github.com/wutong8023/Awesome_Information_Extraction/blob/master/IE4all/author/README.md#xianpei-han)
 - [![](https://img.shields.io/badge/Hongyu_Lin-4-blue)](https://github.com/wutong8023/Awesome_Information_Extraction/blob/master/IE4all/author/README.md#hongyu-lin)
 - [![](https://img.shields.io/badge/Lei_Li-4-blue)](https://github.com/wutong8023/Awesome_Information_Extraction/blob/master/IE4all/author/README.md#lei-li)
 - [![](https://img.shields.io/badge/Yuan_Yao-4-blue)](https://github.com/wutong8023/Awesome_Information_Extraction/blob/master/IE4all/author/README.md#yuan-yao)
-- [![](https://img.shields.io/badge/Nanyun_Peng-4-blue)](https://github.com/wutong8023/Awesome_Information_Extraction/blob/master/IE4all/author/README.md#nanyun-peng)
 - [![](https://img.shields.io/badge/Fei_Huang-4-blue)](https://github.com/wutong8023/Awesome_Information_Extraction/blob/master/IE4all/author/README.md#fei-huang)
 - [![](https://img.shields.io/badge/Ningyu_Zhang-4-blue)](https://github.com/wutong8023/Awesome_Information_Extraction/blob/master/IE4all/author/README.md#ningyu-zhang)
+- [![](https://img.shields.io/badge/Dan_Roth-4-blue)](https://github.com/wutong8023/Awesome_Information_Extraction/blob/master/IE4all/author/README.md#dan-roth)
 - [![](https://img.shields.io/badge/Xinya_Du-3-blue)](https://github.com/wutong8023/Awesome_Information_Extraction/blob/master/IE4all/author/README.md#xinya-du)
 - [![](https://img.shields.io/badge/Meng_Liao-3-blue)](https://github.com/wutong8023/Awesome_Information_Extraction/blob/master/IE4all/author/README.md#meng-liao)
 - [![](https://img.shields.io/badge/Jin_Xu-3-blue)](https://github.com/wutong8023/Awesome_Information_Extraction/blob/master/IE4all/author/README.md#jin-xu)
@@ -49,10 +50,11 @@ This page categorizes the literature by the **Author**.
 - [![](https://img.shields.io/badge/Huajun_Chen-3-blue)](https://github.com/wutong8023/Awesome_Information_Extraction/blob/master/IE4all/author/README.md#huajun-chen)
 - [![](https://img.shields.io/badge/Luo_Si-3-blue)](https://github.com/wutong8023/Awesome_Information_Extraction/blob/master/IE4all/author/README.md#luo-si)
 - [![](https://img.shields.io/badge/Shumin_Deng-3-blue)](https://github.com/wutong8023/Awesome_Information_Extraction/blob/master/IE4all/author/README.md#shumin-deng)
-- [![](https://img.shields.io/badge/Dan_Roth-3-blue)](https://github.com/wutong8023/Awesome_Information_Extraction/blob/master/IE4all/author/README.md#dan-roth)
+- [![](https://img.shields.io/badge/Jiawei_Han-3-blue)](https://github.com/wutong8023/Awesome_Information_Extraction/blob/master/IE4all/author/README.md#jiawei-han)
 - [![](https://img.shields.io/badge/Makoto_Miwa-3-blue)](https://github.com/wutong8023/Awesome_Information_Extraction/blob/master/IE4all/author/README.md#makoto-miwa)
 - [![](https://img.shields.io/badge/Adrian_Ulges-3-blue)](https://github.com/wutong8023/Awesome_Information_Extraction/blob/master/IE4all/author/README.md#adrian-ulges)
 - [![](https://img.shields.io/badge/Markus_Eberts-3-blue)](https://github.com/wutong8023/Awesome_Information_Extraction/blob/master/IE4all/author/README.md#markus-eberts)
+- [![](https://img.shields.io/badge/Wei_Hu-2-blue)](https://github.com/wutong8023/Awesome_Information_Extraction/blob/master/IE4all/author/README.md#wei-hu)
 - [![](https://img.shields.io/badge/Shikun_Zhang-2-blue)](https://github.com/wutong8023/Awesome_Information_Extraction/blob/master/IE4all/author/README.md#shikun-zhang)
 - [![](https://img.shields.io/badge/Wei_Ye-2-blue)](https://github.com/wutong8023/Awesome_Information_Extraction/blob/master/IE4all/author/README.md#wei-ye)
 - [![](https://img.shields.io/badge/Bo_Li-2-blue)](https://github.com/wutong8023/Awesome_Information_Extraction/blob/master/IE4all/author/README.md#bo-li)
@@ -61,10 +63,13 @@ This page categorizes the literature by the **Author**.
 - [![](https://img.shields.io/badge/Jing_Huang-2-blue)](https://github.com/wutong8023/Awesome_Information_Extraction/blob/master/IE4all/author/README.md#jing-huang)
 - [![](https://img.shields.io/badge/Tengyu_Ma-2-blue)](https://github.com/wutong8023/Awesome_Information_Extraction/blob/master/IE4all/author/README.md#tengyu-ma)
 - [![](https://img.shields.io/badge/Kevin_Huang-2-blue)](https://github.com/wutong8023/Awesome_Information_Extraction/blob/master/IE4all/author/README.md#kevin-huang)
+- [![](https://img.shields.io/badge/Wenxuan_Zhou-2-blue)](https://github.com/wutong8023/Awesome_Information_Extraction/blob/master/IE4all/author/README.md#wenxuan-zhou)
 - [![](https://img.shields.io/badge/Zhenghao_Liu-2-blue)](https://github.com/wutong8023/Awesome_Information_Extraction/blob/master/IE4all/author/README.md#zhenghao-liu)
 - [![](https://img.shields.io/badge/Deming_Ye-2-blue)](https://github.com/wutong8023/Awesome_Information_Extraction/blob/master/IE4all/author/README.md#deming-ye)
+- [![](https://img.shields.io/badge/Muhao_Chen-2-blue)](https://github.com/wutong8023/Awesome_Information_Extraction/blob/master/IE4all/author/README.md#muhao-chen)
 - [![](https://img.shields.io/badge/Wei_Lu-2-blue)](https://github.com/wutong8023/Awesome_Information_Extraction/blob/master/IE4all/author/README.md#wei-lu)
 - [![](https://img.shields.io/badge/Yoav_Goldberg-2-blue)](https://github.com/wutong8023/Awesome_Information_Extraction/blob/master/IE4all/author/README.md#yoav-goldberg)
+- [![](https://img.shields.io/badge/Rujun_Han-2-blue)](https://github.com/wutong8023/Awesome_Information_Extraction/blob/master/IE4all/author/README.md#rujun-han)
 - [![](https://img.shields.io/badge/Leonhard_Hennig-2-blue)](https://github.com/wutong8023/Awesome_Information_Extraction/blob/master/IE4all/author/README.md#leonhard-hennig)
 - [![](https://img.shields.io/badge/Aleksandra_Gabryszak-2-blue)](https://github.com/wutong8023/Awesome_Information_Extraction/blob/master/IE4all/author/README.md#aleksandra-gabryszak)
 - [![](https://img.shields.io/badge/Christoph_Alt-2-blue)](https://github.com/wutong8023/Awesome_Information_Extraction/blob/master/IE4all/author/README.md#christoph-alt)
@@ -75,6 +80,7 @@ This page categorizes the literature by the **Author**.
 - [![](https://img.shields.io/badge/Keshav_Kolluru-2-blue)](https://github.com/wutong8023/Awesome_Information_Extraction/blob/master/IE4all/author/README.md#keshav-kolluru)
 - [![](https://img.shields.io/badge/Ying_Shen-2-blue)](https://github.com/wutong8023/Awesome_Information_Extraction/blob/master/IE4all/author/README.md#ying-shen)
 - [![](https://img.shields.io/badge/Hongming_Zhang-2-blue)](https://github.com/wutong8023/Awesome_Information_Extraction/blob/master/IE4all/author/README.md#hongming-zhang)
+- [![](https://img.shields.io/badge/Qi_Zhang-2-blue)](https://github.com/wutong8023/Awesome_Information_Extraction/blob/master/IE4all/author/README.md#qi-zhang)
 - [![](https://img.shields.io/badge/Baobao_Chang-2-blue)](https://github.com/wutong8023/Awesome_Information_Extraction/blob/master/IE4all/author/README.md#baobao-chang)
 - [![](https://img.shields.io/badge/Runxin_Xu-2-blue)](https://github.com/wutong8023/Awesome_Information_Extraction/blob/master/IE4all/author/README.md#runxin-xu)
 - [![](https://img.shields.io/badge/Lingyong_Yan-2-blue)](https://github.com/wutong8023/Awesome_Information_Extraction/blob/master/IE4all/author/README.md#lingyong-yan)
@@ -99,7 +105,6 @@ This page categorizes the literature by the **Author**.
 - [![](https://img.shields.io/badge/Xiang_Chen-2-blue)](https://github.com/wutong8023/Awesome_Information_Extraction/blob/master/IE4all/author/README.md#xiang-chen)
 - [![](https://img.shields.io/badge/Tingwen_Liu-2-blue)](https://github.com/wutong8023/Awesome_Information_Extraction/blob/master/IE4all/author/README.md#tingwen-liu)
 - [![](https://img.shields.io/badge/Bowen_Yu-2-blue)](https://github.com/wutong8023/Awesome_Information_Extraction/blob/master/IE4all/author/README.md#bowen-yu)
-- [![](https://img.shields.io/badge/Jiawei_Han-2-blue)](https://github.com/wutong8023/Awesome_Information_Extraction/blob/master/IE4all/author/README.md#jiawei-han)
 - [![](https://img.shields.io/badge/Meng_Qu-2-blue)](https://github.com/wutong8023/Awesome_Information_Extraction/blob/master/IE4all/author/README.md#meng-qu)
 - [![](https://img.shields.io/badge/Gholamreza_Haffari-2-blue)](https://github.com/wutong8023/Awesome_Information_Extraction/blob/master/IE4all/author/README.md#gholamreza-haffari)
 - [![](https://img.shields.io/badge/Yuan_Fang_Li-2-blue)](https://github.com/wutong8023/Awesome_Information_Extraction/blob/master/IE4all/author/README.md#yuan-fang-li)
@@ -435,6 +440,41 @@ Yuan Yao and
 Zhiyuan Liu and
 Maosong Sun* [[bib]](https://github.com/wutong8023/Awesome_Information_Extraction/blob/master/./bibtex.bib#L270-L284) ```FewRel dataset
 ```</details><details><summary><img src=https://github.com/wutong8023/Awesome_Information_Extraction/blob/master/scripts/svg/copy_icon.png height="20" align="bottom"></summary><pre>```HanZYWYLS18```
+## Heng Ji
+
+- [![](https://img.shields.io/badge/NAACL_HLT-2021-blue)](https://www.aclweb.org/anthology/2021.naacl-main.4)<a href="https://scholar.google.com.hk/scholar?q=Abstract+Meaning+Representation+Guided+Graph+Encoding+and+Decoding+for+Joint+Information+Extraction"><img src="https://img.shields.io/badge/-blue.svg?&logo=google-scholar&logoColor=white" height="18" align="bottom"></a> [**Abstract Meaning Representation Guided Graph Encoding and Decoding for Joint Information Extraction**](https://www.aclweb.org/anthology/2021.naacl-main.4) , <br> by *Zhang, Zixuan  and
+Ji, Heng* [[bib]](https://github.com/wutong8023/Awesome_Information_Extraction/blob/master/./bibtex.bib#L566-L573) </details><details><summary><img src=https://github.com/wutong8023/Awesome_Information_Extraction/blob/master/scripts/svg/copy_icon.png height="20" align="bottom"></summary><pre>```zhang-ji-2021-abstract```
+- [![](https://img.shields.io/badge/ACL-2021-blue)](https://aclanthology.org/2021.acl-long.488)<a href="https://scholar.google.com.hk/scholar?q=Joint+Biomedical+Entity+and+Relation+Extraction+with+Knowledge-Enhanced+Collective+Inference"><img src="https://img.shields.io/badge/-blue.svg?&logo=google-scholar&logoColor=white" height="18" align="bottom"></a> [**Joint Biomedical Entity and Relation Extraction with Knowledge-Enhanced Collective Inference**](https://aclanthology.org/2021.acl-long.488) , <br> by *Lai, Tuan  and
+Ji, Heng  and
+Zhai, ChengXiang  and
+Tran, Quan Hung* [[bib]](https://github.com/wutong8023/Awesome_Information_Extraction/blob/master/./bibtex.bib#L883-L893) </details><details><summary><img src=https://github.com/wutong8023/Awesome_Information_Extraction/blob/master/scripts/svg/copy_icon.png height="20" align="bottom"></summary><pre>```lai-etal-2021-joint```
+- [![](https://img.shields.io/badge/NAACL-2021-blue)](https://www.aclweb.org/anthology/2021.naacl-main.69/)<a href="https://scholar.google.com.hk/scholar?q=Document-Level+Event+Argument+Extraction+by+Conditional+Generation"><img src="https://img.shields.io/badge/-blue.svg?&logo=google-scholar&logoColor=white" height="18" align="bottom"></a> [**Document-Level Event Argument Extraction by Conditional Generation**](https://www.aclweb.org/anthology/2021.naacl-main.69/) , <br> by *Sha Li and
+Heng Ji and
+Jiawei Han* [[bib]](https://github.com/wutong8023/Awesome_Information_Extraction/blob/master/./bibtex.bib#L1481-L1490) </details><details><summary><img src=https://github.com/wutong8023/Awesome_Information_Extraction/blob/master/scripts/svg/copy_icon.png height="20" align="bottom"></summary><pre>```LiJH21```
+- [![](https://img.shields.io/badge/CoRR-2021-blue)](https://arxiv.org/abs/2109.03322)<a href="https://scholar.google.com.hk/scholar?q=Corpus-based+Open-Domain+Event+Type+Induction"><img src="https://img.shields.io/badge/-blue.svg?&logo=google-scholar&logoColor=white" height="18" align="bottom"></a> [**Corpus-based Open-Domain Event Type Induction**](https://arxiv.org/abs/2109.03322) , <br> by *Jiaming Shen, Yunyi Zhang, Heng Ji and Jiawei Han* [[bib]](https://github.com/wutong8023/Awesome_Information_Extraction/blob/master/./bibtex.bib#L1849-L1856) ```EMNLP 2021. Proposing a new method for open event extraction.
+```</details><details><summary><img src=https://github.com/wutong8023/Awesome_Information_Extraction/blob/master/scripts/svg/copy_icon.png height="20" align="bottom"></summary><pre>```shen2021corpusbased```
+- [![](https://img.shields.io/badge/ACL-2020-blue)](https://aclanthology.org/2020.acl-main.713)<a href="https://scholar.google.com.hk/scholar?q=A+Joint+Neural+Model+for+Information+Extraction+with+Global+Features"><img src="https://img.shields.io/badge/-blue.svg?&logo=google-scholar&logoColor=white" height="18" align="bottom"></a> [**A Joint Neural Model for Information Extraction with Global Features**](https://aclanthology.org/2020.acl-main.713) , <br> by *Lin, Ying  and
+Ji, Heng  and
+Huang, Fei  and
+Wu, Lingfei* [[bib]](https://github.com/wutong8023/Awesome_Information_Extraction/blob/master/./bibtex.bib#L423-L433) </details><details><summary><img src=https://github.com/wutong8023/Awesome_Information_Extraction/blob/master/scripts/svg/copy_icon.png height="20" align="bottom"></summary><pre>```lin-etal-2020-joint```
+- [![](https://img.shields.io/badge/ACL-2020-blue)](https://www.aclweb.org/anthology/2020.acl-main.230)<a href="https://scholar.google.com.hk/scholar?q=Cross-media+Structured+Common+Space+for+Multimedia+Event+Extraction"><img src="https://img.shields.io/badge/-blue.svg?&logo=google-scholar&logoColor=white" height="18" align="bottom"></a> [**Cross-media Structured Common Space for Multimedia Event Extraction**](https://www.aclweb.org/anthology/2020.acl-main.230) , <br> by *Li, Manling  and
+Zareian, Alireza  and
+Zeng, Qi  and
+Whitehead, Spencer  and
+Lu, Di  and
+Ji, Heng  and
+Chang, Shih-Fu* [[bib]](https://github.com/wutong8023/Awesome_Information_Extraction/blob/master/./bibtex.bib#L1084-L1097) </details><details><summary><img src=https://github.com/wutong8023/Awesome_Information_Extraction/blob/master/scripts/svg/copy_icon.png height="20" align="bottom"></summary><pre>```li-etal-2020-cross```
+- [![](https://img.shields.io/badge/WWW-2017-blue)](https://doi.org/10.1145/3038912.3052708)<a href="https://scholar.google.com.hk/scholar?q=CoType:+Joint+Extraction+of+Typed+Entities+and+Relations+with+Knowledge+Bases"><img src="https://img.shields.io/badge/-blue.svg?&logo=google-scholar&logoColor=white" height="18" align="bottom"></a> [**CoType: Joint Extraction of Typed Entities and Relations with Knowledge
+Bases**](https://doi.org/10.1145/3038912.3052708) , <br> by *Xiang Ren and
+Zeqiu Wu and
+Wenqi He and
+Meng Qu and
+Clare R. Voss and
+Heng Ji and
+Tarek F. Abdelzaher and
+Jiawei Han* [[bib]](https://github.com/wutong8023/Awesome_Information_Extraction/blob/master/./bibtex.bib#L51-L66) </details><details><summary><img src=https://github.com/wutong8023/Awesome_Information_Extraction/blob/master/scripts/svg/copy_icon.png height="20" align="bottom"></summary><pre>```RenWHQVJAH17```
+- [![](https://img.shields.io/badge/ACL-2014-blue)](https://doi.org/10.3115/v1/p14-1038)<a href="https://scholar.google.com.hk/scholar?q=Incremental+Joint+Extraction+of+Entity+Mentions+and+Relations"><img src="https://img.shields.io/badge/-blue.svg?&logo=google-scholar&logoColor=white" height="18" align="bottom"></a> [**Incremental Joint Extraction of Entity Mentions and Relations**](https://doi.org/10.3115/v1/p14-1038) , <br> by *Qi Li and
+Heng Ji* [[bib]](https://github.com/wutong8023/Awesome_Information_Extraction/blob/master/./bibtex.bib#L68-L76) </details><details><summary><img src=https://github.com/wutong8023/Awesome_Information_Extraction/blob/master/scripts/svg/copy_icon.png height="20" align="bottom"></summary><pre>```LiJ14```
 ## Peng Li
 
 - [![](https://img.shields.io/badge/ACL-2021-blue)](https://aclanthology.org/2021.acl-long.491)<a href="https://scholar.google.com.hk/scholar?q=CLEVE:+Contrastive+Pre-training+for+Event+Extraction"><img src="https://img.shields.io/badge/-blue.svg?&logo=google-scholar&logoColor=white" height="18" align="bottom"></a> [**CLEVE: Contrastive Pre-training for Event Extraction**](https://aclanthology.org/2021.acl-long.491) , <br> by *Wang, Ziqi  and
@@ -563,39 +603,6 @@ Liu, Zhiyuan  and
 Huang, Lixin  and
 Zhou, Jie  and
 Sun, Maosong* [[bib]](https://github.com/wutong8023/Awesome_Information_Extraction/blob/master/./bibtex.bib#L1492-L1508) </details><details><summary><img src=https://github.com/wutong8023/Awesome_Information_Extraction/blob/master/scripts/svg/copy_icon.png height="20" align="bottom"></summary><pre>```yao-etal-2019-docred```
-## Heng Ji
-
-- [![](https://img.shields.io/badge/NAACL_HLT-2021-blue)](https://www.aclweb.org/anthology/2021.naacl-main.4)<a href="https://scholar.google.com.hk/scholar?q=Abstract+Meaning+Representation+Guided+Graph+Encoding+and+Decoding+for+Joint+Information+Extraction"><img src="https://img.shields.io/badge/-blue.svg?&logo=google-scholar&logoColor=white" height="18" align="bottom"></a> [**Abstract Meaning Representation Guided Graph Encoding and Decoding for Joint Information Extraction**](https://www.aclweb.org/anthology/2021.naacl-main.4) , <br> by *Zhang, Zixuan  and
-Ji, Heng* [[bib]](https://github.com/wutong8023/Awesome_Information_Extraction/blob/master/./bibtex.bib#L566-L573) </details><details><summary><img src=https://github.com/wutong8023/Awesome_Information_Extraction/blob/master/scripts/svg/copy_icon.png height="20" align="bottom"></summary><pre>```zhang-ji-2021-abstract```
-- [![](https://img.shields.io/badge/ACL-2021-blue)](https://aclanthology.org/2021.acl-long.488)<a href="https://scholar.google.com.hk/scholar?q=Joint+Biomedical+Entity+and+Relation+Extraction+with+Knowledge-Enhanced+Collective+Inference"><img src="https://img.shields.io/badge/-blue.svg?&logo=google-scholar&logoColor=white" height="18" align="bottom"></a> [**Joint Biomedical Entity and Relation Extraction with Knowledge-Enhanced Collective Inference**](https://aclanthology.org/2021.acl-long.488) , <br> by *Lai, Tuan  and
-Ji, Heng  and
-Zhai, ChengXiang  and
-Tran, Quan Hung* [[bib]](https://github.com/wutong8023/Awesome_Information_Extraction/blob/master/./bibtex.bib#L883-L893) </details><details><summary><img src=https://github.com/wutong8023/Awesome_Information_Extraction/blob/master/scripts/svg/copy_icon.png height="20" align="bottom"></summary><pre>```lai-etal-2021-joint```
-- [![](https://img.shields.io/badge/NAACL-2021-blue)](https://www.aclweb.org/anthology/2021.naacl-main.69/)<a href="https://scholar.google.com.hk/scholar?q=Document-Level+Event+Argument+Extraction+by+Conditional+Generation"><img src="https://img.shields.io/badge/-blue.svg?&logo=google-scholar&logoColor=white" height="18" align="bottom"></a> [**Document-Level Event Argument Extraction by Conditional Generation**](https://www.aclweb.org/anthology/2021.naacl-main.69/) , <br> by *Sha Li and
-Heng Ji and
-Jiawei Han* [[bib]](https://github.com/wutong8023/Awesome_Information_Extraction/blob/master/./bibtex.bib#L1481-L1490) </details><details><summary><img src=https://github.com/wutong8023/Awesome_Information_Extraction/blob/master/scripts/svg/copy_icon.png height="20" align="bottom"></summary><pre>```LiJH21```
-- [![](https://img.shields.io/badge/ACL-2020-blue)](https://aclanthology.org/2020.acl-main.713)<a href="https://scholar.google.com.hk/scholar?q=A+Joint+Neural+Model+for+Information+Extraction+with+Global+Features"><img src="https://img.shields.io/badge/-blue.svg?&logo=google-scholar&logoColor=white" height="18" align="bottom"></a> [**A Joint Neural Model for Information Extraction with Global Features**](https://aclanthology.org/2020.acl-main.713) , <br> by *Lin, Ying  and
-Ji, Heng  and
-Huang, Fei  and
-Wu, Lingfei* [[bib]](https://github.com/wutong8023/Awesome_Information_Extraction/blob/master/./bibtex.bib#L423-L433) </details><details><summary><img src=https://github.com/wutong8023/Awesome_Information_Extraction/blob/master/scripts/svg/copy_icon.png height="20" align="bottom"></summary><pre>```lin-etal-2020-joint```
-- [![](https://img.shields.io/badge/ACL-2020-blue)](https://www.aclweb.org/anthology/2020.acl-main.230)<a href="https://scholar.google.com.hk/scholar?q=Cross-media+Structured+Common+Space+for+Multimedia+Event+Extraction"><img src="https://img.shields.io/badge/-blue.svg?&logo=google-scholar&logoColor=white" height="18" align="bottom"></a> [**Cross-media Structured Common Space for Multimedia Event Extraction**](https://www.aclweb.org/anthology/2020.acl-main.230) , <br> by *Li, Manling  and
-Zareian, Alireza  and
-Zeng, Qi  and
-Whitehead, Spencer  and
-Lu, Di  and
-Ji, Heng  and
-Chang, Shih-Fu* [[bib]](https://github.com/wutong8023/Awesome_Information_Extraction/blob/master/./bibtex.bib#L1084-L1097) </details><details><summary><img src=https://github.com/wutong8023/Awesome_Information_Extraction/blob/master/scripts/svg/copy_icon.png height="20" align="bottom"></summary><pre>```li-etal-2020-cross```
-- [![](https://img.shields.io/badge/WWW-2017-blue)](https://doi.org/10.1145/3038912.3052708)<a href="https://scholar.google.com.hk/scholar?q=CoType:+Joint+Extraction+of+Typed+Entities+and+Relations+with+Knowledge+Bases"><img src="https://img.shields.io/badge/-blue.svg?&logo=google-scholar&logoColor=white" height="18" align="bottom"></a> [**CoType: Joint Extraction of Typed Entities and Relations with Knowledge
-Bases**](https://doi.org/10.1145/3038912.3052708) , <br> by *Xiang Ren and
-Zeqiu Wu and
-Wenqi He and
-Meng Qu and
-Clare R. Voss and
-Heng Ji and
-Tarek F. Abdelzaher and
-Jiawei Han* [[bib]](https://github.com/wutong8023/Awesome_Information_Extraction/blob/master/./bibtex.bib#L51-L66) </details><details><summary><img src=https://github.com/wutong8023/Awesome_Information_Extraction/blob/master/scripts/svg/copy_icon.png height="20" align="bottom"></summary><pre>```RenWHQVJAH17```
-- [![](https://img.shields.io/badge/ACL-2014-blue)](https://doi.org/10.3115/v1/p14-1038)<a href="https://scholar.google.com.hk/scholar?q=Incremental+Joint+Extraction+of+Entity+Mentions+and+Relations"><img src="https://img.shields.io/badge/-blue.svg?&logo=google-scholar&logoColor=white" height="18" align="bottom"></a> [**Incremental Joint Extraction of Entity Mentions and Relations**](https://doi.org/10.3115/v1/p14-1038) , <br> by *Qi Li and
-Heng Ji* [[bib]](https://github.com/wutong8023/Awesome_Information_Extraction/blob/master/./bibtex.bib#L68-L76) </details><details><summary><img src=https://github.com/wutong8023/Awesome_Information_Extraction/blob/master/scripts/svg/copy_icon.png height="20" align="bottom"></summary><pre>```LiJ14```
 ## Jie Zhou
 
 - [![](https://img.shields.io/badge/ACL-2021-blue)](https://aclanthology.org/2021.acl-long.491)<a href="https://scholar.google.com.hk/scholar?q=CLEVE:+Contrastive+Pre-training+for+Event+Extraction"><img src="https://img.shields.io/badge/-blue.svg?&logo=google-scholar&logoColor=white" height="18" align="bottom"></a> [**CLEVE: Contrastive Pre-training for Event Extraction**](https://aclanthology.org/2021.acl-long.491) , <br> by *Wang, Ziqi  and
@@ -698,6 +705,28 @@ Xu Han and
 Zhiyuan Liu and
 Maosong Sun* [[bib]](https://github.com/wutong8023/Awesome_Information_Extraction/blob/master/./bibtex.bib#L315-L326) ```HATT
 ```</details><details><summary><img src=https://github.com/wutong8023/Awesome_Information_Extraction/blob/master/scripts/svg/copy_icon.png height="20" align="bottom"></summary><pre>```GaoH0S19```
+## Nanyun Peng
+
+- [![](https://img.shields.io/badge/NUSE_NAACL-2021-blue)](https://www.aclweb.org/anthology/2021.nuse-1.4)<a href="https://scholar.google.com.hk/scholar?q=Document-level+Event+Extraction+with+Efficient+End-to-end+Learning+of+Cross-event+Dependencies"><img src="https://img.shields.io/badge/-blue.svg?&logo=google-scholar&logoColor=white" height="18" align="bottom"></a> [**Document-level Event Extraction with Efficient End-to-end Learning of Cross-event Dependencies**](https://www.aclweb.org/anthology/2021.nuse-1.4) , <br> by *Huang, Kung-Hsiang  and
+Peng, Nanyun* [[bib]](https://github.com/wutong8023/Awesome_Information_Extraction/blob/master/./bibtex.bib#L185-L193) </details><details><summary><img src=https://github.com/wutong8023/Awesome_Information_Extraction/blob/master/scripts/svg/copy_icon.png height="20" align="bottom"></summary><pre>```huang-peng-2021-document```
+- [![](https://img.shields.io/badge/CoRR-2021-blue)](https://arxiv.org/abs/2108.12724)<a href="https://scholar.google.com.hk/scholar?q=Event+Extraction+as+Natural+Language+Generation"><img src="https://img.shields.io/badge/-blue.svg?&logo=google-scholar&logoColor=white" height="18" align="bottom"></a> [**Event Extraction as Natural Language Generation**](https://arxiv.org/abs/2108.12724) , <br> by *I-Hung Hsu, Kuan-Hao Huang, Elizabeth Boschee, Scott Miller, Prem Natarajan, Kai-Wei Chang and Nanyun Peng* [[bib]](https://github.com/wutong8023/Awesome_Information_Extraction/blob/master/./bibtex.bib#L1780-L1787) </details><details><summary><img src=https://github.com/wutong8023/Awesome_Information_Extraction/blob/master/scripts/svg/copy_icon.png height="20" align="bottom"></summary><pre>```hsu2021event```
+- [![](https://img.shields.io/badge/CoRR-2021-blue)](https://arxiv.org/abs/2104.08350)<a href="https://scholar.google.com.hk/scholar?q=ESTER:+A+Machine+Reading+Comprehension+Dataset+for+Event+Semantic+Relation+Reasoning"><img src="https://img.shields.io/badge/-blue.svg?&logo=google-scholar&logoColor=white" height="18" align="bottom"></a> [**ESTER: A Machine Reading Comprehension Dataset for Event Semantic
+Relation Reasoning**](https://arxiv.org/abs/2104.08350) , <br> by *Rujun Han and
+I{-}Hung Hsu and
+Jiao Sun and
+Julia Baylon and
+Qiang Ning and
+Dan Roth and
+Nanyun Peng* [[bib]](https://github.com/wutong8023/Awesome_Information_Extraction/blob/master/./bibtex.bib#L1798-L1815) ```EMNLP 2021, A QA dataset for event relation reasoning.
+```</details><details><summary><img src=https://github.com/wutong8023/Awesome_Information_Extraction/blob/master/scripts/svg/copy_icon.png height="20" align="bottom"></summary><pre>```abs-2104-08350```
+- [![](https://img.shields.io/badge/EMNLP-2020-blue)](https://www.aclweb.org/anthology/2020.emnlp-main.461)<a href="https://scholar.google.com.hk/scholar?q=Domain+Knowledge+Empowered+Structured+Neural+Net+for+End-to-End+Event+Temporal+Relation+Extraction"><img src="https://img.shields.io/badge/-blue.svg?&logo=google-scholar&logoColor=white" height="18" align="bottom"></a> [**Domain Knowledge Empowered Structured Neural Net for End-to-End Event Temporal Relation Extraction**](https://www.aclweb.org/anthology/2020.emnlp-main.461) , <br> by *Han, Rujun  and
+Zhou, Yichao  and
+Peng, Nanyun* [[bib]](https://github.com/wutong8023/Awesome_Information_Extraction/blob/master/./bibtex.bib#L1225-L1234) </details><details><summary><img src=https://github.com/wutong8023/Awesome_Information_Extraction/blob/master/scripts/svg/copy_icon.png height="20" align="bottom"></summary><pre>```han-etal-2020-domain```
+- [![](https://img.shields.io/badge/TACL-2017-blue)](https://transacl.org/ojs/index.php/tacl/article/view/1028)<a href="https://scholar.google.com.hk/scholar?q=Cross-A+Large-Scale+Document-Level+RelatSentence+N-ary+Relation+Extraction+with+Graph+LSTMs"><img src="https://img.shields.io/badge/-blue.svg?&logo=google-scholar&logoColor=white" height="18" align="bottom"></a> [**Cross-A Large-Scale Document-Level RelatSentence N-ary Relation Extraction with Graph LSTMs**](https://transacl.org/ojs/index.php/tacl/article/view/1028) , <br> by *Nanyun Peng and
+Hoifung Poon and
+Chris Quirk and
+Kristina Toutanova and
+Wen{-}tau Yih* [[bib]](https://github.com/wutong8023/Awesome_Information_Extraction/blob/master/./bibtex.bib#L1707-L1719) </details><details><summary><img src=https://github.com/wutong8023/Awesome_Information_Extraction/blob/master/scripts/svg/copy_icon.png height="20" align="bottom"></summary><pre>```PengPQTY17```
 ## Claire Cardie
 
 - [![](https://img.shields.io/badge/EACL-2021-blue)](https://www.aclweb.org/anthology/2021.eacl-main.52/)<a href="https://scholar.google.com.hk/scholar?q=GRIT:+Generative+Role-filler+Transformers+for+Document-level+Event+Entity+Extraction"><img src="https://img.shields.io/badge/-blue.svg?&logo=google-scholar&logoColor=white" height="18" align="bottom"></a> [**GRIT: Generative Role-filler Transformers for Document-level Event
@@ -868,19 +897,6 @@ Yuan Yao and
 Zhiyuan Liu and
 Maosong Sun* [[bib]](https://github.com/wutong8023/Awesome_Information_Extraction/blob/master/./bibtex.bib#L270-L284) ```FewRel dataset
 ```</details><details><summary><img src=https://github.com/wutong8023/Awesome_Information_Extraction/blob/master/scripts/svg/copy_icon.png height="20" align="bottom"></summary><pre>```HanZYWYLS18```
-## Nanyun Peng
-
-- [![](https://img.shields.io/badge/NUSE_NAACL-2021-blue)](https://www.aclweb.org/anthology/2021.nuse-1.4)<a href="https://scholar.google.com.hk/scholar?q=Document-level+Event+Extraction+with+Efficient+End-to-end+Learning+of+Cross-event+Dependencies"><img src="https://img.shields.io/badge/-blue.svg?&logo=google-scholar&logoColor=white" height="18" align="bottom"></a> [**Document-level Event Extraction with Efficient End-to-end Learning of Cross-event Dependencies**](https://www.aclweb.org/anthology/2021.nuse-1.4) , <br> by *Huang, Kung-Hsiang  and
-Peng, Nanyun* [[bib]](https://github.com/wutong8023/Awesome_Information_Extraction/blob/master/./bibtex.bib#L185-L193) </details><details><summary><img src=https://github.com/wutong8023/Awesome_Information_Extraction/blob/master/scripts/svg/copy_icon.png height="20" align="bottom"></summary><pre>```huang-peng-2021-document```
-- [![](https://img.shields.io/badge/CoRR-2021-blue)](https://arxiv.org/abs/2108.12724)<a href="https://scholar.google.com.hk/scholar?q=Event+Extraction+as+Natural+Language+Generation"><img src="https://img.shields.io/badge/-blue.svg?&logo=google-scholar&logoColor=white" height="18" align="bottom"></a> [**Event Extraction as Natural Language Generation**](https://arxiv.org/abs/2108.12724) , <br> by *I-Hung Hsu, Kuan-Hao Huang, Elizabeth Boschee, Scott Miller, Prem Natarajan, Kai-Wei Chang and Nanyun Peng* [[bib]](https://github.com/wutong8023/Awesome_Information_Extraction/blob/master/./bibtex.bib#L1780-L1787) </details><details><summary><img src=https://github.com/wutong8023/Awesome_Information_Extraction/blob/master/scripts/svg/copy_icon.png height="20" align="bottom"></summary><pre>```hsu2021event```
-- [![](https://img.shields.io/badge/EMNLP-2020-blue)](https://www.aclweb.org/anthology/2020.emnlp-main.461)<a href="https://scholar.google.com.hk/scholar?q=Domain+Knowledge+Empowered+Structured+Neural+Net+for+End-to-End+Event+Temporal+Relation+Extraction"><img src="https://img.shields.io/badge/-blue.svg?&logo=google-scholar&logoColor=white" height="18" align="bottom"></a> [**Domain Knowledge Empowered Structured Neural Net for End-to-End Event Temporal Relation Extraction**](https://www.aclweb.org/anthology/2020.emnlp-main.461) , <br> by *Han, Rujun  and
-Zhou, Yichao  and
-Peng, Nanyun* [[bib]](https://github.com/wutong8023/Awesome_Information_Extraction/blob/master/./bibtex.bib#L1225-L1234) </details><details><summary><img src=https://github.com/wutong8023/Awesome_Information_Extraction/blob/master/scripts/svg/copy_icon.png height="20" align="bottom"></summary><pre>```han-etal-2020-domain```
-- [![](https://img.shields.io/badge/TACL-2017-blue)](https://transacl.org/ojs/index.php/tacl/article/view/1028)<a href="https://scholar.google.com.hk/scholar?q=Cross-A+Large-Scale+Document-Level+RelatSentence+N-ary+Relation+Extraction+with+Graph+LSTMs"><img src="https://img.shields.io/badge/-blue.svg?&logo=google-scholar&logoColor=white" height="18" align="bottom"></a> [**Cross-A Large-Scale Document-Level RelatSentence N-ary Relation Extraction with Graph LSTMs**](https://transacl.org/ojs/index.php/tacl/article/view/1028) , <br> by *Nanyun Peng and
-Hoifung Poon and
-Chris Quirk and
-Kristina Toutanova and
-Wen{-}tau Yih* [[bib]](https://github.com/wutong8023/Awesome_Information_Extraction/blob/master/./bibtex.bib#L1707-L1719) </details><details><summary><img src=https://github.com/wutong8023/Awesome_Information_Extraction/blob/master/scripts/svg/copy_icon.png height="20" align="bottom"></summary><pre>```PengPQTY17```
 ## Fei Huang
 
 - [![](https://img.shields.io/badge/IJCAI-2021-blue)](https://doi.org/10.24963/ijcai.2021/551)<a href="https://scholar.google.com.hk/scholar?q=Document-level+Relation+Extraction+as+Semantic+Segmentation"><img src="https://img.shields.io/badge/-blue.svg?&logo=google-scholar&logoColor=white" height="18" align="bottom"></a> [**Document-level Relation Extraction as Semantic Segmentation**](https://doi.org/10.24963/ijcai.2021/551) , <br> by *Zhang, Ningyu, Chen, Xiang, Xie, Xin, Deng, Shumin, Tan, Chuanqi, Chen, Mosha, Huang, Fei, Si, Luo and Chen, Huajun* [[bib]](https://github.com/wutong8023/Awesome_Information_Extraction/blob/master/./bibtex.bib#L149-L156) </details><details><summary><img src=https://github.com/wutong8023/Awesome_Information_Extraction/blob/master/scripts/svg/copy_icon.png height="20" align="bottom"></summary><pre>```ijcai2021-551```
@@ -936,6 +952,27 @@ Shumin Deng and
 Hongbin Ye and
 Wei Zhang and
 Huajun Chen* [[bib]](https://github.com/wutong8023/Awesome_Information_Extraction/blob/master/./bibtex.bib#L255-L268) </details><details><summary><img src=https://github.com/wutong8023/Awesome_Information_Extraction/blob/master/scripts/svg/copy_icon.png height="20" align="bottom"></summary><pre>```YuZDYZC20```
+## Dan Roth
+
+- [![](https://img.shields.io/badge/ACL-2021-blue)](https://aclanthology.org/2021.acl-short.42)<a href="https://scholar.google.com.hk/scholar?q=Zero-shot+Event+Extraction+via+Transfer+Learning:+Challenges+and+Insights"><img src="https://img.shields.io/badge/-blue.svg?&logo=google-scholar&logoColor=white" height="18" align="bottom"></a> [**Zero-shot Event Extraction via Transfer Learning: Challenges and Insights**](https://aclanthology.org/2021.acl-short.42) , <br> by *Lyu, Qing  and
+Zhang, Hongming  and
+Sulem, Elior  and
+Roth, Dan* [[bib]](https://github.com/wutong8023/Awesome_Information_Extraction/blob/master/./bibtex.bib#L951-L961) </details><details><summary><img src=https://github.com/wutong8023/Awesome_Information_Extraction/blob/master/scripts/svg/copy_icon.png height="20" align="bottom"></summary><pre>```lyu-etal-2021-zero```
+- [![](https://img.shields.io/badge/CoRR-2021-blue)](https://arxiv.org/abs/2104.08350)<a href="https://scholar.google.com.hk/scholar?q=ESTER:+A+Machine+Reading+Comprehension+Dataset+for+Event+Semantic+Relation+Reasoning"><img src="https://img.shields.io/badge/-blue.svg?&logo=google-scholar&logoColor=white" height="18" align="bottom"></a> [**ESTER: A Machine Reading Comprehension Dataset for Event Semantic
+Relation Reasoning**](https://arxiv.org/abs/2104.08350) , <br> by *Rujun Han and
+I{-}Hung Hsu and
+Jiao Sun and
+Julia Baylon and
+Qiang Ning and
+Dan Roth and
+Nanyun Peng* [[bib]](https://github.com/wutong8023/Awesome_Information_Extraction/blob/master/./bibtex.bib#L1798-L1815) ```EMNLP 2021, A QA dataset for event relation reasoning.
+```</details><details><summary><img src=https://github.com/wutong8023/Awesome_Information_Extraction/blob/master/scripts/svg/copy_icon.png height="20" align="bottom"></summary><pre>```abs-2104-08350```
+- [![](https://img.shields.io/badge/EMNLP-2020-blue)](https://www.aclweb.org/anthology/2020.emnlp-main.51)<a href="https://scholar.google.com.hk/scholar?q=Joint+Constrained+Learning+for+Event-Event+Relation+Extraction"><img src="https://img.shields.io/badge/-blue.svg?&logo=google-scholar&logoColor=white" height="18" align="bottom"></a> [**Joint Constrained Learning for Event-Event Relation Extraction**](https://www.aclweb.org/anthology/2020.emnlp-main.51) , <br> by *Wang, Haoyu  and
+Chen, Muhao  and
+Zhang, Hongming  and
+Roth, Dan* [[bib]](https://github.com/wutong8023/Awesome_Information_Extraction/blob/master/./bibtex.bib#L1380-L1390) </details><details><summary><img src=https://github.com/wutong8023/Awesome_Information_Extraction/blob/master/scripts/svg/copy_icon.png height="20" align="bottom"></summary><pre>```wang-etal-2020-joint```
+- [![](https://img.shields.io/badge/ACL-2011-blue)](https://aclanthology.org/P11-1056/)<a href="https://scholar.google.com.hk/scholar?q=Exploiting+Syntactico-Semantic+Structures+for+Relation+Extraction"><img src="https://img.shields.io/badge/-blue.svg?&logo=google-scholar&logoColor=white" height="18" align="bottom"></a> [**Exploiting Syntactico-Semantic Structures for Relation Extraction**](https://aclanthology.org/P11-1056/) , <br> by *Yee Seng Chan and
+Dan Roth* [[bib]](https://github.com/wutong8023/Awesome_Information_Extraction/blob/master/./bibtex.bib#L90-L98) </details><details><summary><img src=https://github.com/wutong8023/Awesome_Information_Extraction/blob/master/scripts/svg/copy_icon.png height="20" align="bottom"></summary><pre>```ChanR11```
 ## Xinya Du
 
 - [![](https://img.shields.io/badge/EACL-2021-blue)](https://www.aclweb.org/anthology/2021.eacl-main.52/)<a href="https://scholar.google.com.hk/scholar?q=GRIT:+Generative+Role-filler+Transformers+for+Document-level+Event+Entity+Extraction"><img src="https://img.shields.io/badge/-blue.svg?&logo=google-scholar&logoColor=white" height="18" align="bottom"></a> [**GRIT: Generative Role-filler Transformers for Document-level Event
@@ -1357,18 +1394,22 @@ Shumin Deng and
 Hongbin Ye and
 Wei Zhang and
 Huajun Chen* [[bib]](https://github.com/wutong8023/Awesome_Information_Extraction/blob/master/./bibtex.bib#L255-L268) </details><details><summary><img src=https://github.com/wutong8023/Awesome_Information_Extraction/blob/master/scripts/svg/copy_icon.png height="20" align="bottom"></summary><pre>```YuZDYZC20```
-## Dan Roth
+## Jiawei Han
 
-- [![](https://img.shields.io/badge/ACL-2021-blue)](https://aclanthology.org/2021.acl-short.42)<a href="https://scholar.google.com.hk/scholar?q=Zero-shot+Event+Extraction+via+Transfer+Learning:+Challenges+and+Insights"><img src="https://img.shields.io/badge/-blue.svg?&logo=google-scholar&logoColor=white" height="18" align="bottom"></a> [**Zero-shot Event Extraction via Transfer Learning: Challenges and Insights**](https://aclanthology.org/2021.acl-short.42) , <br> by *Lyu, Qing  and
-Zhang, Hongming  and
-Sulem, Elior  and
-Roth, Dan* [[bib]](https://github.com/wutong8023/Awesome_Information_Extraction/blob/master/./bibtex.bib#L951-L961) </details><details><summary><img src=https://github.com/wutong8023/Awesome_Information_Extraction/blob/master/scripts/svg/copy_icon.png height="20" align="bottom"></summary><pre>```lyu-etal-2021-zero```
-- [![](https://img.shields.io/badge/EMNLP-2020-blue)](https://www.aclweb.org/anthology/2020.emnlp-main.51)<a href="https://scholar.google.com.hk/scholar?q=Joint+Constrained+Learning+for+Event-Event+Relation+Extraction"><img src="https://img.shields.io/badge/-blue.svg?&logo=google-scholar&logoColor=white" height="18" align="bottom"></a> [**Joint Constrained Learning for Event-Event Relation Extraction**](https://www.aclweb.org/anthology/2020.emnlp-main.51) , <br> by *Wang, Haoyu  and
-Chen, Muhao  and
-Zhang, Hongming  and
-Roth, Dan* [[bib]](https://github.com/wutong8023/Awesome_Information_Extraction/blob/master/./bibtex.bib#L1380-L1390) </details><details><summary><img src=https://github.com/wutong8023/Awesome_Information_Extraction/blob/master/scripts/svg/copy_icon.png height="20" align="bottom"></summary><pre>```wang-etal-2020-joint```
-- [![](https://img.shields.io/badge/ACL-2011-blue)](https://aclanthology.org/P11-1056/)<a href="https://scholar.google.com.hk/scholar?q=Exploiting+Syntactico-Semantic+Structures+for+Relation+Extraction"><img src="https://img.shields.io/badge/-blue.svg?&logo=google-scholar&logoColor=white" height="18" align="bottom"></a> [**Exploiting Syntactico-Semantic Structures for Relation Extraction**](https://aclanthology.org/P11-1056/) , <br> by *Yee Seng Chan and
-Dan Roth* [[bib]](https://github.com/wutong8023/Awesome_Information_Extraction/blob/master/./bibtex.bib#L90-L98) </details><details><summary><img src=https://github.com/wutong8023/Awesome_Information_Extraction/blob/master/scripts/svg/copy_icon.png height="20" align="bottom"></summary><pre>```ChanR11```
+- [![](https://img.shields.io/badge/NAACL-2021-blue)](https://www.aclweb.org/anthology/2021.naacl-main.69/)<a href="https://scholar.google.com.hk/scholar?q=Document-Level+Event+Argument+Extraction+by+Conditional+Generation"><img src="https://img.shields.io/badge/-blue.svg?&logo=google-scholar&logoColor=white" height="18" align="bottom"></a> [**Document-Level Event Argument Extraction by Conditional Generation**](https://www.aclweb.org/anthology/2021.naacl-main.69/) , <br> by *Sha Li and
+Heng Ji and
+Jiawei Han* [[bib]](https://github.com/wutong8023/Awesome_Information_Extraction/blob/master/./bibtex.bib#L1481-L1490) </details><details><summary><img src=https://github.com/wutong8023/Awesome_Information_Extraction/blob/master/scripts/svg/copy_icon.png height="20" align="bottom"></summary><pre>```LiJH21```
+- [![](https://img.shields.io/badge/CoRR-2021-blue)](https://arxiv.org/abs/2109.03322)<a href="https://scholar.google.com.hk/scholar?q=Corpus-based+Open-Domain+Event+Type+Induction"><img src="https://img.shields.io/badge/-blue.svg?&logo=google-scholar&logoColor=white" height="18" align="bottom"></a> [**Corpus-based Open-Domain Event Type Induction**](https://arxiv.org/abs/2109.03322) , <br> by *Jiaming Shen, Yunyi Zhang, Heng Ji and Jiawei Han* [[bib]](https://github.com/wutong8023/Awesome_Information_Extraction/blob/master/./bibtex.bib#L1849-L1856) ```EMNLP 2021. Proposing a new method for open event extraction.
+```</details><details><summary><img src=https://github.com/wutong8023/Awesome_Information_Extraction/blob/master/scripts/svg/copy_icon.png height="20" align="bottom"></summary><pre>```shen2021corpusbased```
+- [![](https://img.shields.io/badge/WWW-2017-blue)](https://doi.org/10.1145/3038912.3052708)<a href="https://scholar.google.com.hk/scholar?q=CoType:+Joint+Extraction+of+Typed+Entities+and+Relations+with+Knowledge+Bases"><img src="https://img.shields.io/badge/-blue.svg?&logo=google-scholar&logoColor=white" height="18" align="bottom"></a> [**CoType: Joint Extraction of Typed Entities and Relations with Knowledge
+Bases**](https://doi.org/10.1145/3038912.3052708) , <br> by *Xiang Ren and
+Zeqiu Wu and
+Wenqi He and
+Meng Qu and
+Clare R. Voss and
+Heng Ji and
+Tarek F. Abdelzaher and
+Jiawei Han* [[bib]](https://github.com/wutong8023/Awesome_Information_Extraction/blob/master/./bibtex.bib#L51-L66) </details><details><summary><img src=https://github.com/wutong8023/Awesome_Information_Extraction/blob/master/scripts/svg/copy_icon.png height="20" align="bottom"></summary><pre>```RenWHQVJAH17```
 ## Makoto Miwa
 
 - [![](https://img.shields.io/badge/NAACL_HLT-2021-blue)](https://www.aclweb.org/anthology/2021.naacl-main.2)<a href="https://scholar.google.com.hk/scholar?q=Distantly+Supervised+Relation+Extraction+with+Sentence+Reconstruction+and+Knowledge+Base+Priors"><img src="https://img.shields.io/badge/-blue.svg?&logo=google-scholar&logoColor=white" height="18" align="bottom"></a> [**Distantly Supervised Relation Extraction with Sentence Reconstruction and Knowledge Base Priors**](https://www.aclweb.org/anthology/2021.naacl-main.2) , <br> by *Christopoulou, Fenia  and
@@ -1398,6 +1439,13 @@ Learning**](https://www.aclweb.org/anthology/2021.eacl-main.319/) , <br> by *Mar
 Adrian Ulges* [[bib]](https://github.com/wutong8023/Awesome_Information_Extraction/blob/master/./bibtex.bib#L1445-L1454) </details><details><summary><img src=https://github.com/wutong8023/Awesome_Information_Extraction/blob/master/scripts/svg/copy_icon.png height="20" align="bottom"></summary><pre>```EbertsU21```
 - [![](https://img.shields.io/badge/ECAI-2020-blue)](https://doi.org/10.3233/FAIA200321)<a href="https://scholar.google.com.hk/scholar?q=Span-Based+Joint+Entity+and+Relation+Extraction+with+Transformer+Pre-Training"><img src="https://img.shields.io/badge/-blue.svg?&logo=google-scholar&logoColor=white" height="18" align="bottom"></a> [**Span-Based Joint Entity and Relation Extraction with Transformer Pre-Training**](https://doi.org/10.3233/FAIA200321) , <br> by *Markus Eberts and
 Adrian Ulges* [[bib]](https://github.com/wutong8023/Awesome_Information_Extraction/blob/master/./bibtex.bib#L1-L9) </details><details><summary><img src=https://github.com/wutong8023/Awesome_Information_Extraction/blob/master/scripts/svg/copy_icon.png height="20" align="bottom"></summary><pre>```EbertsU20```
+## Wei Hu
+
+- [![](https://img.shields.io/badge/CoRR-2021-blue)](https://arxiv.org/abs/2109.02099)<a href="https://scholar.google.com.hk/scholar?q=Knowing+False+Negatives:+An+Adversarial+Training+Method+for+Distantly+Supervised+Relation+Extraction"><img src="https://img.shields.io/badge/-blue.svg?&logo=google-scholar&logoColor=white" height="18" align="bottom"></a> [**Knowing False Negatives: An Adversarial Training Method for Distantly Supervised Relation Extraction**](https://arxiv.org/abs/2109.02099) , <br> by *Kailong Hao, Botao Yu and Wei Hu* [[bib]](https://github.com/wutong8023/Awesome_Information_Extraction/blob/master/./bibtex.bib#L1839-L1846) </details><details><summary><img src=https://github.com/wutong8023/Awesome_Information_Extraction/blob/master/scripts/svg/copy_icon.png height="20" align="bottom"></summary><pre>```hao2021knowing```
+- [![](https://img.shields.io/badge/EMNLP-2020-blue)](https://doi.org/10.18653/v1/2020.emnlp-main.303)<a href="https://scholar.google.com.hk/scholar?q=Global-to-Local+Neural+Networks+for+Document-Level+Relation+Extraction"><img src="https://img.shields.io/badge/-blue.svg?&logo=google-scholar&logoColor=white" height="18" align="bottom"></a> [**Global-to-Local Neural Networks for Document-Level Relation Extraction**](https://doi.org/10.18653/v1/2020.emnlp-main.303) , <br> by *Difeng Wang and
+Wei Hu and
+Ermei Cao and
+Weijian Sun* [[bib]](https://github.com/wutong8023/Awesome_Information_Extraction/blob/master/./bibtex.bib#L1671-L1681) </details><details><summary><img src=https://github.com/wutong8023/Awesome_Information_Extraction/blob/master/scripts/svg/copy_icon.png height="20" align="bottom"></summary><pre>```WangHCS20```
 ## Shikun Zhang
 
 - [![](https://img.shields.io/badge/AAAI-2021-blue)](https://ojs.aaai.org/index.php/AAAI/article/view/17563)<a href="https://scholar.google.com.hk/scholar?q=Multi-view+Inference+for+Relation+Extraction+with+Uncertain+Knowledge"><img src="https://img.shields.io/badge/-blue.svg?&logo=google-scholar&logoColor=white" height="18" align="bottom"></a> [**Multi-view Inference for Relation Extraction with Uncertain Knowledge**](https://ojs.aaai.org/index.php/AAAI/article/view/17563) , <br> by *Bo Li and
@@ -1504,6 +1552,16 @@ Jing Huang* [[bib]](https://github.com/wutong8023/Awesome_Information_Extraction
 Guangtao Wang and
 Tengyu Ma and
 Jing Huang* [[bib]](https://github.com/wutong8023/Awesome_Information_Extraction/blob/master/./bibtex.bib#L1751-L1761) </details><details><summary><img src=https://github.com/wutong8023/Awesome_Information_Extraction/blob/master/scripts/svg/copy_icon.png height="20" align="bottom"></summary><pre>```abs-2008-12283```
+## Wenxuan Zhou
+
+- [![](https://img.shields.io/badge/AAAI-2021-blue)](https://ojs.aaai.org/index.php/AAAI/article/view/17717)<a href="https://scholar.google.com.hk/scholar?q=Document-Level+Relation+Extraction+with+Adaptive+Thresholding+and+Localized+Context+Pooling"><img src="https://img.shields.io/badge/-blue.svg?&logo=google-scholar&logoColor=white" height="18" align="bottom"></a> [**Document-Level Relation Extraction with Adaptive Thresholding and
+Localized Context Pooling**](https://ojs.aaai.org/index.php/AAAI/article/view/17717) , <br> by *Wenxuan Zhou and
+Kevin Huang and
+Tengyu Ma and
+Jing Huang* [[bib]](https://github.com/wutong8023/Awesome_Information_Extraction/blob/master/./bibtex.bib#L1510-L1521) </details><details><summary><img src=https://github.com/wutong8023/Awesome_Information_Extraction/blob/master/scripts/svg/copy_icon.png height="20" align="bottom"></summary><pre>```Zhou0M021```
+- [![](https://img.shields.io/badge/CoRR-2021-blue)](https://arxiv.org/abs/2104.08656)<a href="https://scholar.google.com.hk/scholar?q=Learning+from+Noisy+Labels+for+Entity-Centric+Information+Extraction"><img src="https://img.shields.io/badge/-blue.svg?&logo=google-scholar&logoColor=white" height="18" align="bottom"></a> [**Learning from Noisy Labels for Entity-Centric Information Extraction**](https://arxiv.org/abs/2104.08656) , <br> by *Wenxuan Zhou and
+Muhao Chen* [[bib]](https://github.com/wutong8023/Awesome_Information_Extraction/blob/master/./bibtex.bib#L1818-L1826) ```EMNLP 2021, Model ensembling for both NER and RE.
+```</details><details><summary><img src=https://github.com/wutong8023/Awesome_Information_Extraction/blob/master/scripts/svg/copy_icon.png height="20" align="bottom"></summary><pre>```abs-2104-08656```
 ## Zhenghao Liu
 
 - [![](https://img.shields.io/badge/EMNLP-2020-blue)](https://doi.org/10.18653/v1/2020.emnlp-main.582)<a href="https://scholar.google.com.hk/scholar?q=Coreferential+Reasoning+Learning+for+Language+Representation"><img src="https://img.shields.io/badge/-blue.svg?&logo=google-scholar&logoColor=white" height="18" align="bottom"></a> [**Coreferential Reasoning Learning for Language Representation**](https://doi.org/10.18653/v1/2020.emnlp-main.582) , <br> by *Deming Ye and
@@ -1542,6 +1600,15 @@ Liu, Zhiyuan  and
 Huang, Lixin  and
 Zhou, Jie  and
 Sun, Maosong* [[bib]](https://github.com/wutong8023/Awesome_Information_Extraction/blob/master/./bibtex.bib#L1492-L1508) </details><details><summary><img src=https://github.com/wutong8023/Awesome_Information_Extraction/blob/master/scripts/svg/copy_icon.png height="20" align="bottom"></summary><pre>```yao-etal-2019-docred```
+## Muhao Chen
+
+- [![](https://img.shields.io/badge/CoRR-2021-blue)](https://arxiv.org/abs/2104.08656)<a href="https://scholar.google.com.hk/scholar?q=Learning+from+Noisy+Labels+for+Entity-Centric+Information+Extraction"><img src="https://img.shields.io/badge/-blue.svg?&logo=google-scholar&logoColor=white" height="18" align="bottom"></a> [**Learning from Noisy Labels for Entity-Centric Information Extraction**](https://arxiv.org/abs/2104.08656) , <br> by *Wenxuan Zhou and
+Muhao Chen* [[bib]](https://github.com/wutong8023/Awesome_Information_Extraction/blob/master/./bibtex.bib#L1818-L1826) ```EMNLP 2021, Model ensembling for both NER and RE.
+```</details><details><summary><img src=https://github.com/wutong8023/Awesome_Information_Extraction/blob/master/scripts/svg/copy_icon.png height="20" align="bottom"></summary><pre>```abs-2104-08656```
+- [![](https://img.shields.io/badge/EMNLP-2020-blue)](https://www.aclweb.org/anthology/2020.emnlp-main.51)<a href="https://scholar.google.com.hk/scholar?q=Joint+Constrained+Learning+for+Event-Event+Relation+Extraction"><img src="https://img.shields.io/badge/-blue.svg?&logo=google-scholar&logoColor=white" height="18" align="bottom"></a> [**Joint Constrained Learning for Event-Event Relation Extraction**](https://www.aclweb.org/anthology/2020.emnlp-main.51) , <br> by *Wang, Haoyu  and
+Chen, Muhao  and
+Zhang, Hongming  and
+Roth, Dan* [[bib]](https://github.com/wutong8023/Awesome_Information_Extraction/blob/master/./bibtex.bib#L1380-L1390) </details><details><summary><img src=https://github.com/wutong8023/Awesome_Information_Extraction/blob/master/scripts/svg/copy_icon.png height="20" align="bottom"></summary><pre>```wang-etal-2020-joint```
 ## Wei Lu
 
 - [![](https://img.shields.io/badge/EMNLP-2020-blue)](https://www.aclweb.org/anthology/2020.emnlp-main.133)<a href="https://scholar.google.com.hk/scholar?q=Two+are+Better+than+One:+Joint+Entity+and+Relation+Extraction+with+Table-Sequence+Encoders"><img src="https://img.shields.io/badge/-blue.svg?&logo=google-scholar&logoColor=white" height="18" align="bottom"></a> [**Two are Better than One: Joint Entity and Relation Extraction with Table-Sequence Encoders**](https://www.aclweb.org/anthology/2020.emnlp-main.133) , <br> by *Wang, Jue  and
@@ -1560,6 +1627,20 @@ Yoav Goldberg* [[bib]](https://github.com/wutong8023/Awesome_Information_Extract
 - [![](https://img.shields.io/badge/EMNLP-2020-blue)](https://www.aclweb.org/anthology/2020.emnlp-main.302)<a href="https://scholar.google.com.hk/scholar?q=Exposing+Shallow+Heuristics+of+Relation+Extraction+Models+with+Challenge+Data"><img src="https://img.shields.io/badge/-blue.svg?&logo=google-scholar&logoColor=white" height="18" align="bottom"></a> [**Exposing Shallow Heuristics of Relation Extraction Models with Challenge Data**](https://www.aclweb.org/anthology/2020.emnlp-main.302) , <br> by *Rosenman, Shachar  and
 Jacovi, Alon  and
 Goldberg, Yoav* [[bib]](https://github.com/wutong8023/Awesome_Information_Extraction/blob/master/./bibtex.bib#L1262-L1271) </details><details><summary><img src=https://github.com/wutong8023/Awesome_Information_Extraction/blob/master/scripts/svg/copy_icon.png height="20" align="bottom"></summary><pre>```rosenman-etal-2020-exposing```
+## Rujun Han
+
+- [![](https://img.shields.io/badge/CoRR-2021-blue)](https://arxiv.org/abs/2104.08350)<a href="https://scholar.google.com.hk/scholar?q=ESTER:+A+Machine+Reading+Comprehension+Dataset+for+Event+Semantic+Relation+Reasoning"><img src="https://img.shields.io/badge/-blue.svg?&logo=google-scholar&logoColor=white" height="18" align="bottom"></a> [**ESTER: A Machine Reading Comprehension Dataset for Event Semantic
+Relation Reasoning**](https://arxiv.org/abs/2104.08350) , <br> by *Rujun Han and
+I{-}Hung Hsu and
+Jiao Sun and
+Julia Baylon and
+Qiang Ning and
+Dan Roth and
+Nanyun Peng* [[bib]](https://github.com/wutong8023/Awesome_Information_Extraction/blob/master/./bibtex.bib#L1798-L1815) ```EMNLP 2021, A QA dataset for event relation reasoning.
+```</details><details><summary><img src=https://github.com/wutong8023/Awesome_Information_Extraction/blob/master/scripts/svg/copy_icon.png height="20" align="bottom"></summary><pre>```abs-2104-08350```
+- [![](https://img.shields.io/badge/EMNLP-2020-blue)](https://www.aclweb.org/anthology/2020.emnlp-main.461)<a href="https://scholar.google.com.hk/scholar?q=Domain+Knowledge+Empowered+Structured+Neural+Net+for+End-to-End+Event+Temporal+Relation+Extraction"><img src="https://img.shields.io/badge/-blue.svg?&logo=google-scholar&logoColor=white" height="18" align="bottom"></a> [**Domain Knowledge Empowered Structured Neural Net for End-to-End Event Temporal Relation Extraction**](https://www.aclweb.org/anthology/2020.emnlp-main.461) , <br> by *Han, Rujun  and
+Zhou, Yichao  and
+Peng, Nanyun* [[bib]](https://github.com/wutong8023/Awesome_Information_Extraction/blob/master/./bibtex.bib#L1225-L1234) </details><details><summary><img src=https://github.com/wutong8023/Awesome_Information_Extraction/blob/master/scripts/svg/copy_icon.png height="20" align="bottom"></summary><pre>```han-etal-2020-domain```
 ## Leonhard Hennig
 
 - [![](https://img.shields.io/badge/ACL-2020-blue)](https://www.aclweb.org/anthology/2020.acl-main.142)<a href="https://scholar.google.com.hk/scholar?q=TACRED+Revisited:+A+Thorough+Evaluation+of+the+TACRED+Relation+Extraction+Task"><img src="https://img.shields.io/badge/-blue.svg?&logo=google-scholar&logoColor=white" height="18" align="bottom"></a> [**TACRED Revisited: A Thorough Evaluation of the TACRED Relation Extraction Task**](https://www.aclweb.org/anthology/2020.acl-main.142) , <br> by *Alt, Christoph  and
@@ -1669,6 +1750,16 @@ Roth, Dan* [[bib]](https://github.com/wutong8023/Awesome_Information_Extraction/
 Chen, Muhao  and
 Zhang, Hongming  and
 Roth, Dan* [[bib]](https://github.com/wutong8023/Awesome_Information_Extraction/blob/master/./bibtex.bib#L1380-L1390) </details><details><summary><img src=https://github.com/wutong8023/Awesome_Information_Extraction/blob/master/scripts/svg/copy_icon.png height="20" align="bottom"></summary><pre>```wang-etal-2020-joint```
+## Qi Zhang
+
+- [![](https://img.shields.io/badge/ACL-2021-blue)](https://aclanthology.org/2021.acl-long.484)<a href="https://scholar.google.com.hk/scholar?q=SENT:+Sentence-level+Distant+Relation+Extraction+via+Negative+Training"><img src="https://img.shields.io/badge/-blue.svg?&logo=google-scholar&logoColor=white" height="18" align="bottom"></a> [**SENT: Sentence-level Distant Relation Extraction via Negative Training**](https://aclanthology.org/2021.acl-long.484) , <br> by *Ma, Ruotian  and
+Gui, Tao  and
+Li, Linyang  and
+Zhang, Qi  and
+Huang, Xuanjing  and
+Zhou, Yaqian* [[bib]](https://github.com/wutong8023/Awesome_Information_Extraction/blob/master/./bibtex.bib#L895-L907) </details><details><summary><img src=https://github.com/wutong8023/Awesome_Information_Extraction/blob/master/scripts/svg/copy_icon.png height="20" align="bottom"></summary><pre>```ma-etal-2021-sent```
+- [![](https://img.shields.io/badge/CoRR-2021-blue)](https://arxiv.org/abs/2108.12202)<a href="https://scholar.google.com.hk/scholar?q=A+Partition+Filter+Network+for+Joint+Entity+and+Relation+Extraction"><img src="https://img.shields.io/badge/-blue.svg?&logo=google-scholar&logoColor=white" height="18" align="bottom"></a> [**A Partition Filter Network for Joint Entity and Relation Extraction**](https://arxiv.org/abs/2108.12202) , <br> by *Zhiheng Yan, Chong Zhang, Jinlan Fu, Qi Zhang and Zhongyu Wei* [[bib]](https://github.com/wutong8023/Awesome_Information_Extraction/blob/master/./bibtex.bib#L1829-L1836) ```EMNLP 2021. A Non-transformer method for joint entity-relation extraction.
+```</details><details><summary><img src=https://github.com/wutong8023/Awesome_Information_Extraction/blob/master/scripts/svg/copy_icon.png height="20" align="bottom"></summary><pre>```yan2021partition```
 ## Baobao Chang
 
 - [![](https://img.shields.io/badge/ACL-2021-blue)](https://aclanthology.org/2021.acl-long.274)<a href="https://scholar.google.com.hk/scholar?q=Document-level+Event+Extraction+via+Heterogeneous+Graph-based+Interaction+Model+with+a+Tracker"><img src="https://img.shields.io/badge/-blue.svg?&logo=google-scholar&logoColor=white" height="18" align="bottom"></a> [**Document-level Event Extraction via Heterogeneous Graph-based Interaction Model with a Tracker**](https://aclanthology.org/2021.acl-long.274) , <br> by *Xu, Runxin  and
@@ -2048,20 +2139,6 @@ Tingwen Liu and
 Hengzhu Tang and
 Yubin Wang and
 Li Guo* [[bib]](https://github.com/wutong8023/Awesome_Information_Extraction/blob/master/./bibtex.bib#L1656-L1669) </details><details><summary><img src=https://github.com/wutong8023/Awesome_Information_Extraction/blob/master/scripts/svg/copy_icon.png height="20" align="bottom"></summary><pre>```ZhangYSLTWG20```
-## Jiawei Han
-
-- [![](https://img.shields.io/badge/NAACL-2021-blue)](https://www.aclweb.org/anthology/2021.naacl-main.69/)<a href="https://scholar.google.com.hk/scholar?q=Document-Level+Event+Argument+Extraction+by+Conditional+Generation"><img src="https://img.shields.io/badge/-blue.svg?&logo=google-scholar&logoColor=white" height="18" align="bottom"></a> [**Document-Level Event Argument Extraction by Conditional Generation**](https://www.aclweb.org/anthology/2021.naacl-main.69/) , <br> by *Sha Li and
-Heng Ji and
-Jiawei Han* [[bib]](https://github.com/wutong8023/Awesome_Information_Extraction/blob/master/./bibtex.bib#L1481-L1490) </details><details><summary><img src=https://github.com/wutong8023/Awesome_Information_Extraction/blob/master/scripts/svg/copy_icon.png height="20" align="bottom"></summary><pre>```LiJH21```
-- [![](https://img.shields.io/badge/WWW-2017-blue)](https://doi.org/10.1145/3038912.3052708)<a href="https://scholar.google.com.hk/scholar?q=CoType:+Joint+Extraction+of+Typed+Entities+and+Relations+with+Knowledge+Bases"><img src="https://img.shields.io/badge/-blue.svg?&logo=google-scholar&logoColor=white" height="18" align="bottom"></a> [**CoType: Joint Extraction of Typed Entities and Relations with Knowledge
-Bases**](https://doi.org/10.1145/3038912.3052708) , <br> by *Xiang Ren and
-Zeqiu Wu and
-Wenqi He and
-Meng Qu and
-Clare R. Voss and
-Heng Ji and
-Tarek F. Abdelzaher and
-Jiawei Han* [[bib]](https://github.com/wutong8023/Awesome_Information_Extraction/blob/master/./bibtex.bib#L51-L66) </details><details><summary><img src=https://github.com/wutong8023/Awesome_Information_Extraction/blob/master/scripts/svg/copy_icon.png height="20" align="bottom"></summary><pre>```RenWHQVJAH17```
 ## Meng Qu
 
 - [![](https://img.shields.io/badge/ICML-2020-blue)](http://proceedings.mlr.press/v119/qu20a.html)<a href="https://scholar.google.com.hk/scholar?q=Few-shot+Relation+Extraction+via+Bayesian+Meta-learning+on+Relation+Graphs"><img src="https://img.shields.io/badge/-blue.svg?&logo=google-scholar&logoColor=white" height="18" align="bottom"></a> [**Few-shot Relation Extraction via Bayesian Meta-learning on Relation Graphs**](http://proceedings.mlr.press/v119/qu20a.html) , <br> by *Qu, Meng, Gao, Tianyu, Xhonneux, Louis-Pascal and Tang, Jian* [[bib]](https://github.com/wutong8023/Awesome_Information_Extraction/blob/master/./bibtex.bib#L1698-L1705) </details><details><summary><img src=https://github.com/wutong8023/Awesome_Information_Extraction/blob/master/scripts/svg/copy_icon.png height="20" align="bottom"></summary><pre>```pmlr-v119-qu20a```

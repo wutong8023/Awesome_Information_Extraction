@@ -10,7 +10,7 @@ This page categorizes the literature by the Contribution.
 
 ## Outline 
 - [![](https://img.shields.io/badge/Hyperlink-blue)](https://github.com/wutong8023/Awesome_Information_Extraction/blob/master/IE4all/contribution/README.md#hyperlink)
-- [![](https://img.shields.io/badge/New_Dataset-3-blue)](https://github.com/wutong8023/Awesome_Information_Extraction/blob/master/IE4all/contribution/README.md#new-dataset)
+- [![](https://img.shields.io/badge/New_Dataset-4-blue)](https://github.com/wutong8023/Awesome_Information_Extraction/blob/master/IE4all/contribution/README.md#new-dataset)
 - [![](https://img.shields.io/badge/Toolkit-1-blue)](https://github.com/wutong8023/Awesome_Information_Extraction/blob/master/IE4all/contribution/README.md#toolkit)
 ## Hyperlink 
 - [[Overview]](https://github.com/wutong8023/Awesome_Information_Extraction/blob/master/README.md) -- [Homepage](https://github.com/wutong8023/Awesome_Information_Extraction/blob/master/README.md)
@@ -30,6 +30,15 @@ This page categorizes the literature by the Contribution.
 
 ## New Dataset
 
+- [![](https://img.shields.io/badge/CoRR-2021-blue)](https://arxiv.org/abs/2104.08350)<a href="https://scholar.google.com.hk/scholar?q=ESTER:+A+Machine+Reading+Comprehension+Dataset+for+Event+Semantic+Relation+Reasoning"><img src="https://img.shields.io/badge/-blue.svg?&logo=google-scholar&logoColor=white" height="18" align="bottom"></a> [**ESTER: A Machine Reading Comprehension Dataset for Event Semantic
+Relation Reasoning**](https://arxiv.org/abs/2104.08350) , <br> by *Rujun Han and
+I{-}Hung Hsu and
+Jiao Sun and
+Julia Baylon and
+Qiang Ning and
+Dan Roth and
+Nanyun Peng* [[bib]](https://github.com/wutong8023/Awesome_Information_Extraction/blob/master/./bibtex.bib#L1798-L1815) ```EMNLP 2021, A QA dataset for event relation reasoning.
+```</details><details><summary><img src=https://github.com/wutong8023/Awesome_Information_Extraction/blob/master/scripts/svg/copy_icon.png height="20" align="bottom"></summary><pre>```abs-2104-08350```
 - [![](https://img.shields.io/badge/ACL-2018-blue)](https://aclanthology.org/P18-1047/)<a href="https://scholar.google.com.hk/scholar?q=Extracting+Relational+Facts+by+an+End-to-End+Neural+Model+with+Copy+Mechanism"><img src="https://img.shields.io/badge/-blue.svg?&logo=google-scholar&logoColor=white" height="18" align="bottom"></a> [**Extracting Relational Facts by an End-to-End Neural Model with Copy
 Mechanism**](https://aclanthology.org/P18-1047/) , <br> by *Xiangrong Zeng and
 Daojian Zeng and
