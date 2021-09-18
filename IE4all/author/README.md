@@ -10,8 +10,8 @@ This page categorizes the literature by the **Author**.
 
 ## Outline 
 - [![](https://img.shields.io/badge/Hyperlink-blue)](https://github.com/wutong8023/Awesome_Information_Extraction/blob/master/IE4all/author/README.md#hyperlink)
-- [![](https://img.shields.io/badge/Zhiyuan_Liu-14-blue)](https://github.com/wutong8023/Awesome_Information_Extraction/blob/master/IE4all/author/README.md#zhiyuan-liu)
-- [![](https://img.shields.io/badge/Xu_Han-12-blue)](https://github.com/wutong8023/Awesome_Information_Extraction/blob/master/IE4all/author/README.md#xu-han)
+- [![](https://img.shields.io/badge/Zhiyuan_Liu-15-blue)](https://github.com/wutong8023/Awesome_Information_Extraction/blob/master/IE4all/author/README.md#zhiyuan-liu)
+- [![](https://img.shields.io/badge/Xu_Han-13-blue)](https://github.com/wutong8023/Awesome_Information_Extraction/blob/master/IE4all/author/README.md#xu-han)
 - [![](https://img.shields.io/badge/Maosong_Sun-11-blue)](https://github.com/wutong8023/Awesome_Information_Extraction/blob/master/IE4all/author/README.md#maosong-sun)
 - [![](https://img.shields.io/badge/Heng_Ji-8-blue)](https://github.com/wutong8023/Awesome_Information_Extraction/blob/master/IE4all/author/README.md#heng-ji)
 - [![](https://img.shields.io/badge/Peng_Li-7-blue)](https://github.com/wutong8023/Awesome_Information_Extraction/blob/master/IE4all/author/README.md#peng-li)
@@ -33,6 +33,10 @@ This page categorizes the literature by the **Author**.
 - [![](https://img.shields.io/badge/Meng_Liao-3-blue)](https://github.com/wutong8023/Awesome_Information_Extraction/blob/master/IE4all/author/README.md#meng-liao)
 - [![](https://img.shields.io/badge/Jin_Xu-3-blue)](https://github.com/wutong8023/Awesome_Information_Extraction/blob/master/IE4all/author/README.md#jin-xu)
 - [![](https://img.shields.io/badge/Yanghua_Xiao-3-blue)](https://github.com/wutong8023/Awesome_Information_Extraction/blob/master/IE4all/author/README.md#yanghua-xiao)
+- [![](https://img.shields.io/badge/Pengjun_Xie-3-blue)](https://github.com/wutong8023/Awesome_Information_Extraction/blob/master/IE4all/author/README.md#pengjun-xie)
+- [![](https://img.shields.io/badge/Guangwei_Xu-3-blue)](https://github.com/wutong8023/Awesome_Information_Extraction/blob/master/IE4all/author/README.md#guangwei-xu)
+- [![](https://img.shields.io/badge/Ning_Ding-3-blue)](https://github.com/wutong8023/Awesome_Information_Extraction/blob/master/IE4all/author/README.md#ning-ding)
+- [![](https://img.shields.io/badge/Juanzi_Li-3-blue)](https://github.com/wutong8023/Awesome_Information_Extraction/blob/master/IE4all/author/README.md#juanzi-li)
 - [![](https://img.shields.io/badge/Hannaneh_Hajishirzi-3-blue)](https://github.com/wutong8023/Awesome_Information_Extraction/blob/master/IE4all/author/README.md#hannaneh-hajishirzi)
 - [![](https://img.shields.io/badge/Xin_Luna_Dong-3-blue)](https://github.com/wutong8023/Awesome_Information_Extraction/blob/master/IE4all/author/README.md#xin-luna-dong)
 - [![](https://img.shields.io/badge/Yubo_Chen-3-blue)](https://github.com/wutong8023/Awesome_Information_Extraction/blob/master/IE4all/author/README.md#yubo-chen)
@@ -68,6 +72,7 @@ This page categorizes the literature by the **Author**.
 - [![](https://img.shields.io/badge/Wenxuan_Zhou-2-blue)](https://github.com/wutong8023/Awesome_Information_Extraction/blob/master/IE4all/author/README.md#wenxuan-zhou)
 - [![](https://img.shields.io/badge/Zhenghao_Liu-2-blue)](https://github.com/wutong8023/Awesome_Information_Extraction/blob/master/IE4all/author/README.md#zhenghao-liu)
 - [![](https://img.shields.io/badge/Deming_Ye-2-blue)](https://github.com/wutong8023/Awesome_Information_Extraction/blob/master/IE4all/author/README.md#deming-ye)
+- [![](https://img.shields.io/badge/Hai_Tao_Zheng-2-blue)](https://github.com/wutong8023/Awesome_Information_Extraction/blob/master/IE4all/author/README.md#hai-tao-zheng)
 - [![](https://img.shields.io/badge/Muhao_Chen-2-blue)](https://github.com/wutong8023/Awesome_Information_Extraction/blob/master/IE4all/author/README.md#muhao-chen)
 - [![](https://img.shields.io/badge/Yoav_Goldberg-2-blue)](https://github.com/wutong8023/Awesome_Information_Extraction/blob/master/IE4all/author/README.md#yoav-goldberg)
 - [![](https://img.shields.io/badge/Rujun_Han-2-blue)](https://github.com/wutong8023/Awesome_Information_Extraction/blob/master/IE4all/author/README.md#rujun-han)
@@ -87,12 +92,9 @@ This page categorizes the literature by the **Author**.
 - [![](https://img.shields.io/badge/Lingyong_Yan-2-blue)](https://github.com/wutong8023/Awesome_Information_Extraction/blob/master/IE4all/author/README.md#lingyong-yan)
 - [![](https://img.shields.io/badge/Jialong_Tang-2-blue)](https://github.com/wutong8023/Awesome_Information_Extraction/blob/master/IE4all/author/README.md#jialong-tang)
 - [![](https://img.shields.io/badge/Yaojie_Lu-2-blue)](https://github.com/wutong8023/Awesome_Information_Extraction/blob/master/IE4all/author/README.md#yaojie-lu)
-- [![](https://img.shields.io/badge/Pengjun_Xie-2-blue)](https://github.com/wutong8023/Awesome_Information_Extraction/blob/master/IE4all/author/README.md#pengjun-xie)
 - [![](https://img.shields.io/badge/Xiaobin_Wang-2-blue)](https://github.com/wutong8023/Awesome_Information_Extraction/blob/master/IE4all/author/README.md#xiaobin-wang)
-- [![](https://img.shields.io/badge/Guangwei_Xu-2-blue)](https://github.com/wutong8023/Awesome_Information_Extraction/blob/master/IE4all/author/README.md#guangwei-xu)
-- [![](https://img.shields.io/badge/Ning_Ding-2-blue)](https://github.com/wutong8023/Awesome_Information_Extraction/blob/master/IE4all/author/README.md#ning-ding)
+- [![](https://img.shields.io/badge/Yulin_Chen-2-blue)](https://github.com/wutong8023/Awesome_Information_Extraction/blob/master/IE4all/author/README.md#yulin-chen)
 - [![](https://img.shields.io/badge/Quan_Hung_Tran-2-blue)](https://github.com/wutong8023/Awesome_Information_Extraction/blob/master/IE4all/author/README.md#quan-hung-tran)
-- [![](https://img.shields.io/badge/Juanzi_Li-2-blue)](https://github.com/wutong8023/Awesome_Information_Extraction/blob/master/IE4all/author/README.md#juanzi-li)
 - [![](https://img.shields.io/badge/Xiaozhi_Wang-2-blue)](https://github.com/wutong8023/Awesome_Information_Extraction/blob/master/IE4all/author/README.md#xiaozhi-wang)
 - [![](https://img.shields.io/badge/Ziqi_Wang-2-blue)](https://github.com/wutong8023/Awesome_Information_Extraction/blob/master/IE4all/author/README.md#ziqi-wang)
 - [![](https://img.shields.io/badge/Fenia_Christopoulou-2-blue)](https://github.com/wutong8023/Awesome_Information_Extraction/blob/master/IE4all/author/README.md#fenia-christopoulou)
@@ -154,6 +156,15 @@ Liu, Zhiyuan  and
 Lin, Fen  and
 Lin, Leyu  and
 Sun, Maosong* [[bib]](https://github.com/wutong8023/Awesome_Information_Extraction/blob/master/./bibtex.bib#L1043-L1057) </details><details><summary><img src=https://github.com/wutong8023/Awesome_Information_Extraction/blob/master/scripts/svg/copy_icon.png height="20" align="bottom"></summary><pre>```zhang-etal-2021-open```
+- [![](https://img.shields.io/badge/CoRR-2021-blue)](https://arxiv.org/abs/2108.10604)<a href="https://scholar.google.com.hk/scholar?q=Prompt-Learning+for+Fine-Grained+Entity+Typing"><img src="https://img.shields.io/badge/-blue.svg?&logo=google-scholar&logoColor=white" height="18" align="bottom"></a> [**Prompt-Learning for Fine-Grained Entity Typing**](https://arxiv.org/abs/2108.10604) , <br> by *Ning Ding and
+Yulin Chen and
+Xu Han and
+Guangwei Xu and
+Pengjun Xie and
+Hai{-}Tao Zheng and
+Zhiyuan Liu and
+Juanzi Li and
+Hong{-}Gee Kim* [[bib]](https://github.com/wutong8023/Awesome_Information_Extraction/blob/master/./bibtex.bib#L1869-L1884) </details><details><summary><img src=https://github.com/wutong8023/Awesome_Information_Extraction/blob/master/scripts/svg/copy_icon.png height="20" align="bottom"></summary><pre>```abs-2108-10604```
 - [![](https://img.shields.io/badge/AACL-2020-blue)](https://aclanthology.org/2020.aacl-main.75/)<a href="https://scholar.google.com.hk/scholar?q=More+Data,+More+Relations,+More+Context+and+More+Openness:+A+Review+and+Outlook+for+Relation+Extraction"><img src="https://img.shields.io/badge/-blue.svg?&logo=google-scholar&logoColor=white" height="18" align="bottom"></a> [**More Data, More Relations, More Context and More Openness: A Review
 and Outlook for Relation Extraction**](https://aclanthology.org/2020.aacl-main.75/) , <br> by *Xu Han and
 Tianyu Gao and
@@ -272,6 +283,15 @@ Liu, Zhiyuan  and
 Lin, Fen  and
 Lin, Leyu  and
 Sun, Maosong* [[bib]](https://github.com/wutong8023/Awesome_Information_Extraction/blob/master/./bibtex.bib#L1043-L1057) </details><details><summary><img src=https://github.com/wutong8023/Awesome_Information_Extraction/blob/master/scripts/svg/copy_icon.png height="20" align="bottom"></summary><pre>```zhang-etal-2021-open```
+- [![](https://img.shields.io/badge/CoRR-2021-blue)](https://arxiv.org/abs/2108.10604)<a href="https://scholar.google.com.hk/scholar?q=Prompt-Learning+for+Fine-Grained+Entity+Typing"><img src="https://img.shields.io/badge/-blue.svg?&logo=google-scholar&logoColor=white" height="18" align="bottom"></a> [**Prompt-Learning for Fine-Grained Entity Typing**](https://arxiv.org/abs/2108.10604) , <br> by *Ning Ding and
+Yulin Chen and
+Xu Han and
+Guangwei Xu and
+Pengjun Xie and
+Hai{-}Tao Zheng and
+Zhiyuan Liu and
+Juanzi Li and
+Hong{-}Gee Kim* [[bib]](https://github.com/wutong8023/Awesome_Information_Extraction/blob/master/./bibtex.bib#L1869-L1884) </details><details><summary><img src=https://github.com/wutong8023/Awesome_Information_Extraction/blob/master/scripts/svg/copy_icon.png height="20" align="bottom"></summary><pre>```abs-2108-10604```
 - [![](https://img.shields.io/badge/AACL-2020-blue)](https://aclanthology.org/2020.aacl-main.75/)<a href="https://scholar.google.com.hk/scholar?q=More+Data,+More+Relations,+More+Context+and+More+Openness:+A+Review+and+Outlook+for+Relation+Extraction"><img src="https://img.shields.io/badge/-blue.svg?&logo=google-scholar&logoColor=white" height="18" align="bottom"></a> [**More Data, More Relations, More Context and More Openness: A Review
 and Outlook for Relation Extraction**](https://aclanthology.org/2020.aacl-main.75/) , <br> by *Xu Han and
 Tianyu Gao and
@@ -1070,6 +1090,123 @@ Zhang, Sheng  and
 Song, Rui  and
 Feng, Suo  and
 Xiao, Yanghua* [[bib]](https://github.com/wutong8023/Awesome_Information_Extraction/blob/master/./bibtex.bib#L1178-L1189) </details><details><summary><img src=https://github.com/wutong8023/Awesome_Information_Extraction/blob/master/scripts/svg/copy_icon.png height="20" align="bottom"></summary><pre>```liu-etal-2020-knowledge```
+## Pengjun Xie
+
+- [![](https://img.shields.io/badge/ACL-2021-blue)](https://aclanthology.org/2021.acl-long.248)<a href="https://scholar.google.com.hk/scholar?q=Few-NERD:+A+Few-shot+Named+Entity+Recognition+Dataset"><img src="https://img.shields.io/badge/-blue.svg?&logo=google-scholar&logoColor=white" height="18" align="bottom"></a> [**Few-NERD: A Few-shot Named Entity Recognition Dataset**](https://aclanthology.org/2021.acl-long.248) , <br> by *Ding, Ning  and
+Xu, Guangwei  and
+Chen, Yulin  and
+Wang, Xiaobin  and
+Han, Xu  and
+Xie, Pengjun  and
+Zheng, Haitao  and
+Liu, Zhiyuan* [[bib]](https://github.com/wutong8023/Awesome_Information_Extraction/blob/master/./bibtex.bib#L676-L690) </details><details><summary><img src=https://github.com/wutong8023/Awesome_Information_Extraction/blob/master/scripts/svg/copy_icon.png height="20" align="bottom"></summary><pre>```ding-etal-2021-nerd```
+- [![](https://img.shields.io/badge/ICLR-2021-blue)](https://openreview.net/forum?id=aCgLmfhIy\_f)<a href="https://scholar.google.com.hk/scholar?q=Prototypical+Representation+Learning+for+Relation+Extraction"><img src="https://img.shields.io/badge/-blue.svg?&logo=google-scholar&logoColor=white" height="18" align="bottom"></a> [**Prototypical Representation Learning for Relation Extraction**](https://openreview.net/forum?id=aCgLmfhIy\_f) , <br> by *Ning Ding and
+Xiaobin Wang and
+Yao Fu and
+Guangwei Xu and
+Rui Wang and
+Pengjun Xie and
+Ying Shen and
+Fei Huang and
+Hai{-}Tao Zheng and
+Rui Zhang* [[bib]](https://github.com/wutong8023/Awesome_Information_Extraction/blob/master/./bibtex.bib#L1414-L1429) </details><details><summary><img src=https://github.com/wutong8023/Awesome_Information_Extraction/blob/master/scripts/svg/copy_icon.png height="20" align="bottom"></summary><pre>```DingWFXWXSHZZ21```
+- [![](https://img.shields.io/badge/CoRR-2021-blue)](https://arxiv.org/abs/2108.10604)<a href="https://scholar.google.com.hk/scholar?q=Prompt-Learning+for+Fine-Grained+Entity+Typing"><img src="https://img.shields.io/badge/-blue.svg?&logo=google-scholar&logoColor=white" height="18" align="bottom"></a> [**Prompt-Learning for Fine-Grained Entity Typing**](https://arxiv.org/abs/2108.10604) , <br> by *Ning Ding and
+Yulin Chen and
+Xu Han and
+Guangwei Xu and
+Pengjun Xie and
+Hai{-}Tao Zheng and
+Zhiyuan Liu and
+Juanzi Li and
+Hong{-}Gee Kim* [[bib]](https://github.com/wutong8023/Awesome_Information_Extraction/blob/master/./bibtex.bib#L1869-L1884) </details><details><summary><img src=https://github.com/wutong8023/Awesome_Information_Extraction/blob/master/scripts/svg/copy_icon.png height="20" align="bottom"></summary><pre>```abs-2108-10604```
+## Guangwei Xu
+
+- [![](https://img.shields.io/badge/ACL-2021-blue)](https://aclanthology.org/2021.acl-long.248)<a href="https://scholar.google.com.hk/scholar?q=Few-NERD:+A+Few-shot+Named+Entity+Recognition+Dataset"><img src="https://img.shields.io/badge/-blue.svg?&logo=google-scholar&logoColor=white" height="18" align="bottom"></a> [**Few-NERD: A Few-shot Named Entity Recognition Dataset**](https://aclanthology.org/2021.acl-long.248) , <br> by *Ding, Ning  and
+Xu, Guangwei  and
+Chen, Yulin  and
+Wang, Xiaobin  and
+Han, Xu  and
+Xie, Pengjun  and
+Zheng, Haitao  and
+Liu, Zhiyuan* [[bib]](https://github.com/wutong8023/Awesome_Information_Extraction/blob/master/./bibtex.bib#L676-L690) </details><details><summary><img src=https://github.com/wutong8023/Awesome_Information_Extraction/blob/master/scripts/svg/copy_icon.png height="20" align="bottom"></summary><pre>```ding-etal-2021-nerd```
+- [![](https://img.shields.io/badge/ICLR-2021-blue)](https://openreview.net/forum?id=aCgLmfhIy\_f)<a href="https://scholar.google.com.hk/scholar?q=Prototypical+Representation+Learning+for+Relation+Extraction"><img src="https://img.shields.io/badge/-blue.svg?&logo=google-scholar&logoColor=white" height="18" align="bottom"></a> [**Prototypical Representation Learning for Relation Extraction**](https://openreview.net/forum?id=aCgLmfhIy\_f) , <br> by *Ning Ding and
+Xiaobin Wang and
+Yao Fu and
+Guangwei Xu and
+Rui Wang and
+Pengjun Xie and
+Ying Shen and
+Fei Huang and
+Hai{-}Tao Zheng and
+Rui Zhang* [[bib]](https://github.com/wutong8023/Awesome_Information_Extraction/blob/master/./bibtex.bib#L1414-L1429) </details><details><summary><img src=https://github.com/wutong8023/Awesome_Information_Extraction/blob/master/scripts/svg/copy_icon.png height="20" align="bottom"></summary><pre>```DingWFXWXSHZZ21```
+- [![](https://img.shields.io/badge/CoRR-2021-blue)](https://arxiv.org/abs/2108.10604)<a href="https://scholar.google.com.hk/scholar?q=Prompt-Learning+for+Fine-Grained+Entity+Typing"><img src="https://img.shields.io/badge/-blue.svg?&logo=google-scholar&logoColor=white" height="18" align="bottom"></a> [**Prompt-Learning for Fine-Grained Entity Typing**](https://arxiv.org/abs/2108.10604) , <br> by *Ning Ding and
+Yulin Chen and
+Xu Han and
+Guangwei Xu and
+Pengjun Xie and
+Hai{-}Tao Zheng and
+Zhiyuan Liu and
+Juanzi Li and
+Hong{-}Gee Kim* [[bib]](https://github.com/wutong8023/Awesome_Information_Extraction/blob/master/./bibtex.bib#L1869-L1884) </details><details><summary><img src=https://github.com/wutong8023/Awesome_Information_Extraction/blob/master/scripts/svg/copy_icon.png height="20" align="bottom"></summary><pre>```abs-2108-10604```
+## Ning Ding
+
+- [![](https://img.shields.io/badge/ACL-2021-blue)](https://aclanthology.org/2021.acl-long.248)<a href="https://scholar.google.com.hk/scholar?q=Few-NERD:+A+Few-shot+Named+Entity+Recognition+Dataset"><img src="https://img.shields.io/badge/-blue.svg?&logo=google-scholar&logoColor=white" height="18" align="bottom"></a> [**Few-NERD: A Few-shot Named Entity Recognition Dataset**](https://aclanthology.org/2021.acl-long.248) , <br> by *Ding, Ning  and
+Xu, Guangwei  and
+Chen, Yulin  and
+Wang, Xiaobin  and
+Han, Xu  and
+Xie, Pengjun  and
+Zheng, Haitao  and
+Liu, Zhiyuan* [[bib]](https://github.com/wutong8023/Awesome_Information_Extraction/blob/master/./bibtex.bib#L676-L690) </details><details><summary><img src=https://github.com/wutong8023/Awesome_Information_Extraction/blob/master/scripts/svg/copy_icon.png height="20" align="bottom"></summary><pre>```ding-etal-2021-nerd```
+- [![](https://img.shields.io/badge/ICLR-2021-blue)](https://openreview.net/forum?id=aCgLmfhIy\_f)<a href="https://scholar.google.com.hk/scholar?q=Prototypical+Representation+Learning+for+Relation+Extraction"><img src="https://img.shields.io/badge/-blue.svg?&logo=google-scholar&logoColor=white" height="18" align="bottom"></a> [**Prototypical Representation Learning for Relation Extraction**](https://openreview.net/forum?id=aCgLmfhIy\_f) , <br> by *Ning Ding and
+Xiaobin Wang and
+Yao Fu and
+Guangwei Xu and
+Rui Wang and
+Pengjun Xie and
+Ying Shen and
+Fei Huang and
+Hai{-}Tao Zheng and
+Rui Zhang* [[bib]](https://github.com/wutong8023/Awesome_Information_Extraction/blob/master/./bibtex.bib#L1414-L1429) </details><details><summary><img src=https://github.com/wutong8023/Awesome_Information_Extraction/blob/master/scripts/svg/copy_icon.png height="20" align="bottom"></summary><pre>```DingWFXWXSHZZ21```
+- [![](https://img.shields.io/badge/CoRR-2021-blue)](https://arxiv.org/abs/2108.10604)<a href="https://scholar.google.com.hk/scholar?q=Prompt-Learning+for+Fine-Grained+Entity+Typing"><img src="https://img.shields.io/badge/-blue.svg?&logo=google-scholar&logoColor=white" height="18" align="bottom"></a> [**Prompt-Learning for Fine-Grained Entity Typing**](https://arxiv.org/abs/2108.10604) , <br> by *Ning Ding and
+Yulin Chen and
+Xu Han and
+Guangwei Xu and
+Pengjun Xie and
+Hai{-}Tao Zheng and
+Zhiyuan Liu and
+Juanzi Li and
+Hong{-}Gee Kim* [[bib]](https://github.com/wutong8023/Awesome_Information_Extraction/blob/master/./bibtex.bib#L1869-L1884) </details><details><summary><img src=https://github.com/wutong8023/Awesome_Information_Extraction/blob/master/scripts/svg/copy_icon.png height="20" align="bottom"></summary><pre>```abs-2108-10604```
+## Juanzi Li
+
+- [![](https://img.shields.io/badge/ACL-2021-blue)](https://aclanthology.org/2021.acl-long.491)<a href="https://scholar.google.com.hk/scholar?q=CLEVE:+Contrastive+Pre-training+for+Event+Extraction"><img src="https://img.shields.io/badge/-blue.svg?&logo=google-scholar&logoColor=white" height="18" align="bottom"></a> [**CLEVE: Contrastive Pre-training for Event Extraction**](https://aclanthology.org/2021.acl-long.491) , <br> by *Wang, Ziqi  and
+Wang, Xiaozhi  and
+Han, Xu  and
+Lin, Yankai  and
+Hou, Lei  and
+Liu, Zhiyuan  and
+Li, Peng  and
+Li, Juanzi  and
+Zhou, Jie* [[bib]](https://github.com/wutong8023/Awesome_Information_Extraction/blob/master/./bibtex.bib#L627-L642) </details><details><summary><img src=https://github.com/wutong8023/Awesome_Information_Extraction/blob/master/scripts/svg/copy_icon.png height="20" align="bottom"></summary><pre>```wang-etal-2021-cleve```
+- [![](https://img.shields.io/badge/CoRR-2021-blue)](https://arxiv.org/abs/2108.10604)<a href="https://scholar.google.com.hk/scholar?q=Prompt-Learning+for+Fine-Grained+Entity+Typing"><img src="https://img.shields.io/badge/-blue.svg?&logo=google-scholar&logoColor=white" height="18" align="bottom"></a> [**Prompt-Learning for Fine-Grained Entity Typing**](https://arxiv.org/abs/2108.10604) , <br> by *Ning Ding and
+Yulin Chen and
+Xu Han and
+Guangwei Xu and
+Pengjun Xie and
+Hai{-}Tao Zheng and
+Zhiyuan Liu and
+Juanzi Li and
+Hong{-}Gee Kim* [[bib]](https://github.com/wutong8023/Awesome_Information_Extraction/blob/master/./bibtex.bib#L1869-L1884) </details><details><summary><img src=https://github.com/wutong8023/Awesome_Information_Extraction/blob/master/scripts/svg/copy_icon.png height="20" align="bottom"></summary><pre>```abs-2108-10604```
+- [![](https://img.shields.io/badge/EMNLP-2020-blue)](https://www.aclweb.org/anthology/2020.emnlp-main.129)<a href="https://scholar.google.com.hk/scholar?q=MAVEN:+A+Massive+General+Domain+Event+Detection+Dataset"><img src="https://img.shields.io/badge/-blue.svg?&logo=google-scholar&logoColor=white" height="18" align="bottom"></a> [**MAVEN: A Massive General Domain Event Detection Dataset**](https://www.aclweb.org/anthology/2020.emnlp-main.129) , <br> by *Wang, Xiaozhi  and
+Wang, Ziqi  and
+Han, Xu  and
+Jiang, Wangyi  and
+Han, Rong  and
+Liu, Zhiyuan  and
+Li, Juanzi  and
+Li, Peng  and
+Lin, Yankai  and
+Zhou, Jie* [[bib]](https://github.com/wutong8023/Awesome_Information_Extraction/blob/master/./bibtex.bib#L1160-L1176) </details><details><summary><img src=https://github.com/wutong8023/Awesome_Information_Extraction/blob/master/scripts/svg/copy_icon.png height="20" align="bottom"></summary><pre>```wang-etal-2020-maven```
 ## Hannaneh Hajishirzi
 
 - [![](https://img.shields.io/badge/ACL-2020-blue)](https://www.aclweb.org/anthology/2020.acl-main.721)<a href="https://scholar.google.com.hk/scholar?q=ZeroShotCeres:+Zero-Shot+Relation+Extraction+from+Semi-Structured+Webpages"><img src="https://img.shields.io/badge/-blue.svg?&logo=google-scholar&logoColor=white" height="18" align="bottom"></a> [**ZeroShotCeres: Zero-Shot Relation Extraction from Semi-Structured Webpages**](https://www.aclweb.org/anthology/2020.acl-main.721) , <br> by *Lockard, Colin  and
@@ -1621,6 +1758,27 @@ Liu, Zhiyuan  and
 Huang, Lixin  and
 Zhou, Jie  and
 Sun, Maosong* [[bib]](https://github.com/wutong8023/Awesome_Information_Extraction/blob/master/./bibtex.bib#L1492-L1508) </details><details><summary><img src=https://github.com/wutong8023/Awesome_Information_Extraction/blob/master/scripts/svg/copy_icon.png height="20" align="bottom"></summary><pre>```yao-etal-2019-docred```
+## Hai Tao Zheng
+
+- [![](https://img.shields.io/badge/ICLR-2021-blue)](https://openreview.net/forum?id=aCgLmfhIy\_f)<a href="https://scholar.google.com.hk/scholar?q=Prototypical+Representation+Learning+for+Relation+Extraction"><img src="https://img.shields.io/badge/-blue.svg?&logo=google-scholar&logoColor=white" height="18" align="bottom"></a> [**Prototypical Representation Learning for Relation Extraction**](https://openreview.net/forum?id=aCgLmfhIy\_f) , <br> by *Ning Ding and
+Xiaobin Wang and
+Yao Fu and
+Guangwei Xu and
+Rui Wang and
+Pengjun Xie and
+Ying Shen and
+Fei Huang and
+Hai{-}Tao Zheng and
+Rui Zhang* [[bib]](https://github.com/wutong8023/Awesome_Information_Extraction/blob/master/./bibtex.bib#L1414-L1429) </details><details><summary><img src=https://github.com/wutong8023/Awesome_Information_Extraction/blob/master/scripts/svg/copy_icon.png height="20" align="bottom"></summary><pre>```DingWFXWXSHZZ21```
+- [![](https://img.shields.io/badge/CoRR-2021-blue)](https://arxiv.org/abs/2108.10604)<a href="https://scholar.google.com.hk/scholar?q=Prompt-Learning+for+Fine-Grained+Entity+Typing"><img src="https://img.shields.io/badge/-blue.svg?&logo=google-scholar&logoColor=white" height="18" align="bottom"></a> [**Prompt-Learning for Fine-Grained Entity Typing**](https://arxiv.org/abs/2108.10604) , <br> by *Ning Ding and
+Yulin Chen and
+Xu Han and
+Guangwei Xu and
+Pengjun Xie and
+Hai{-}Tao Zheng and
+Zhiyuan Liu and
+Juanzi Li and
+Hong{-}Gee Kim* [[bib]](https://github.com/wutong8023/Awesome_Information_Extraction/blob/master/./bibtex.bib#L1869-L1884) </details><details><summary><img src=https://github.com/wutong8023/Awesome_Information_Extraction/blob/master/scripts/svg/copy_icon.png height="20" align="bottom"></summary><pre>```abs-2108-10604```
 ## Muhao Chen
 
 - [![](https://img.shields.io/badge/CoRR-2021-blue)](https://arxiv.org/abs/2104.08656)<a href="https://scholar.google.com.hk/scholar?q=Learning+from+Noisy+Labels+for+Entity-Centric+Information+Extraction"><img src="https://img.shields.io/badge/-blue.svg?&logo=google-scholar&logoColor=white" height="18" align="bottom"></a> [**Learning from Noisy Labels for Entity-Centric Information Extraction**](https://arxiv.org/abs/2104.08656) , <br> by *Wenxuan Zhou and
@@ -1845,26 +2003,6 @@ Han, Xianpei  and
 Sun, Le  and
 Xie, Weijian  and
 Xu, Jin* [[bib]](https://github.com/wutong8023/Awesome_Information_Extraction/blob/master/./bibtex.bib#L935-L949) </details><details><summary><img src=https://github.com/wutong8023/Awesome_Information_Extraction/blob/master/scripts/svg/copy_icon.png height="20" align="bottom"></summary><pre>```tang-etal-2021-discourse```
-## Pengjun Xie
-
-- [![](https://img.shields.io/badge/ACL-2021-blue)](https://aclanthology.org/2021.acl-long.248)<a href="https://scholar.google.com.hk/scholar?q=Few-NERD:+A+Few-shot+Named+Entity+Recognition+Dataset"><img src="https://img.shields.io/badge/-blue.svg?&logo=google-scholar&logoColor=white" height="18" align="bottom"></a> [**Few-NERD: A Few-shot Named Entity Recognition Dataset**](https://aclanthology.org/2021.acl-long.248) , <br> by *Ding, Ning  and
-Xu, Guangwei  and
-Chen, Yulin  and
-Wang, Xiaobin  and
-Han, Xu  and
-Xie, Pengjun  and
-Zheng, Haitao  and
-Liu, Zhiyuan* [[bib]](https://github.com/wutong8023/Awesome_Information_Extraction/blob/master/./bibtex.bib#L676-L690) </details><details><summary><img src=https://github.com/wutong8023/Awesome_Information_Extraction/blob/master/scripts/svg/copy_icon.png height="20" align="bottom"></summary><pre>```ding-etal-2021-nerd```
-- [![](https://img.shields.io/badge/ICLR-2021-blue)](https://openreview.net/forum?id=aCgLmfhIy\_f)<a href="https://scholar.google.com.hk/scholar?q=Prototypical+Representation+Learning+for+Relation+Extraction"><img src="https://img.shields.io/badge/-blue.svg?&logo=google-scholar&logoColor=white" height="18" align="bottom"></a> [**Prototypical Representation Learning for Relation Extraction**](https://openreview.net/forum?id=aCgLmfhIy\_f) , <br> by *Ning Ding and
-Xiaobin Wang and
-Yao Fu and
-Guangwei Xu and
-Rui Wang and
-Pengjun Xie and
-Ying Shen and
-Fei Huang and
-Hai{-}Tao Zheng and
-Rui Zhang* [[bib]](https://github.com/wutong8023/Awesome_Information_Extraction/blob/master/./bibtex.bib#L1414-L1429) </details><details><summary><img src=https://github.com/wutong8023/Awesome_Information_Extraction/blob/master/scripts/svg/copy_icon.png height="20" align="bottom"></summary><pre>```DingWFXWXSHZZ21```
 ## Xiaobin Wang
 
 - [![](https://img.shields.io/badge/ACL-2021-blue)](https://aclanthology.org/2021.acl-long.248)<a href="https://scholar.google.com.hk/scholar?q=Few-NERD:+A+Few-shot+Named+Entity+Recognition+Dataset"><img src="https://img.shields.io/badge/-blue.svg?&logo=google-scholar&logoColor=white" height="18" align="bottom"></a> [**Few-NERD: A Few-shot Named Entity Recognition Dataset**](https://aclanthology.org/2021.acl-long.248) , <br> by *Ding, Ning  and
@@ -1885,7 +2023,7 @@ Ying Shen and
 Fei Huang and
 Hai{-}Tao Zheng and
 Rui Zhang* [[bib]](https://github.com/wutong8023/Awesome_Information_Extraction/blob/master/./bibtex.bib#L1414-L1429) </details><details><summary><img src=https://github.com/wutong8023/Awesome_Information_Extraction/blob/master/scripts/svg/copy_icon.png height="20" align="bottom"></summary><pre>```DingWFXWXSHZZ21```
-## Guangwei Xu
+## Yulin Chen
 
 - [![](https://img.shields.io/badge/ACL-2021-blue)](https://aclanthology.org/2021.acl-long.248)<a href="https://scholar.google.com.hk/scholar?q=Few-NERD:+A+Few-shot+Named+Entity+Recognition+Dataset"><img src="https://img.shields.io/badge/-blue.svg?&logo=google-scholar&logoColor=white" height="18" align="bottom"></a> [**Few-NERD: A Few-shot Named Entity Recognition Dataset**](https://aclanthology.org/2021.acl-long.248) , <br> by *Ding, Ning  and
 Xu, Guangwei  and
@@ -1895,36 +2033,15 @@ Han, Xu  and
 Xie, Pengjun  and
 Zheng, Haitao  and
 Liu, Zhiyuan* [[bib]](https://github.com/wutong8023/Awesome_Information_Extraction/blob/master/./bibtex.bib#L676-L690) </details><details><summary><img src=https://github.com/wutong8023/Awesome_Information_Extraction/blob/master/scripts/svg/copy_icon.png height="20" align="bottom"></summary><pre>```ding-etal-2021-nerd```
-- [![](https://img.shields.io/badge/ICLR-2021-blue)](https://openreview.net/forum?id=aCgLmfhIy\_f)<a href="https://scholar.google.com.hk/scholar?q=Prototypical+Representation+Learning+for+Relation+Extraction"><img src="https://img.shields.io/badge/-blue.svg?&logo=google-scholar&logoColor=white" height="18" align="bottom"></a> [**Prototypical Representation Learning for Relation Extraction**](https://openreview.net/forum?id=aCgLmfhIy\_f) , <br> by *Ning Ding and
-Xiaobin Wang and
-Yao Fu and
+- [![](https://img.shields.io/badge/CoRR-2021-blue)](https://arxiv.org/abs/2108.10604)<a href="https://scholar.google.com.hk/scholar?q=Prompt-Learning+for+Fine-Grained+Entity+Typing"><img src="https://img.shields.io/badge/-blue.svg?&logo=google-scholar&logoColor=white" height="18" align="bottom"></a> [**Prompt-Learning for Fine-Grained Entity Typing**](https://arxiv.org/abs/2108.10604) , <br> by *Ning Ding and
+Yulin Chen and
+Xu Han and
 Guangwei Xu and
-Rui Wang and
 Pengjun Xie and
-Ying Shen and
-Fei Huang and
 Hai{-}Tao Zheng and
-Rui Zhang* [[bib]](https://github.com/wutong8023/Awesome_Information_Extraction/blob/master/./bibtex.bib#L1414-L1429) </details><details><summary><img src=https://github.com/wutong8023/Awesome_Information_Extraction/blob/master/scripts/svg/copy_icon.png height="20" align="bottom"></summary><pre>```DingWFXWXSHZZ21```
-## Ning Ding
-
-- [![](https://img.shields.io/badge/ACL-2021-blue)](https://aclanthology.org/2021.acl-long.248)<a href="https://scholar.google.com.hk/scholar?q=Few-NERD:+A+Few-shot+Named+Entity+Recognition+Dataset"><img src="https://img.shields.io/badge/-blue.svg?&logo=google-scholar&logoColor=white" height="18" align="bottom"></a> [**Few-NERD: A Few-shot Named Entity Recognition Dataset**](https://aclanthology.org/2021.acl-long.248) , <br> by *Ding, Ning  and
-Xu, Guangwei  and
-Chen, Yulin  and
-Wang, Xiaobin  and
-Han, Xu  and
-Xie, Pengjun  and
-Zheng, Haitao  and
-Liu, Zhiyuan* [[bib]](https://github.com/wutong8023/Awesome_Information_Extraction/blob/master/./bibtex.bib#L676-L690) </details><details><summary><img src=https://github.com/wutong8023/Awesome_Information_Extraction/blob/master/scripts/svg/copy_icon.png height="20" align="bottom"></summary><pre>```ding-etal-2021-nerd```
-- [![](https://img.shields.io/badge/ICLR-2021-blue)](https://openreview.net/forum?id=aCgLmfhIy\_f)<a href="https://scholar.google.com.hk/scholar?q=Prototypical+Representation+Learning+for+Relation+Extraction"><img src="https://img.shields.io/badge/-blue.svg?&logo=google-scholar&logoColor=white" height="18" align="bottom"></a> [**Prototypical Representation Learning for Relation Extraction**](https://openreview.net/forum?id=aCgLmfhIy\_f) , <br> by *Ning Ding and
-Xiaobin Wang and
-Yao Fu and
-Guangwei Xu and
-Rui Wang and
-Pengjun Xie and
-Ying Shen and
-Fei Huang and
-Hai{-}Tao Zheng and
-Rui Zhang* [[bib]](https://github.com/wutong8023/Awesome_Information_Extraction/blob/master/./bibtex.bib#L1414-L1429) </details><details><summary><img src=https://github.com/wutong8023/Awesome_Information_Extraction/blob/master/scripts/svg/copy_icon.png height="20" align="bottom"></summary><pre>```DingWFXWXSHZZ21```
+Zhiyuan Liu and
+Juanzi Li and
+Hong{-}Gee Kim* [[bib]](https://github.com/wutong8023/Awesome_Information_Extraction/blob/master/./bibtex.bib#L1869-L1884) </details><details><summary><img src=https://github.com/wutong8023/Awesome_Information_Extraction/blob/master/scripts/svg/copy_icon.png height="20" align="bottom"></summary><pre>```abs-2108-10604```
 ## Quan Hung Tran
 
 - [![](https://img.shields.io/badge/ACL-2021-blue)](https://aclanthology.org/2021.acl-short.67)<a href="https://scholar.google.com.hk/scholar?q=TIMERS:+Document-level+Temporal+Relation+Extraction"><img src="https://img.shields.io/badge/-blue.svg?&logo=google-scholar&logoColor=white" height="18" align="bottom"></a> [**TIMERS: Document-level Temporal Relation Extraction**](https://aclanthology.org/2021.acl-short.67) , <br> by *Mathur, Puneet  and
@@ -1937,27 +2054,6 @@ Manocha, Dinesh* [[bib]](https://github.com/wutong8023/Awesome_Information_Extra
 Ji, Heng  and
 Zhai, ChengXiang  and
 Tran, Quan Hung* [[bib]](https://github.com/wutong8023/Awesome_Information_Extraction/blob/master/./bibtex.bib#L883-L893) </details><details><summary><img src=https://github.com/wutong8023/Awesome_Information_Extraction/blob/master/scripts/svg/copy_icon.png height="20" align="bottom"></summary><pre>```lai-etal-2021-joint```
-## Juanzi Li
-
-- [![](https://img.shields.io/badge/ACL-2021-blue)](https://aclanthology.org/2021.acl-long.491)<a href="https://scholar.google.com.hk/scholar?q=CLEVE:+Contrastive+Pre-training+for+Event+Extraction"><img src="https://img.shields.io/badge/-blue.svg?&logo=google-scholar&logoColor=white" height="18" align="bottom"></a> [**CLEVE: Contrastive Pre-training for Event Extraction**](https://aclanthology.org/2021.acl-long.491) , <br> by *Wang, Ziqi  and
-Wang, Xiaozhi  and
-Han, Xu  and
-Lin, Yankai  and
-Hou, Lei  and
-Liu, Zhiyuan  and
-Li, Peng  and
-Li, Juanzi  and
-Zhou, Jie* [[bib]](https://github.com/wutong8023/Awesome_Information_Extraction/blob/master/./bibtex.bib#L627-L642) </details><details><summary><img src=https://github.com/wutong8023/Awesome_Information_Extraction/blob/master/scripts/svg/copy_icon.png height="20" align="bottom"></summary><pre>```wang-etal-2021-cleve```
-- [![](https://img.shields.io/badge/EMNLP-2020-blue)](https://www.aclweb.org/anthology/2020.emnlp-main.129)<a href="https://scholar.google.com.hk/scholar?q=MAVEN:+A+Massive+General+Domain+Event+Detection+Dataset"><img src="https://img.shields.io/badge/-blue.svg?&logo=google-scholar&logoColor=white" height="18" align="bottom"></a> [**MAVEN: A Massive General Domain Event Detection Dataset**](https://www.aclweb.org/anthology/2020.emnlp-main.129) , <br> by *Wang, Xiaozhi  and
-Wang, Ziqi  and
-Han, Xu  and
-Jiang, Wangyi  and
-Han, Rong  and
-Liu, Zhiyuan  and
-Li, Juanzi  and
-Li, Peng  and
-Lin, Yankai  and
-Zhou, Jie* [[bib]](https://github.com/wutong8023/Awesome_Information_Extraction/blob/master/./bibtex.bib#L1160-L1176) </details><details><summary><img src=https://github.com/wutong8023/Awesome_Information_Extraction/blob/master/scripts/svg/copy_icon.png height="20" align="bottom"></summary><pre>```wang-etal-2020-maven```
 ## Xiaozhi Wang
 
 - [![](https://img.shields.io/badge/ACL-2021-blue)](https://aclanthology.org/2021.acl-long.491)<a href="https://scholar.google.com.hk/scholar?q=CLEVE:+Contrastive+Pre-training+for+Event+Extraction"><img src="https://img.shields.io/badge/-blue.svg?&logo=google-scholar&logoColor=white" height="18" align="bottom"></a> [**CLEVE: Contrastive Pre-training for Event Extraction**](https://aclanthology.org/2021.acl-long.491) , <br> by *Wang, Ziqi  and

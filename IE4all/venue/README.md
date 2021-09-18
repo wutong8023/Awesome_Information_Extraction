@@ -29,7 +29,7 @@ This page categorizes the literature by the **Published Venue**.
 - [![](https://img.shields.io/badge/TACL-1-blue)](https://github.com/wutong8023/Awesome_Information_Extraction/blob/master/IE4all/venue/README.md#tacl)
 - [![](https://img.shields.io/badge/ACM_Comput._Surv.-1-blue)](https://github.com/wutong8023/Awesome_Information_Extraction/blob/master/IE4all/venue/README.md#acm-comput.-surv.)
 - [![](https://img.shields.io/badge/NUSE_NAACL-1-blue)](https://github.com/wutong8023/Awesome_Information_Extraction/blob/master/IE4all/venue/README.md#nuse-naacl)
-- [![](https://img.shields.io/badge/arXiv-11-blue)](https://github.com/wutong8023/Awesome_Information_Extraction/blob/master/IE4all/venue/README.md#arxiv)
+- [![](https://img.shields.io/badge/arXiv-12-blue)](https://github.com/wutong8023/Awesome_Information_Extraction/blob/master/IE4all/venue/README.md#arxiv)
 ## Hyperlink 
 - [[Overview]](https://github.com/wutong8023/Awesome_Information_Extraction/blob/master/README.md) -- [Homepage](https://github.com/wutong8023/Awesome_Information_Extraction/blob/master/README.md)
 - [[NLP]](https://github.com/wutong8023/Awesome_Information_Extraction/blob/master/IE4nlp/./)  [[CV]](https://github.com/wutong8023/Awesome_Information_Extraction/blob/master/IE4cv/./) -- [Summary](https://github.com/wutong8023/Awesome_Information_Extraction/blob/master/IE4all/./)
@@ -750,6 +750,15 @@ Muhao Chen* [[bib]](https://github.com/wutong8023/Awesome_Information_Extraction
 ```</details><details><summary><img src=https://github.com/wutong8023/Awesome_Information_Extraction/blob/master/scripts/svg/copy_icon.png height="20" align="bottom"></summary><pre>```shen2021corpusbased```
 - [![](https://img.shields.io/badge/CoRR-2021-blue)](https://arxiv.org/abs/2109.05182)<a href="https://scholar.google.com.hk/scholar?q=Speaker-Oriented+Latent+Structures+for+Dialogue-Based+Relation+Extraction"><img src="https://img.shields.io/badge/-blue.svg?&logo=google-scholar&logoColor=white" height="18" align="bottom"></a> [**Speaker-Oriented Latent Structures for Dialogue-Based Relation Extraction**](https://arxiv.org/abs/2109.05182) , <br> by *Guoshun Nan, Guoqing Luo, Sicong Leng, Yao Xiao and Wei Lu* [[bib]](https://github.com/wutong8023/Awesome_Information_Extraction/blob/master/./bibtex.bib#L1859-L1866) ```EMNLP 2021
 ```</details><details><summary><img src=https://github.com/wutong8023/Awesome_Information_Extraction/blob/master/scripts/svg/copy_icon.png height="20" align="bottom"></summary><pre>```nan2021speakeroriented```
+- [![](https://img.shields.io/badge/CoRR-2021-blue)](https://arxiv.org/abs/2108.10604)<a href="https://scholar.google.com.hk/scholar?q=Prompt-Learning+for+Fine-Grained+Entity+Typing"><img src="https://img.shields.io/badge/-blue.svg?&logo=google-scholar&logoColor=white" height="18" align="bottom"></a> [**Prompt-Learning for Fine-Grained Entity Typing**](https://arxiv.org/abs/2108.10604) , <br> by *Ning Ding and
+Yulin Chen and
+Xu Han and
+Guangwei Xu and
+Pengjun Xie and
+Hai{-}Tao Zheng and
+Zhiyuan Liu and
+Juanzi Li and
+Hong{-}Gee Kim* [[bib]](https://github.com/wutong8023/Awesome_Information_Extraction/blob/master/./bibtex.bib#L1869-L1884) </details><details><summary><img src=https://github.com/wutong8023/Awesome_Information_Extraction/blob/master/scripts/svg/copy_icon.png height="20" align="bottom"></summary><pre>```abs-2108-10604```
 - [![](https://img.shields.io/badge/CoRR-2020-blue)](https://arxiv.org/abs/2008.12283)<a href="https://scholar.google.com.hk/scholar?q=Entity+and+Evidence+Guided+Relation+Extraction+for+DocRED"><img src="https://img.shields.io/badge/-blue.svg?&logo=google-scholar&logoColor=white" height="18" align="bottom"></a> [**Entity and Evidence Guided Relation Extraction for DocRED**](https://arxiv.org/abs/2008.12283) , <br> by *Kevin Huang and
 Guangtao Wang and
 Tengyu Ma and
