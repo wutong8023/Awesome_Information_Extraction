@@ -171,7 +171,7 @@ plot_content(index=index, keys=["year"], dir_path=dir_path, disc=disc, list_type
 # 3 application
 list_type = [[app] for app in fined_taxonomy["Application"]]
 index = 3
-disc = "This page categorizes the literature by the **Continual Learning Application**"
+disc = "This page categorizes the literature by the **Information Extraction Application**"
 plot_content(index=index, keys=["keywords"], dir_path=dir_path, disc=disc, list_type=list_type, sub_dirs=sub_dirs,
              mapping_name=mapping_name)
 
@@ -190,14 +190,14 @@ for key in fined_taxonomy["Approach"]:
     else:
         list_type.append([key])
 index = 5
-disc = "This page categorizes the literature by the **Continual Learning Approach**"
+disc = "This page categorizes the literature by the **Information Extraction Approach**"
 plot_content(index=index, keys=["keywords"], dir_path=dir_path, disc=disc, list_type=list_type, sub_dirs=sub_dirs,
              mapping_name=mapping_name)
 
 # 6 setting
 list_type = [[setting] for setting in fined_taxonomy["Setting"]]
 index = 6
-disc = "This page categorizes the literature by the **Continual Learning Setting**"
+disc = "This page categorizes the literature by the **Information Extraction Setting**"
 plot_content(index=index, keys=["keywords"], dir_path=dir_path, disc=disc, list_type=list_type, sub_dirs=sub_dirs,
              mapping_name=mapping_name)
 

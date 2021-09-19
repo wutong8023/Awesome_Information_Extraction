@@ -6,7 +6,7 @@ The automation script of this repo is powered by [Auto-Bibfile](https://github.c
 
 You can directly use our bibtex.bib in overleaf with this [link](https://www.overleaf.com/read/rgscdxhxbwhp).
 
-This page categorizes the literature by the **Continual Learning Approach**, filtered by CV area.
+This page categorizes the literature by the **Information Extraction Approach**, filtered by CV area.
 
 ## Outline 
 - [![](https://img.shields.io/badge/Hyperlink-blue)](https://github.com/wutong8023/Awesome_Information_Extraction/blob/master/IE4cv/approach/README.md#hyperlink)
