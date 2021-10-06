@@ -38,7 +38,7 @@ Jiao Sun and
 Julia Baylon and
 Qiang Ning and
 Dan Roth and
-Nanyun Peng* [[bib]](https://github.com/wutong8023/Awesome_Information_Extraction/blob/master/./bibtex.bib#L1798-L1815) ```EMNLP 2021, A QA dataset for event relation reasoning.
+Nanyun Peng* [[bib]](https://github.com/wutong8023/Awesome_Information_Extraction/blob/master/./bibtex.bib#L1789-L1806) ```EMNLP 2021, A QA dataset for event relation reasoning.
 ```</details><details><summary><img src=https://github.com/wutong8023/Awesome_Information_Extraction/blob/master/scripts/svg/copy_icon.png height="20" align="bottom"></summary><pre>```abs-2104-08350```
 ## NYT
 

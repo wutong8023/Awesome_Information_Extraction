@@ -37,7 +37,7 @@ Jiao Sun and
 Julia Baylon and
 Qiang Ning and
 Dan Roth and
-Nanyun Peng* [[bib]](https://github.com/wutong8023/Awesome_Information_Extraction/blob/master/./bibtex.bib#L1798-L1815) ```EMNLP 2021, A QA dataset for event relation reasoning.
+Nanyun Peng* [[bib]](https://github.com/wutong8023/Awesome_Information_Extraction/blob/master/./bibtex.bib#L1789-L1806) ```EMNLP 2021, A QA dataset for event relation reasoning.
 ```</details><details><summary><img src=https://github.com/wutong8023/Awesome_Information_Extraction/blob/master/scripts/svg/copy_icon.png height="20" align="bottom"></summary><pre>```abs-2104-08350```
 - [![](https://img.shields.io/badge/ACL-2018-blue)](https://aclanthology.org/P18-1047/)<a href="https://scholar.google.com.hk/scholar?q=Extracting+Relational+Facts+by+an+End-to-End+Neural+Model+with+Copy+Mechanism"><img src="https://img.shields.io/badge/-blue.svg?&logo=google-scholar&logoColor=white" height="18" align="bottom"></a> [**Extracting Relational Facts by an End-to-End Neural Model with Copy
 Mechanism**](https://aclanthology.org/P18-1047/) , <br> by *Xiangrong Zeng and
