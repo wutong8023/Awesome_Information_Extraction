@@ -55,13 +55,22 @@ fined_taxonomy = {
                     "Other Application", ],
     
     # 5: Approach
-    "Approach": ["Rehearsal", "Meta-learning", "Other Approach"],
+    "Approach": [
+        "Rehearsal", 
+        "Meta-learning", 
+        "Other Approach"],
     
     # 6: Whether need memory
-    "Memory": ["w/ External Knowledge", "w/o External Knowledge"],
+    "Memory": [
+        "w/ External Knowledge", 
+        "w/o External Knowledge"
+        ],
     
     # 7: Setting
-    "Setting": ["Class Incremental", "N-way K-shot", "Other Setting"],
+    "Setting": [
+        "Class Incremental", 
+        "N-way K-shot", 
+        "Other Setting"],
     
     # 8: Research Question
     "RQs": {"Catastrophic Forgetting", "Order Sensitivity", "Few-shot Adaptation", "Others RQs"},
