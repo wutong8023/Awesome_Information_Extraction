@@ -38,13 +38,13 @@ Jiao Sun and
 Julia Baylon and
 Qiang Ning and
 Dan Roth and
-Nanyun Peng* [[bib]](https://github.com/wutong8023/Awesome_Information_Extraction/blob/master/./bibtex.bib#L1804-L1821) ```EMNLP 2021, A QA dataset for event relation reasoning.
+Nanyun Peng* [[bib]](https://github.com/wutong8023/Awesome_Information_Extraction/blob/master/./bibtex.bib#L1820-L1837) ```EMNLP 2021, A QA dataset for event relation reasoning.
 ```</details><details><summary><img src=https://github.com/wutong8023/Awesome_Information_Extraction/blob/master/scripts/svg/copy_icon.png height="20" align="bottom"></summary><pre>```abs-2104-08350```
 ## NYT
 
 - [![](https://img.shields.io/badge/ECML-2010-blue)](https://doi.org/10.1007/978-3-642-15939-8\_10)<a href="https://scholar.google.com.hk/scholar?q=Modeling+Relations+and+Their+Mentions+without+Labeled+Text"><img src="https://img.shields.io/badge/-blue.svg?&logo=google-scholar&logoColor=white" height="18" align="bottom"></a> [**Modeling Relations and Their Mentions without Labeled Text**](https://doi.org/10.1007/978-3-642-15939-8\_10) , <br> by *Sebastian Riedel and
 Limin Yao and
-Andrew McCallum* [[bib]](https://github.com/wutong8023/Awesome_Information_Extraction/blob/master/./bibtex.bib#L362-L375) </details><details><summary><img src=https://github.com/wutong8023/Awesome_Information_Extraction/blob/master/scripts/svg/copy_icon.png height="20" align="bottom"></summary><pre>```RiedelYM10```
+Andrew McCallum* [[bib]](https://github.com/wutong8023/Awesome_Information_Extraction/blob/master/./bibtex.bib#L378-L391) </details><details><summary><img src=https://github.com/wutong8023/Awesome_Information_Extraction/blob/master/scripts/svg/copy_icon.png height="20" align="bottom"></summary><pre>```RiedelYM10```
 ## WebNLG
 
 - [![](https://img.shields.io/badge/ACL-2018-blue)](https://aclanthology.org/P18-1047/)<a href="https://scholar.google.com.hk/scholar?q=Extracting+Relational+Facts+by+an+End-to-End+Neural+Model+with+Copy+Mechanism"><img src="https://img.shields.io/badge/-blue.svg?&logo=google-scholar&logoColor=white" height="18" align="bottom"></a> [**Extracting Relational Facts by an End-to-End Neural Model with Copy
@@ -52,8 +52,8 @@ Mechanism**](https://aclanthology.org/P18-1047/) , <br> by *Xiangrong Zeng and
 Daojian Zeng and
 Shizhu He and
 Kang Liu and
-Jun Zhao* [[bib]](https://github.com/wutong8023/Awesome_Information_Extraction/blob/master/./bibtex.bib#L377-L393) </details><details><summary><img src=https://github.com/wutong8023/Awesome_Information_Extraction/blob/master/scripts/svg/copy_icon.png height="20" align="bottom"></summary><pre>```LiuZZHZ18```
+Jun Zhao* [[bib]](https://github.com/wutong8023/Awesome_Information_Extraction/blob/master/./bibtex.bib#L393-L409) </details><details><summary><img src=https://github.com/wutong8023/Awesome_Information_Extraction/blob/master/scripts/svg/copy_icon.png height="20" align="bottom"></summary><pre>```LiuZZHZ18```
 - [![](https://img.shields.io/badge/ACL-2017-blue)](https://doi.org/10.18653/v1/P17-1017)<a href="https://scholar.google.com.hk/scholar?q=Creating+Training+Corpora+for+NLG+Micro-Planners"><img src="https://img.shields.io/badge/-blue.svg?&logo=google-scholar&logoColor=white" height="18" align="bottom"></a> [**Creating Training Corpora for NLG Micro-Planners**](https://doi.org/10.18653/v1/P17-1017) , <br> by *Claire Gardent and
 Anastasia Shimorina and
 Shashi Narayan and
-Laura Perez{-}Beltrachini* [[bib]](https://github.com/wutong8023/Awesome_Information_Extraction/blob/master/./bibtex.bib#L405-L419) </details><details><summary><img src=https://github.com/wutong8023/Awesome_Information_Extraction/blob/master/scripts/svg/copy_icon.png height="20" align="bottom"></summary><pre>```GardentSNP17```
+Laura Perez{-}Beltrachini* [[bib]](https://github.com/wutong8023/Awesome_Information_Extraction/blob/master/./bibtex.bib#L421-L435) </details><details><summary><img src=https://github.com/wutong8023/Awesome_Information_Extraction/blob/master/scripts/svg/copy_icon.png height="20" align="bottom"></summary><pre>```GardentSNP17```
