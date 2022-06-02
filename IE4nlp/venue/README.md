@@ -10,7 +10,6 @@ This page categorizes the literature by the **Published Venue**, filtered by NLP
 
 ## Outline 
 - [![](https://img.shields.io/badge/Hyperlink-blue)](https://github.com/wutong8023/Awesome_Information_Extraction/blob/master/IE4nlp/venue/README.md#hyperlink)
-- [![](https://img.shields.io/badge/arXiv-1-blue)](https://github.com/wutong8023/Awesome_Information_Extraction/blob/master/IE4nlp/venue/README.md#arxiv)
 ## Hyperlink 
 - [[Overview]](https://github.com/wutong8023/Awesome_Information_Extraction/blob/master/README.md) -- [Homepage](https://github.com/wutong8023/Awesome_Information_Extraction/blob/master/README.md)
 - [[NLP]](https://github.com/wutong8023/Awesome_Information_Extraction/blob/master/IE4nlp/./)  [[CV]](https://github.com/wutong8023/Awesome_Information_Extraction/blob/master/IE4cv/./) -- [Summary](https://github.com/wutong8023/Awesome_Information_Extraction/blob/master/IE4all/./)
@@ -26,8 +25,3 @@ This page categorizes the literature by the **Published Venue**, filtered by NLP
 - [[NLP]](https://github.com/wutong8023/Awesome_Information_Extraction/blob/master/IE4nlp/supervision)  [[CV]](https://github.com/wutong8023/Awesome_Information_Extraction/blob/master/IE4cv/supervision) -- [ Learning Paradigm](https://github.com/wutong8023/Awesome_Information_Extraction/blob/master/IE4all/supervision)
 - [[NLP]](https://github.com/wutong8023/Awesome_Information_Extraction/blob/master/IE4nlp/time)  [[CV]](https://github.com/wutong8023/Awesome_Information_Extraction/blob/master/IE4cv/time) -- [Published Time](https://github.com/wutong8023/Awesome_Information_Extraction/blob/master/IE4all/time)
 - [[NLP]](https://github.com/wutong8023/Awesome_Information_Extraction/blob/master/IE4nlp/venue)  [[CV]](https://github.com/wutong8023/Awesome_Information_Extraction/blob/master/IE4cv/venue) -- [Published Venue](https://github.com/wutong8023/Awesome_Information_Extraction/blob/master/IE4all/venue)
-
-## arXiv
-
-- [![](https://img.shields.io/badge/CoRR-2021-blue)](https://arxiv.org/abs/2109.04108)<a href="https://scholar.google.com.hk/scholar?q=MapRE:+An+Effective+Semantic+Mapping+Approach+for+Low-resource+Relation+Extraction"><img src="https://img.shields.io/badge/-blue.svg?&logo=google-scholar&logoColor=white" height="18" align="bottom"></a> [**MapRE: An Effective Semantic Mapping Approach for Low-resource Relation Extraction**](https://arxiv.org/abs/2109.04108) , <br> by *Manqing Dong, Chunguang Pan and Zhipeng Luo* [[bib]](https://github.com/wutong8023/Awesome_Information_Extraction/blob/master/./bibtex.bib#L2504-L2514) ```EMNLP 2021, proposing a label-aware method for low-resource relation extraction
-```</details><details><summary><img src=https://github.com/wutong8023/Awesome_Information_Extraction/blob/master/scripts/svg/copy_icon.png height="20" align="bottom"></summary><pre>```dong2021mapre```
