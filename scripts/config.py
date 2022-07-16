@@ -18,7 +18,7 @@ base_link = "https://github.com/{user_id}/{repo}/{branch}".format(user_id=user_i
 
 # user customized taxonomy
 fined_taxonomy = {
-    "Conference": ["ACL", "EMNLP", "NAACL", "COLING", "EACL", "AACL", "CoNLL", "ICML", "ICLR", "NeurIPS", "AISTATS", "ECML",
+    "Conference": ["ACL", "EMNLP", "NAACL", "COLING", "EACL", "AACL", "CoNLL", "ICML", "ICLR", "NeurIPS", "AISTATS", "ECML", "MM",
     "SIGIR",
     "KDD","ICDM", "CIKM",
     "AAAI", "IJCAI", "ECAI",
@@ -82,7 +82,10 @@ fined_taxonomy = {
     # 10: Dataset
     "Dataset": ["Fewrel", "SimpleQuestion", "Tacred",
                 "FewEvent", 
-                "NYT", "WebNLG", "ESTER",
+                "NYT", 
+                "CoNLL04",
+                "WebNLG", "ESTER",
+                "ReTACRED",
                 "Other Dataset"
                 ],
     

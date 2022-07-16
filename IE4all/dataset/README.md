@@ -10,8 +10,10 @@ This page categorizes the literature by the **Dataset**.
 
 ## Outline 
 - [![](https://img.shields.io/badge/Hyperlink-blue)](https://github.com/wutong8023/Awesome_Information_Extraction/blob/master/IE4all/dataset/README.md#hyperlink)
+- [![](https://img.shields.io/badge/CoNLL04-1-blue)](https://github.com/wutong8023/Awesome_Information_Extraction/blob/master/IE4all/dataset/README.md#conll04)
 - [![](https://img.shields.io/badge/ESTER-1-blue)](https://github.com/wutong8023/Awesome_Information_Extraction/blob/master/IE4all/dataset/README.md#ester)
 - [![](https://img.shields.io/badge/NYT-1-blue)](https://github.com/wutong8023/Awesome_Information_Extraction/blob/master/IE4all/dataset/README.md#nyt)
+- [![](https://img.shields.io/badge/ReTACRED-1-blue)](https://github.com/wutong8023/Awesome_Information_Extraction/blob/master/IE4all/dataset/README.md#retacred)
 - [![](https://img.shields.io/badge/WebNLG-2-blue)](https://github.com/wutong8023/Awesome_Information_Extraction/blob/master/IE4all/dataset/README.md#webnlg)
 ## Hyperlink 
 - [[Overview]](https://github.com/wutong8023/Awesome_Information_Extraction/blob/master/README.md) -- [Homepage](https://github.com/wutong8023/Awesome_Information_Extraction/blob/master/README.md)
@@ -29,6 +31,10 @@ This page categorizes the literature by the **Dataset**.
 - [[NLP]](https://github.com/wutong8023/Awesome_Information_Extraction/blob/master/IE4nlp/time)  [[CV]](https://github.com/wutong8023/Awesome_Information_Extraction/blob/master/IE4cv/time) -- [Published Time](https://github.com/wutong8023/Awesome_Information_Extraction/blob/master/IE4all/time)
 - [[NLP]](https://github.com/wutong8023/Awesome_Information_Extraction/blob/master/IE4nlp/venue)  [[CV]](https://github.com/wutong8023/Awesome_Information_Extraction/blob/master/IE4cv/venue) -- [Published Venue](https://github.com/wutong8023/Awesome_Information_Extraction/blob/master/IE4all/venue)
 
+## CoNLL04
+
+- [![](https://img.shields.io/badge/NAACL-2004-blue)](https://aclanthology.org/W04-2401)<a href="https://scholar.google.com.hk/scholar?q=A+Linear+Programming+Formulation+for+Global+Inference+in+Natural+Language+Tasks"><img src="https://img.shields.io/badge/-blue.svg?&logo=google-scholar&logoColor=white" height="18" align="bottom"></a> [**A Linear Programming Formulation for Global Inference in Natural Language Tasks**](https://aclanthology.org/W04-2401) , <br> by *Roth, Dan  and
+Yih, Wen-tau* [[bib]](https://github.com/wutong8023/Awesome_Information_Extraction/blob/master/./bibtex.bib#L286-L295) </details><details><summary><img src=https://github.com/wutong8023/Awesome_Information_Extraction/blob/master/scripts/svg/copy_icon.png height="20" align="bottom"></summary><pre>```roth-yih-2004-linear```
 ## ESTER
 
 - [![](https://img.shields.io/badge/CoRR-2021-blue)](https://arxiv.org/abs/2104.08350)<a href="https://scholar.google.com.hk/scholar?q=ESTER:+A+Machine+Reading+Comprehension+Dataset+for+Event+Semantic+Relation+Reasoning"><img src="https://img.shields.io/badge/-blue.svg?&logo=google-scholar&logoColor=white" height="18" align="bottom"></a> [**ESTER: A Machine Reading Comprehension Dataset for Event Semantic
@@ -38,13 +44,18 @@ Jiao Sun and
 Julia Baylon and
 Qiang Ning and
 Dan Roth and
-Nanyun Peng* [[bib]](https://github.com/wutong8023/Awesome_Information_Extraction/blob/master/./bibtex.bib#L2386-L2403) ```EMNLP 2021, A QA dataset for event relation reasoning.
+Nanyun Peng* [[bib]](https://github.com/wutong8023/Awesome_Information_Extraction/blob/master/./bibtex.bib#L2711-L2728) ```EMNLP 2021, A QA dataset for event relation reasoning.
 ```</details><details><summary><img src=https://github.com/wutong8023/Awesome_Information_Extraction/blob/master/scripts/svg/copy_icon.png height="20" align="bottom"></summary><pre>```abs-2104-08350```
 ## NYT
 
 - [![](https://img.shields.io/badge/ECML-2010-blue)](https://doi.org/10.1007/978-3-642-15939-8\_10)<a href="https://scholar.google.com.hk/scholar?q=Modeling+Relations+and+Their+Mentions+without+Labeled+Text"><img src="https://img.shields.io/badge/-blue.svg?&logo=google-scholar&logoColor=white" height="18" align="bottom"></a> [**Modeling Relations and Their Mentions without Labeled Text**](https://doi.org/10.1007/978-3-642-15939-8\_10) , <br> by *Sebastian Riedel and
 Limin Yao and
-Andrew McCallum* [[bib]](https://github.com/wutong8023/Awesome_Information_Extraction/blob/master/./bibtex.bib#L944-L957) </details><details><summary><img src=https://github.com/wutong8023/Awesome_Information_Extraction/blob/master/scripts/svg/copy_icon.png height="20" align="bottom"></summary><pre>```RiedelYM10```
+Andrew McCallum* [[bib]](https://github.com/wutong8023/Awesome_Information_Extraction/blob/master/./bibtex.bib#L1269-L1282) </details><details><summary><img src=https://github.com/wutong8023/Awesome_Information_Extraction/blob/master/scripts/svg/copy_icon.png height="20" align="bottom"></summary><pre>```RiedelYM10```
+## ReTACRED
+
+- [![](https://img.shields.io/badge/AAAI-2021-blue)](https://ojs.aaai.org/index.php/AAAI/article/view/17631)<a href="https://scholar.google.com.hk/scholar?q=Re-TACRED:+Addressing+Shortcomings+of+the+TACRED+Dataset"><img src="https://img.shields.io/badge/-blue.svg?&logo=google-scholar&logoColor=white" height="18" align="bottom"></a> [**Re-TACRED: Addressing Shortcomings of the TACRED Dataset**](https://ojs.aaai.org/index.php/AAAI/article/view/17631) , <br> by *George Stoica and
+Emmanouil Antonios Platanios and
+Barnab{\'{a}}s P{\'{o}}czos* [[bib]](https://github.com/wutong8023/Awesome_Information_Extraction/blob/master/./bibtex.bib#L297-L308) </details><details><summary><img src=https://github.com/wutong8023/Awesome_Information_Extraction/blob/master/scripts/svg/copy_icon.png height="20" align="bottom"></summary><pre>```StoicaPP21```
 ## WebNLG
 
 - [![](https://img.shields.io/badge/ACL-2018-blue)](https://aclanthology.org/P18-1047/)<a href="https://scholar.google.com.hk/scholar?q=Extracting+Relational+Facts+by+an+End-to-End+Neural+Model+with+Copy+Mechanism"><img src="https://img.shields.io/badge/-blue.svg?&logo=google-scholar&logoColor=white" height="18" align="bottom"></a> [**Extracting Relational Facts by an End-to-End Neural Model with Copy
@@ -52,8 +63,8 @@ Mechanism**](https://aclanthology.org/P18-1047/) , <br> by *Xiangrong Zeng and
 Daojian Zeng and
 Shizhu He and
 Kang Liu and
-Jun Zhao* [[bib]](https://github.com/wutong8023/Awesome_Information_Extraction/blob/master/./bibtex.bib#L959-L975) </details><details><summary><img src=https://github.com/wutong8023/Awesome_Information_Extraction/blob/master/scripts/svg/copy_icon.png height="20" align="bottom"></summary><pre>```LiuZZHZ18```
+Jun Zhao* [[bib]](https://github.com/wutong8023/Awesome_Information_Extraction/blob/master/./bibtex.bib#L1284-L1300) </details><details><summary><img src=https://github.com/wutong8023/Awesome_Information_Extraction/blob/master/scripts/svg/copy_icon.png height="20" align="bottom"></summary><pre>```LiuZZHZ18```
 - [![](https://img.shields.io/badge/ACL-2017-blue)](https://doi.org/10.18653/v1/P17-1017)<a href="https://scholar.google.com.hk/scholar?q=Creating+Training+Corpora+for+NLG+Micro-Planners"><img src="https://img.shields.io/badge/-blue.svg?&logo=google-scholar&logoColor=white" height="18" align="bottom"></a> [**Creating Training Corpora for NLG Micro-Planners**](https://doi.org/10.18653/v1/P17-1017) , <br> by *Claire Gardent and
 Anastasia Shimorina and
 Shashi Narayan and
-Laura Perez{-}Beltrachini* [[bib]](https://github.com/wutong8023/Awesome_Information_Extraction/blob/master/./bibtex.bib#L987-L1001) </details><details><summary><img src=https://github.com/wutong8023/Awesome_Information_Extraction/blob/master/scripts/svg/copy_icon.png height="20" align="bottom"></summary><pre>```GardentSNP17```
+Laura Perez{-}Beltrachini* [[bib]](https://github.com/wutong8023/Awesome_Information_Extraction/blob/master/./bibtex.bib#L1312-L1326) </details><details><summary><img src=https://github.com/wutong8023/Awesome_Information_Extraction/blob/master/scripts/svg/copy_icon.png height="20" align="bottom"></summary><pre>```GardentSNP17```
