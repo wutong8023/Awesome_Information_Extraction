@@ -76,7 +76,7 @@ fined_taxonomy = {
     "RQs": {"Catastrophic Forgetting", "Order Sensitivity", "Few-shot Adaptation", "Others RQs"},
     
     # 9: Backbone
-    "Backbone": ["BERTs", "Transformers", "Adapter", "RNNs", "CNNs", "GNNs", "Attentions", "Capsule Net",
+    "Backbone": ["BERTs", "Transformers", "Adapter", "Prompt", "RNNs", "CNNs", "GNNs", "Attentions", "Capsule Net",
                  "Probabilistic Graphical Model", "VAEs", "Other Structure"],
     
     # 10: Dataset
